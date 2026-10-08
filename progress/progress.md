@@ -3,9 +3,9 @@
 ## Current Status
 
 - **Phase:** Phase 0 — Foundations
-- **Current Day:** Day 1
+- **Current Day:** Day 2
 - **Status:** On Track
-- **Primary objective:** Establish and validate the Python/ML development environment before beginning Python/data foundations.
+- **Primary objective:** Master core Python syntax, collections, and control flow through hands-on exercises and a capstone project.
 
 ## Day 1 — Environment and Setup
 
@@ -72,26 +72,45 @@ Day 1 is an environment/setup milestone rather than a Python-learning milestone.
 
 The important outcome is that the development environment can reliably support the upcoming Python, NumPy, Pandas, statistics, and machine-learning work.
 
+## Day 2 — Python Basics & CLI Expense Calculator
+
+### Planned
+
+1. Cover core Python syntax: variables, data types (`int`, `float`), and string formatting.
+2. Master collections: lists `[]`, dictionaries `{}`, tuples `()`, and sets `{}`.
+3. Implement control flow: conditionals (`if`/`elif`/`else`) and loops (`for`/`while`).
+4. Build a capstone CLI Expense Calculator.
+
+### Completed
+
+- Practiced variable assignment, numeric operations, and f-string formatting.
+- Structured complex records using dictionaries nested within lists.
+- Used sets to isolate unique elements and tuples for immutable values.
+- Built `for` loops to iterate over collections and `while` loops to drive an interactive terminal menu.
+- Built and verified a CLI Expense Calculator enabling users to add expenses, display logged entries, and compute dynamic total spending.
+
+### Evidence
+
+All concepts and code implementations are recorded in:
+
+`00-foundations/python/day-02-python-basics.ipynb`
 
 ### Repository Updates
 
-Expected Day 1 files:
-
 ```text
-README.md
-requirements.txt
-00-foundations/python/day-01-environment-validation.ipynb
+00-foundations/python/day-02-python-basics.ipynb
 progress/progress.md
+README.md
 ```
 
 ### Suggested Commit
 
 ```text
-feat: establish python ml environment
+feat: complete day 02 python basics and cli expense calculator
 ```
 
 ### Next
 
 After the validation evidence is complete, proceed to Day 2.
 
-Day 2 should begin the actual Python/data foundations rather than repeating environment setup.
+Day 3 should involve Python functions
