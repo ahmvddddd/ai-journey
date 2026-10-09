@@ -1,116 +1,54 @@
-# AI/ML Engineering Journey — Progress
+# AI/ML Engineering Journey — Progress Dashboard
 
 ## Current Status
 
-- **Phase:** Phase 0 — Foundations
-- **Current Day:** Day 2
-- **Status:** On Track
-- **Primary objective:** Master core Python syntax, collections, and control flow through hands-on exercises and a capstone project.
+* **Current Day:** Day 3 completed; Day 4 next
+* **Current Phase:** Phase 0 — Foundations
+* **Overall Status:** In Progress
+* **Primary Focus:** Python fundamentals and data-processing patterns
+* **Weekly Target:** 17 focused hours
+* **Current Repository:** `ai-journey`
 
-## Day 1 — Environment and Setup
+## Current Priorities
 
-### Planned
+1. Verify and finalize the Day 1 environment-validation evidence.
+2. Review and preserve the completed Day 2 and Day 3 notebooks.
+3. Complete Day 4 according to the roadmap.
+4. Record remaining gaps before advancing to the next day.
 
-1. Establish a working Python environment.
-2. Use a project-local virtual environment.
-3. Install the core packages required for the early AI/ML journey.
-4. Verify Python, pip, scientific/ML imports, and JupyterLab.
-5. Establish the initial repository structure and `.gitignore`.
-6. Record evidence of the completed setup.
-7. Finalize Day 1 documentation before moving to Day 2.
+## Daily Progress
 
-### Completed
+| Day | Topic                                         | Status                                                   | Evidence                                                                               |
+| --- | --------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 01  | Environment and setup                         | Completed, pending final evidence verification           | [Environment validation](../00-foundations/python/day-01-environment-validation.ipynb) |
+| 02  | Python basics and CLI expense calculator      | Completed                                                | [Day 2 notebook](../00-foundations/python/day-02-python-basics.ipynb)                  |
+| 03  | Functions, comprehensions and data processing | Reported complete; verify against the day's requirements | [Day 3 notebook](../00-foundations/python/day-03-python-basics.ipynb)                  |
+| 04  | Product/inventory domain model                | Next                                                     | To be created                                                                          |
 
-- Python 3.13.16 installed and selected for the project environment.
-- A fresh project-local `.venv` was created.
-- The previous `.venv313` environment was replaced with the standard `.venv`.
-- The environment was verified to use the intended Python interpreter.
-- Core packages installed successfully:
-  - NumPy
-  - Pandas
-  - SciPy
-  - scikit-learn
-  - Matplotlib
-  - Seaborn
-  - JupyterLab and its dependencies
-- Initial repository structure created.
-- `.gitignore` established with Python/virtual-environment and development exclusions.
+## Milestones
 
-### Environment Issue Resolved
+* [ ] Day 7 — Baseline assessment
+* [ ] Day 35 — Python/Data assessment
+* [ ] Day 70 — Machine Learning assessment
+* [ ] Day 105 — PyTorch assessment
+* [ ] Day 147 — RAG assessment
+* [ ] Day 182 — AI Engineering assessment
+* [ ] Day 217 — MLOps assessment
+* [ ] Day 245 — Capstone assessment
+* [ ] Day 252 — Final assessment
 
-The original Python 3.14 environment encountered native SciPy compatibility/build issues on Windows. The environment was rebuilt using Python 3.13.16, after which the required scientific/ML packages could be installed in a clean project-local virtual environment.
+## Current Gaps / Follow-up
 
-### Evidence
+* Confirm that Day 1 package imports and Jupyter availability were successfully tested.
+* Verify Day 3 work against the planned objectives.
+* Confirm that Day 4 follows the established roadmap and prerequisite sequence.
 
-The final environment validation should be recorded in:
+## Documentation Rules
 
-`00-foundations/python/day-01-environment-validation.ipynb`
-
-The notebook validates:
-
-- Python interpreter/version.
-- pip availability.
-- NumPy import and basic operation.
-- Pandas import and basic DataFrame operation.
-- SciPy import.
-- scikit-learn import.
-- Matplotlib import.
-- Seaborn import.
-- Jupyter installation/version availability.
-
-### Documentation State
-
-- Root `README.md`: established.
-- `requirements.txt`: established with the core Day 1 environment dependencies.
-- Day 1 validation notebook: established.
-- `progress/progress.md`: updated with Day 1 status and evidence.
-- Separate Day 1 Markdown report: intentionally not created; the handoff recommends keeping daily work in the relevant learning/project folder and using `progress/progress.md` for progress tracking.
-
-### Understanding Check
-
-Day 1 is an environment/setup milestone rather than a Python-learning milestone.
-
-The important outcome is that the development environment can reliably support the upcoming Python, NumPy, Pandas, statistics, and machine-learning work.
-
-## Day 2 — Python Basics & CLI Expense Calculator
-
-### Planned
-
-1. Cover core Python syntax: variables, data types (`int`, `float`), and string formatting.
-2. Master collections: lists `[]`, dictionaries `{}`, tuples `()`, and sets `{}`.
-3. Implement control flow: conditionals (`if`/`elif`/`else`) and loops (`for`/`while`).
-4. Build a capstone CLI Expense Calculator.
-
-### Completed
-
-- Practiced variable assignment, numeric operations, and f-string formatting.
-- Structured complex records using dictionaries nested within lists.
-- Used sets to isolate unique elements and tuples for immutable values.
-- Built `for` loops to iterate over collections and `while` loops to drive an interactive terminal menu.
-- Built and verified a CLI Expense Calculator enabling users to add expenses, display logged entries, and compute dynamic total spending.
-
-### Evidence
-
-All concepts and code implementations are recorded in:
-
-`00-foundations/python/day-02-python-basics.ipynb`
-
-### Repository Updates
-
-```text
-00-foundations/python/day-02-python-basics.ipynb
-progress/progress.md
-README.md
-```
-
-### Suggested Commit
-
-```text
-feat: complete day 02 python basics and cli expense calculator
-```
-
-### Next
-
-After the validation evidence is complete, proceed to Day 2.
-
-Day 3 should involve Python functions
+* Keep this file as a concise dashboard.
+* Store daily summaries in `progress/daily/`.
+* Store weekly reviews in `progress/weekly-reviews/`.
+* Store formal milestone results in `assessments/`.
+* Keep code, notebooks, experiments and project documentation in their relevant learning/project folders.
+* Link to evidence instead of copying large amounts of content.
+* Update the current status and daily index whenever a session is reviewed.
