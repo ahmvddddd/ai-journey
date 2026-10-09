@@ -2,28 +2,27 @@
 
 ## Current Status
 
-* **Current Day:** Day 3 completed; Day 4 next
+* **Current Day:** Day 4 completed; Day 5 next
 * **Current Phase:** Phase 0 — Foundations
-* **Overall Status:** In Progress
-* **Primary Focus:** Python fundamentals and data-processing patterns
+* **Overall Status:** On Track
+* **Primary Focus:** Python OOP & domain modeling
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Verify and finalize the Day 1 environment-validation evidence.
-2. Review and preserve the completed Day 2 and Day 3 notebooks.
-3. Complete Day 4 according to the roadmap.
-4. Record remaining gaps before advancing to the next day.
+1. Finalize and review the Day 4 OOP notebook.
+2. Prepare for Phase 0 numerical computing fundamentals (NumPy).
+3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
 
-| Day | Topic                                         | Status                                                   | Evidence                                                                               |
-| --- | --------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 01  | Environment and setup                         | Completed, pending final evidence verification           | [Environment validation](../00-foundations/python/day-01-environment-validation.ipynb) |
-| 02  | Python basics and CLI expense calculator      | Completed                                                | [Day 2 notebook](../00-foundations/python/day-02-python-basics.ipynb)                  |
-| 03  | Functions, comprehensions and data processing | Reported complete; verify against the day's requirements | [Day 3 notebook](../00-foundations/python/day-03-python-basics.ipynb)                  |
-| 04  | Product/inventory domain model                | Next                                                     | To be created                                                                          |
+| Day | Topic                                         | Status    | Evidence                                                                                |
+| --- | --------------------------------------------- | --------- | --------------------------------------------------------------------------------------- |
+| 01  | Environment and setup                         | Completed | [Environment validation](../00-foundations/python/day-01-environment-validation.ipynb) |
+| 02  | Python basics and CLI expense calculator      | Completed | [Day 2 notebook](../00-foundations/python/day-02-python-basics.ipynb)                   |
+| 03  | Functions, comprehensions and data processing | Completed | [Day 3 notebook](../00-foundations/python/day-03-python-basics.ipynb)                   |
+| 04  | Product/inventory domain model                | Completed | [Day 4 notebook](../00-foundations/python/day-04-python-oop.ipynb)                      |
 
 ## Milestones
 
@@ -39,9 +38,8 @@
 
 ## Current Gaps / Follow-up
 
-* Confirm that Day 1 package imports and Jupyter availability were successfully tested.
-* Verify Day 3 work against the planned objectives.
-* Confirm that Day 4 follows the established roadmap and prerequisite sequence.
+* Confirm all daily notebooks execute sequentially without runtime errors.
+* Maintain consistency across local Git commits and daily log entries.
 
 ## Documentation Rules
 
