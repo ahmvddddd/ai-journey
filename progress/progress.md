@@ -2,16 +2,16 @@
 
 ## Current Status
 
-* **Current Day:** Day 5 completed; Day 6 next
+* **Current Day:** Day 6 completed;
 * **Current Phase:** Phase 0 — Foundations
 * **Overall Status:** On Track
-* **Primary Focus:** Python engineering best practices & numerical computing setup
+* **Primary Focus:** Baseline Assessment & Numerical Computing Setup
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Finalize Day 5 engineering documentation and scripts.
+1. Archive Day 6 baseline test code and test suite.
 2. Prepare for Phase 0 numerical computing fundamentals (NumPy).
 3. Maintain clean daily progress logs under `progress/daily/`.
 
@@ -23,7 +23,8 @@
 | 02 | Python basics and CLI expense calculator | Completed | [Day 2 notebook](../00-foundations/python/day-02-python-basics.ipynb) | 
 | 03 | Functions, comprehensions and data processing | Completed | [Day 3 notebook](../00-foundations/python/day-03-python-functions.ipynb) | 
 | 04 | Product/inventory domain model | Completed | [Day 4 notebook](../00-foundations/python/day-04-python-oop.ipynb) | 
-| 05 | Python engineering best practices | Completed | [Day 5 module scripts](../00-foundations/python/) |
+| 05 | Python engineering best practices | Completed | [Day 5 module scripts](../00-foundations/python/) | 
+| 06 | Phase 0 Baseline Test | Completed | [Dataset Processor & Tests](../dataset-processor/) | 
 
 ## Milestones
 
