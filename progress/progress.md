@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 8 completed; Day 9 ready
+* **Current Day:** Day 9 completed; Day 10 ready
 * **Current Phase:** Phase 0 — Foundations / Week 2: Python for Data Work
 * **Overall Status:** On Track
 * **Primary Focus:** Numerical Computing with NumPy & Vectorization
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 8 NumPy notes and code snippets.
-2. Prepare for Day 9 advanced indexing, boolean masking, and conditional data filtering.
+1. Archive Day 9 NumPy advanced indexing and masking notes and code snippets.
+2. Prepare for Day 10 array operations, sorting, and structured arrays.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -27,6 +27,7 @@
 | 06 | Phase 0 Baseline Test | Completed | [Dataset Processor & Tests](../dataset-processor/) | 
 | 07 | Rest & Reflection | Completed | [Weekly Review Report](../progress/weekly-reviews/week-01-report.md) | 
 | 08 | NumPy Fundamentals & Vectorization | Completed | [Day 8 Progress Log](../progress/daily/day-008.md) | 
+| 09 | Advanced Indexing & Boolean Masking | Completed | [Day 9 Progress Log](../progress/daily/day-009.md) |
 
 ## Milestones
 
