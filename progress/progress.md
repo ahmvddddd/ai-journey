@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 6 completed;
-* **Current Phase:** Phase 0 — Foundations
+* **Current Day:** Day 8 completed; Day 9 ready
+* **Current Phase:** Phase 0 — Foundations / Week 2: Python for Data Work
 * **Overall Status:** On Track
-* **Primary Focus:** Baseline Assessment & Numerical Computing Setup
+* **Primary Focus:** Numerical Computing with NumPy & Vectorization
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 6 baseline test code and test suite.
-2. Prepare for Phase 0 numerical computing fundamentals (NumPy).
+1. Archive Day 8 NumPy notes and code snippets.
+2. Prepare for Day 9 advanced indexing, boolean masking, and conditional data filtering.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -25,10 +25,12 @@
 | 04 | Product/inventory domain model | Completed | [Day 4 notebook](../00-foundations/python/day-04-python-oop.ipynb) | 
 | 05 | Python engineering best practices | Completed | [Day 5 module scripts](../00-foundations/python/) | 
 | 06 | Phase 0 Baseline Test | Completed | [Dataset Processor & Tests](../dataset-processor/) | 
+| 07 | Rest & Reflection | Completed | [Weekly Review Report](../progress/weekly-reviews/week-01-report.md) | 
+| 08 | NumPy Fundamentals & Vectorization | Completed | [Day 8 Progress Log](../progress/daily/day-008.md) | 
 
 ## Milestones
 
-* [ ] Day 7 — Baseline assessment
+* [x] Day 7 — Baseline assessment
 * [ ] Day 35 — Python/Data assessment
 * [ ] Day 70 — Machine Learning assessment
 * [ ] Day 105 — PyTorch assessment
