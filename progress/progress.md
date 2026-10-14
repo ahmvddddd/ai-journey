@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 10 completed; Day 11 ready
+* **Current Day:** Day 11 completed; Day 12 ready
 * **Current Phase:** Phase 0 — Foundations / Week 2: Python for Data Work
 * **Overall Status:** On Track
 * **Primary Focus:** Numerical Computing with NumPy & Vectorization
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 10 NumPy operations, sorting, and structured array notes.
-2. Prepare for Day 11 matrix operations (`np.dot`, `@`) and linear algebra (`np.linalg`).
+1. Archive Day 11 linear algebra and matrix operation notes.
+2. Prepare for Day 12 NumPy mini-project.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -28,7 +28,8 @@
 | 07 | Rest & Reflection | Completed | [Weekly Review Report](../progress/weekly-reviews/week-01-report.md) | 
 | 08 | NumPy Fundamentals & Vectorization | Completed | [Day 8 Progress Log](../progress/daily/day-008.md) | 
 | 09 | Advanced Indexing & Boolean Masking | Completed | [Day 9 Progress Log](../progress/daily/day-009.md) | 
-| 10 | Array Operations, Sorting & Structured Arrays | Completed | [Day 10 Progress Log](../progress/daily/day-010.md) |
+| 10 | Array Operations, Sorting & Structured Arrays | Completed | [Day 10 Progress Log](../progress/daily/day-010.md) | 
+| 11 | Matrix Operations & Linear Algebra Basics | Completed | [Day 11 Progress Log](../progress/daily/day-011.md) | 
 
 ## Milestones
 
