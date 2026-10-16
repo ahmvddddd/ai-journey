@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 12 completed; Day 13 ready
+* **Current Day:** Day 13 completed; Day 14 ready
 * **Current Phase:** Phase 0 — Foundations / Week 2: Python for Data Work
 * **Overall Status:** On Track
 * **Primary Focus:** Numerical Computing with NumPy & Vectorization
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 12 Sensor Telemetry Processor mini-project notes.
-2. Prepare for Day 13 Week 2 review and comprehensive assessment.
+1. Finalize Week 2 Review & Assessment log in `progress/daily/day-013.md`.
+2. Prepare for Week 3: Tabular Data Analysis with Pandas.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -31,6 +31,7 @@
 | 10 | Array Operations, Sorting & Structured Arrays | Completed | [Day 10 Progress Log](../progress/daily/day-010.md) | 
 | 11 | Matrix Operations & Linear Algebra Basics | Completed | [Day 11 Progress Log](../progress/daily/day-011.md) | 
 | 12 | NumPy Mini-Project: Telemetry Processor | Completed | [Day 12 Progress Log](../progress/daily/day-012.md) | 
+| 13 | Week 2 Review & Assessment | Completed | [Day 13 Progress Log](../progress/daily/day-013.md) | 
 
 ## Milestones
 
