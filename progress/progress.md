@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 17 completed; Day 18 ready
+* **Current Day:** Day 18 completed; Day 19 ready
 * **Current Phase:** Phase 0 — Foundations / Week 3: Python for Data Work (Pandas)
 * **Overall Status:** On Track
 * **Primary Focus:** Tabular Data Analysis & DataFrame Manipulations
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 17 Advanced Filtering and Conditional Selection notes under `progress/daily/day-017.md`[cite: 12].
-2. Prepare for Day 18: Handling missing data (`isna()`, `fillna()`, `dropna()`) and string sanitization.
+1. Archive Day 18 Handling Missing Values notes under `progress/daily/day-018.md`[cite: 15].
+2. Prepare for Day 19: GroupBy operations, custom aggregations (`agg()`), and Split-Apply-Combine mechanics.
 3. Maintain clean daily progress logs under `progress/daily/`[cite: 14].
 
 ## Daily Progress
@@ -36,6 +36,7 @@
 | 15 | DataFrame Fundamentals & Labeled Structures | Completed | [Day 15 Progress Log](../progress/daily/day-015.md)[cite: 14] | 
 | 16 | Data Ingestion & I/O Optimization | Completed | [Day 16 Progress Log](../progress/daily/day-016.md)[cite: 13, 14] | 
 | 17 | Advanced Filtering & Conditional Selection | Completed | [Day 17 Progress Log](../progress/daily/day-017.md)[cite: 12] | 
+| 18 | Handling Missing Values | Completed | [Day 18 Progress Log](../progress/daily/day-018.md)[cite: 15] | 
 
 ## Milestones
 
