@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 19 completed; Day 20 ready
+* **Current Day:** Day 20 completed; Day 21 ready
 * **Current Phase:** Phase 0 — Foundations / Week 3: Python for Data Work (Pandas)
 * **Overall Status:** On Track
 * **Primary Focus:** Tabular Data Analysis & DataFrame Manipulations
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 19 Grouping & Aggregations notes under `progress/daily/day-019.md`[cite: 16].
-2. Prepare for Day 20: Merging, joining (`pd.merge()`, `pd.concat()`), and reshaping DataFrames (`pivot_table()`, `melt()`).
+1. Archive Day 20 Pandas Data Cleaning Pipeline mini-project notes under `progress/daily/day-020.md`[cite: 19].
+2. Prepare for Day 21: Week 3 Review and Assessment.
 3. Maintain clean daily progress logs under `progress/daily/`[cite: 14, 17].
 
 ## Daily Progress
@@ -38,6 +38,7 @@
 | 17 | Advanced Filtering & Conditional Selection | Completed | [Day 17 Progress Log](../progress/daily/day-017.md)[cite: 12, 17] | 
 | 18 | Handling Missing Values | Completed | [Day 18 Progress Log](../progress/daily/day-018.md)[cite: 15, 17, 18] | 
 | 19 | Grouping, Aggregation & Split-Apply-Combine | Completed | [Day 19 Progress Log](../progress/daily/day-019.md)[cite: 16] | 
+| 20 | Pandas Mini-Project: Data Cleaning Pipeline | Completed | [Day 20 Progress Log](../progress/daily/day-020.md)[cite: 19] | 
 
 ## Milestones
 
