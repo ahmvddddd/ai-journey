@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 23 completed; Day 24 ready
+* **Current Day:** Day 24 completed; Day 25 ready
 * **Current Phase:** Phase 0 — Foundations / Week 4: Statistics
 * **Overall Status:** On Track
-* **Primary Focus:** Descriptive Statistics & Measures of Dispersion
+* **Primary Focus:** Descriptive Statistics & Non-Parametric Dispersion
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 23 Statistics: Variance and Standard Deviation notes under `progress/daily/day-023.md`.
-2. Prepare for Day 24: Quantiles, Percentiles, Interquartile Range (IQR), and Boxplot analysis.
+1. Archive Day 24 Percentiles, Quartiles, and Quantiles notes under `progress/daily/day-024.md`.
+2. Prepare for Day 25: Probability foundations, sample spaces, and conditional probability.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -42,6 +42,7 @@
 | 21 | Rest & Reflection | Completed | [Week 3 Report](../progress/weekly-reviews/week-03-report.md) | 
 | 22 | Statistics: Mean, Median, Mode | Completed | [Day 22 Progress Log](../progress/daily/day-022.md) | 
 | 23 | Statistics: Variance & Standard Deviation | Completed | [Day 23 Progress Log](../progress/daily/day-023.md) | 
+| 24 | Statistics: Percentiles, Quartiles, IQR | Completed | [Day 24 Progress Log](../progress/daily/day-024.md) | 
 
 ## Milestones
 
