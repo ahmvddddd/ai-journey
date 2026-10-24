@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 25 completed; Day 26 ready
+* **Current Day:** Day 26 completed; Day 27 ready
 * **Current Phase:** Phase 0 — Foundations / Week 4: Statistics
 * **Overall Status:** On Track
-* **Primary Focus:** Probability Distributions & Asymmetry
+* **Primary Focus:** Bivariate Analysis & Correlation Metrics
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 25 Probability Distributions notes under `progress/daily/day-025.md`.
-2. Prepare for Day 26: Probability rules (Addition, Multiplication, and Bayes' Theorem).
+1. Archive Day 26 Bivariate Analysis and Correlation notes under `progress/daily/day-026.md`.
+2. Prepare for Day 27: Simple Linear Regression, Least Squares Estimation, and Residual Analysis.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -44,6 +44,7 @@
 | 23 | Statistics: Variance & Standard Deviation | Completed | [Day 23 Progress Log](../progress/daily/day-023.md) | 
 | 24 | Statistics: Percentiles, Quartiles, IQR | Completed | [Day 24 Progress Log](../progress/daily/day-024.md) | 
 | 25 | Statistics: Probability Distributions | Completed | [Day 25 Progress Log](../progress/daily/day-025.md) | 
+| 26 | Statistics: Bivariate Analysis & Correlation | Completed | [Day 26 Progress Log](../progress/daily/day-026.md) | 
 
 ## Milestones
 
