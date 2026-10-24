@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 24 completed; Day 25 ready
+* **Current Day:** Day 25 completed; Day 26 ready
 * **Current Phase:** Phase 0 — Foundations / Week 4: Statistics
 * **Overall Status:** On Track
-* **Primary Focus:** Descriptive Statistics & Non-Parametric Dispersion
+* **Primary Focus:** Probability Distributions & Asymmetry
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 24 Percentiles, Quartiles, and Quantiles notes under `progress/daily/day-024.md`.
-2. Prepare for Day 25: Probability foundations, sample spaces, and conditional probability.
+1. Archive Day 25 Probability Distributions notes under `progress/daily/day-025.md`.
+2. Prepare for Day 26: Probability rules (Addition, Multiplication, and Bayes' Theorem).
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -43,6 +43,7 @@
 | 22 | Statistics: Mean, Median, Mode | Completed | [Day 22 Progress Log](../progress/daily/day-022.md) | 
 | 23 | Statistics: Variance & Standard Deviation | Completed | [Day 23 Progress Log](../progress/daily/day-023.md) | 
 | 24 | Statistics: Percentiles, Quartiles, IQR | Completed | [Day 24 Progress Log](../progress/daily/day-024.md) | 
+| 25 | Statistics: Probability Distributions | Completed | [Day 25 Progress Log](../progress/daily/day-025.md) | 
 
 ## Milestones
 
