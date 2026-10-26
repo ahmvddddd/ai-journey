@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 29 completed; Day 30 ready
+* **Current Day:** Day 30 completed; Day 31 ready
 * **Current Phase:** Phase 0 — Foundations / Project: Nigerian Retail Sales Analyzer
 * **Overall Status:** On Track
-* **Primary Focus:** Enterprise Data Ingestion & Pipeline Initialization
+* **Primary Focus:** Data Cleaning, Imputation & Sanitization Pipeline
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 29 Data Ingestion notes under `progress/daily/day-029.md`.
-2. Prepare for Day 30: Data Cleaning, Missing Value Imputation, and Sentinel Error Treatment.
+1. Archive Day 30 Data Cleaning notes under `progress/daily/day-030.md`.
+2. Prepare for Day 31: Exploratory Data Analysis & Statistical Profiling.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -47,6 +47,7 @@
 | 26 | Statistics: Bivariate Analysis & Correlation | Completed | [Day 26 Progress Log](../progress/daily/day-026.md) | 
 | 27 | Statistics Assessment & Mastery Review | Completed | [Day 27 Progress Log](../progress/daily/day-027.md)[cite: 28] | 
 | 29 | Data Ingestion & Pipeline Initialization | Completed | [Day 29 Progress Log](../progress/daily/day-029.md) | 
+| 30 | Data Cleaning & Sanitization Pipeline | Completed | [Day 30 Progress Log](../progress/daily/day-030.md) | 
 
 ## Milestones
 
