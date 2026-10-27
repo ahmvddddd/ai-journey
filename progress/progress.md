@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 31 completed; Day 32 ready
+* **Current Day:** Day 32 completed; Day 33 ready
 * **Current Phase:** Phase 0 — Foundations / Project: Nigerian Retail Sales Analyzer
 * **Overall Status:** On Track
-* **Primary Focus:** Exploratory Data Analysis & Statistical Profiling
+* **Primary Focus:** Statistical Analysis, Dispersion & Correlation Profiling
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 31 Exploratory Data Analysis notes under `progress/daily/day-031.md`.
-2. Prepare for Day 32: Advanced Statistical Analysis & Hypothesis Testing.
+1. Archive Day 32 Statistical Analysis notes under `progress/daily/day-032.md`.
+2. Prepare for Day 33: Week 5 Project Synthesis & Advanced Visualizations.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -49,6 +49,7 @@
 | 29 | Data Ingestion & Pipeline Initialization | Completed | [Day 29 Progress Log](../progress/daily/day-029.md) | 
 | 30 | Data Cleaning & Sanitization Pipeline | Completed | [Day 30 Progress Log](../progress/daily/day-030.md) | 
 | 31 | Exploratory Data Analysis & Profiling | Completed | [Day 31 Progress Log](../progress/daily/day-031.md) | 
+| 32 | Statistical Analysis & Correlation Profiling | Completed | [Day 32 Progress Log](../progress/daily/day-032.md) | 
 
 ## Milestones
 
