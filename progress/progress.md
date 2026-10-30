@@ -2,27 +2,58 @@
 
 ## Current Status
 
-* **Current Day:** Day 36 completed; Day 37 ready
+* **Current Day:** Day 37 completed; Day 38 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Linear Algebra Fundamentals & Vector Operations
+* **Primary Focus:** Project Synthesis & Phase 0 Review
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 36 execution notes under `progress/daily/day-036.md`.
-2. Prepare for Day 37: Matrices, Matrix Operations & Dot Products.
+1. Archive Day 37 Executive Report notes under `progress/daily/day-037.md`.
+2. Prepare for Day 35: Python and Data Engineering Milestone Assessment.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
 
 | Day | Topic | Status | Evidence | 
 | ----- | ----- | ----- | ----- | 
-| ... | *[Previous Days 01–33]* | Completed | — |
+| 01 | Environment and setup | Completed | [Environment validation](../00-foundations/python/day-01-environment-validation.ipynb) | 
+| 02 | Python basics and CLI expense calculator | Completed | [Day 2 notebook](../00-foundations/python/day-02-python-basics.ipynb) | 
+| 03 | Functions, comprehensions and data processing | Completed | [Day 3 notebook](../00-foundations/python/day-03-python-functions.ipynb) | 
+| 04 | Product/inventory domain model | Completed | [Day 4 notebook](../00-foundations/python/day-04-python-oop.ipynb) | 
+| 05 | Python engineering best practices | Completed | [Day 5 module scripts](../00-foundations/python/) | 
+| 06 | Phase 0 Baseline Test | Completed | [Dataset Processor & Tests](../dataset-processor/) | 
+| 07 | Rest & Reflection | Completed | [Weekly Review Report](../progress/weekly-reviews/week-01-report.md) | 
+| 08 | NumPy Fundamentals & Vectorization | Completed | [Day 8 Progress Log](../progress/daily/day-008.md) | 
+| 09 | Advanced Indexing & Boolean Masking | Completed | [Day 9 Progress Log](../progress/daily/day-009.md) | 
+| 10 | Array Operations, Sorting & Structured Arrays | Completed | [Day 10 Progress Log](../progress/daily/day-010.md) | 
+| 11 | Matrix Operations & Linear Algebra Basics | Completed | [Day 11 Progress Log](../progress/daily/day-011.md) | 
+| 12 | NumPy Mini-Project: Telemetry Processor | Completed | [Day 12 Progress Log](../progress/daily/day-012.md) | 
+| 13 | Week 2 Review & Assessment | Completed | [Day 13 Progress Log](../progress/daily/day-013.md) | 
+| 14 | Rest & Reflection | Completed | [Week 2 Report](../progress/weekly-reviews/week-02-report.md) | 
+| 15 | DataFrame Fundamentals & Labeled Structures | Completed | [Day 15 Progress Log](../progress/daily/day-015.md) | 
+| 16 | Data Ingestion & I/O Optimization | Completed | [Day 16 Progress Log](../progress/daily/day-016.md) | 
+| 17 | Advanced Filtering & Conditional Selection | Completed | [Day 17 Progress Log](../progress/daily/day-017.md) | 
+| 18 | Handling Missing Values | Completed | [Day 18 Progress Log](../progress/daily/day-018.md) | 
+| 19 | Grouping, Aggregation & Split-Apply-Combine | Completed | [Day 19 Progress Log](../progress/daily/day-019.md) | 
+| 20 | Pandas Mini-Project: Data Cleaning Pipeline | Completed | [Day 20 Progress Log](../progress/daily/day-020.md) | 
+| 21 | Rest & Reflection | Completed | [Week 3 Report](../progress/weekly-reviews/week-03-report.md) | 
+| 22 | Statistics: Mean, Median, Mode | Completed | [Day 22 Progress Log](../progress/daily/day-022.md) | 
+| 23 | Statistics: Variance & Standard Deviation | Completed | [Day 23 Progress Log](../progress/daily/day-023.md) | 
+| 24 | Statistics: Percentiles, Quartiles, IQR | Completed | [Day 24 Progress Log](../progress/daily/day-024.md) | 
+| 25 | Statistics: Probability Distributions | Completed | [Day 25 Progress Log](../progress/daily/day-025.md) | 
+| 26 | Statistics: Bivariate Analysis & Correlation | Completed | [Day 26 Progress Log](../progress/daily/day-026.md) | 
+| 27 | Statistics Assessment & Mastery Review | Completed | [Day 27 Progress Log](../progress/daily/day-027.md)[cite: 28] | 
+| 29 | Data Ingestion & Pipeline Initialization | Completed | [Day 29 Progress Log](../progress/daily/day-029.md) | 
+| 30 | Data Cleaning & Sanitization Pipeline | Completed | [Day 30 Progress Log](../progress/daily/day-030.md) | 
+| 31 | Exploratory Data Analysis & Profiling | Completed | [Day 31 Progress Log](../progress/daily/day-031.md) | 
+| 32 | Statistical Analysis & Correlation Profiling | Completed | [Day 32 Progress Log](../progress/daily/day-032.md) | 
+| 33 | Exploratory Data Visualization Suite | Completed | [Day 33 Progress Log](../progress/daily/day-033.md) | 
 | 34 | Executive Report & Findings Synthesis | Completed | [Day 34 Progress Log](../progress/daily/day-034.md) | 
-| 35 | Python/Data Engineering Assessment | Completed | [Day 35 Assessment](../assessments/day-035.md) | 
 | 36 | Scalars, Vectors & NumPy Vectorization | Completed | [Day 36 Progress Log](../progress/daily/day-036.md) | 
+| 37 | Matrices & 2D Array Slicing | Completed | [Day 37 Progress Log](../progress/daily/day-037.md) | 
 
 ## Milestones
 
@@ -36,6 +67,11 @@
 * [ ] Day 245 — Capstone assessment
 * [ ] Day 252 — Final assessment
 
+## Current Gaps / Follow-up
+
+* Confirm all daily notebooks execute sequentially without runtime errors.
+* Maintain consistency across local Git commits and daily log entries.
+
 ## Documentation Rules
 
 * Keep this file as a concise dashboard.
@@ -44,3 +80,4 @@
 * Store formal milestone results in `assessments/`.
 * Keep code, notebooks, experiments and project documentation in their relevant learning/project folders.
 * Link to evidence instead of copying large amounts of content.
+* Update the current status and daily index whenever a session is reviewed.
