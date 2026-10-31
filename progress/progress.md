@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 39 completed; Day 40 ready
+* **Current Day:** Day 40 completed; Day 41 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Linear Algebra Fundamentals & Matrix Multiplication
+* **Primary Focus:** Linear Algebra Fundamentals & Vector Spaces
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 39 Executive Report notes under `progress/daily/day-039.md`.
-2. Prepare for Day 40: Vector spaces/intuitive geometry.
+1. Archive Day 40 Executive Report notes under `progress/daily/day-040.md`.
+2. Prepare for Day 41: implement matrix operations with NumPy.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -55,7 +55,8 @@
 | 36 | Scalars, Vectors & NumPy Vectorization | Completed | [Day 36 Progress Log](../progress/daily/day-036.md) | 
 | 37 | Matrices & 2D Array Slicing | Completed | [Day 37 Progress Log](../progress/daily/day-037.md) |
 | 38 | Matrix Multiplication & NumPy Operations | Completed | [Day 38 Progress Log](../progress/daily/day-038.md) | 
-| 39 | Dot Products & Geometric Similarity | Completed | [Day 39 Progress Log](../progress/daily/day-039.md) |  
+| 39 | Dot Products & Geometric Similarity | Completed | [Day 39 Progress Log](../progress/daily/day-039.md) | 
+| 40 | Vector Spaces & Intuitive Geometry | Completed | [Day 40 Progress Log](../progress/daily/day-040.md) |  
 
 ## Milestones
 
