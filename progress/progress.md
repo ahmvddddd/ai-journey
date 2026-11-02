@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 41 completed; Day 42 ready
+* **Current Day:** Day 43 completed; Day 44 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
 * **Primary Focus:** Linear Algebra Fundamentals & Matrix Operations
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 40 Executive Report notes under `progress/daily/day-041.md`.
-2. Prepare for Day 41: implement matrix operations with NumPy.
+1. Archive Day 43 Executive Report notes under `progress/daily/day-041.md`.
+2. Prepare for Day 44: implement matrix operations with NumPy.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -57,7 +57,8 @@
 | 38 | Matrix Multiplication & NumPy Operations | Completed | [Day 38 Progress Log](../progress/daily/day-038.md) | 
 | 39 | Dot Products & Geometric Similarity | Completed | [Day 39 Progress Log](../progress/daily/day-039.md) | 
 | 40 | Vector Spaces & Intuitive Geometry | Completed | [Day 40 Progress Log](../progress/daily/day-040.md) | 
-| 41 | Matrix Operations & NumPy Transformations | Completed | [Day 41 Progress Log](../progress/daily/day-041.md) |  
+| 41 | Matrix Operations & NumPy Transformations | Completed | [Day 41 Progress Log](../progress/daily/day-041.md) | 
+| 43 | Probability Fundamentals in Machine Learning | Completed | [Day 43 Progress Log](../progress/daily/day-043.md) |
 
 ## Milestones
 
