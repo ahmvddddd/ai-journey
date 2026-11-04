@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 46 completed; Day 47 ready
+* **Current Day:** Day 47 completed; Day 48 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Random Variables & Probability Simulations
+* **Primary Focus:** Expected Values & Decision Theory
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 46 Executive Report notes under `progress/daily/day-046.md`.
-2. Prepare for Day 47: Probability Distributions & Expected Value.
+1. Archive Day 47 Executive Report notes under `progress/daily/day-047.md`.
+2. Prepare for Day 48: Probability simulation with Python..
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -61,7 +61,8 @@
 | 43 | Probability Fundamentals in Machine Learning | Completed | [Day 43 Progress Log](../progress/daily/day-043.md) | 
 | 44 | Conditional Probability & Pandas Filtering | Completed | [Day 44 Progress Log](../progress/daily/day-044.md) | 
 | 45 | Bayes' Theorem & Probabilistic Inference | Completed | [Day 45 Progress Log](../progress/daily/day-045.md) | 
-| 46 | Random Variables in Machine Learning | Completed | [Day 46 Progress Log](../progress/daily/day-046.md) |
+| 46 | Random Variables in Machine Learning | Completed | [Day 46 Progress Log](../progress/daily/day-046.md) | 
+| 47 | Expected Values in Machine Learning | Completed | [Day 47 Progress Log](../progress/daily/day-047.md) |
 
 ## Milestones
 
