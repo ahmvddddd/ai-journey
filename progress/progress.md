@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 48 completed; Day 49 ready
+* **Current Day:** Day 50 completed; Day 51 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
 * **Primary Focus:** Probability Simulation & Monte Carlo Methods
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 48 Executive Report notes under `progress/daily/day-048.md`.
-2. Prepare for Day 49: Rest
+1. Archive Day 50 Executive Report notes under `progress/daily/day-050.md`.
+2. Prepare for Day 51: Supervised vs unsupervised learning.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -63,7 +63,8 @@
 | 45 | Bayes' Theorem & Probabilistic Inference | Completed | [Day 45 Progress Log](../progress/daily/day-045.md) | 
 | 46 | Random Variables in Machine Learning | Completed | [Day 46 Progress Log](../progress/daily/day-046.md) | 
 | 47 | Expected Values in Machine Learning | Completed | [Day 47 Progress Log](../progress/daily/day-047.md) | 
-| 48 | Probability Simulation with Python | Completed | [Day 48 Progress Log](../progress/daily/day-048.md) |
+| 48 | Probability Simulation with Python | Completed | [Day 48 Progress Log](../progress/daily/day-048.md) | 
+| 50 | Introduction to Machine Learning & Paradigm Fundamentals | Completed | [Day 50 Progress Log](../progress/daily/day-050.md) |
 
 ## Milestones
 
