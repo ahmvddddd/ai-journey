@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 50 completed; Day 51 ready
+* **Current Day:** Day 51 completed; Day 52 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Probability Simulation & Monte Carlo Methods
+* **Primary Focus:** Supervised vs. Unsupervised Learning
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 50 Executive Report notes under `progress/daily/day-050.md`.
-2. Prepare for Day 51: Supervised vs unsupervised learning.
+1. Archive Day 51 Executive Report notes under `progress/daily/day-051.md`.
+2. Prepare for Day 52: Features and labels.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -64,7 +64,8 @@
 | 46 | Random Variables in Machine Learning | Completed | [Day 46 Progress Log](../progress/daily/day-046.md) | 
 | 47 | Expected Values in Machine Learning | Completed | [Day 47 Progress Log](../progress/daily/day-047.md) | 
 | 48 | Probability Simulation with Python | Completed | [Day 48 Progress Log](../progress/daily/day-048.md) | 
-| 50 | Introduction to Machine Learning & Paradigm Fundamentals | Completed | [Day 50 Progress Log](../progress/daily/day-050.md) |
+| 50 | Introduction to Machine Learning & Paradigm Fundamentals | Completed | [Day 50 Progress Log](../progress/daily/day-050.md) | 
+| 51 | Supervised vs. Unsupervised Learning | Completed | [Day 51 Progress Log](../progress/daily/day-051.md) |
 
 ## Milestones
 
