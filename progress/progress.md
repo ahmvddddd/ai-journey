@@ -12,7 +12,7 @@
 ## Current Priorities
 
 1. Archive Day 54 execution notes under `progress/daily/day-054.md`.
-2. Prepare for Day 55: Linear Regression Foundations & Cost Functions.
+2. Prepare for Day 55: Bias Variance.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
