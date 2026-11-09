@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 55 completed; Day 56 ready
+* **Current Day:** Day 57 completed; Day 58 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Bias and Variance Tradeoff
+* **Primary Focus:** Linear Regression & Ordinary Least Squares
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 55 execution notes under `progress/daily/day-055.md`.
-2. Prepare for Day 56: Review and Rest.
+1. Archive Day 57 execution notes under `progress/daily/day-057.md`.
+2. Prepare for Day 58: Logistic regression.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -69,7 +69,8 @@
 | 52 | Features and Labels in Supervised Learning | Completed | [Day 52 Progress Log](../progress/daily/day-052.md) | 
 | 53 | Training, Validation, and Test Sets | Completed | [Day 53 Progress Log](../progress/daily/day-053.md) | 
 | 54 | Overfitting and Underfitting | Completed | [Day 54 Progress Log](../progress/daily/day-054.md) | 
-| 55 | Bias and Variance in Machine Learning | Completed | [Day 55 Progress Log](../progress/daily/day-055.md) |
+| 55 | Bias and Variance in Machine Learning | Completed | [Day 55 Progress Log](../progress/daily/day-055.md) | 
+| 57 | Linear Regression Foundations and Ordinary Least Squares | Completed | [Day 57 Progress Log](../progress/daily/day-057.md) |
 
 ## Milestones
 
