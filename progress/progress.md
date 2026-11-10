@@ -2,7 +2,7 @@
 
 ## Current Status
 
-* **Current Day:** Day 58 completed; Day 59 ready
+* **Current Day:** Day 59 completed; Day 60 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
 * **Primary Focus:** Logistic Regression & Binary Classification
@@ -11,8 +11,8 @@
 
 ## Current Priorities
 
-1. Archive Day 58 execution notes under `progress/daily/day-058.md`.
-2. Prepare for Day 59: Decision trees.
+1. Archive Day 59 execution notes under `progress/daily/day-059.md`.
+2. Prepare for Day 60: Random Forests.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -71,7 +71,8 @@
 | 54 | Overfitting and Underfitting | Completed | [Day 54 Progress Log](../progress/daily/day-054.md) | 
 | 55 | Bias and Variance in Machine Learning | Completed | [Day 55 Progress Log](../progress/daily/day-055.md) | 
 | 57 | Linear Regression Foundations and Ordinary Least Squares | Completed | [Day 57 Progress Log](../progress/daily/day-057.md) | 
-| 58 | Logistic Regression and the Sigmoid Function | Completed | [Day 58 Progress Log](../progress/daily/day-058.md) |
+| 58 | Logistic Regression and the Sigmoid Function | Completed | [Day 58 Progress Log](../progress/daily/day-058.md) | 
+| 59 | Decision Trees and Impurity Metrics | Completed | [Day 59 Progress Log](../progress/daily/day-059.md)[cite: 39] |
 
 ## Milestones
 
