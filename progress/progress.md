@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 61 completed; Day 62 ready
+* **Current Day:** Day 62 completed; Day 63 ready
 * **Current Phase:** Phase 01 — Machine Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Classification Evaluation Metrics & Confusion Matrices
+* **Primary Focus:** Model Evaluation Metrics & Cross-Validation
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 61 execution notes under `progress/daily/day-061.md`.
-2. Prepare for Day 62: Model evaluation.
+1. Archive Day 62 execution notes under `progress/daily/day-062.md`.
+2. Prepare for Day 62: Rest.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -74,7 +74,8 @@
 | 58 | Logistic Regression and the Sigmoid Function | Completed | [Day 58 Progress Log](../progress/daily/day-058.md) | 
 | 59 | Decision Trees and Impurity Metrics | Completed | [Day 59 Progress Log](../progress/daily/day-059.md) | 
 | 60 | Random Forests and Ensemble Methods | Completed | [Day 60 Progress Log](../progress/daily/day-060.md) | 
-| 61 | Classification Evaluation Metrics | Completed | [Day 61 Progress Log](../progress/daily/day-061.md) |
+| 61 | Classification Evaluation Metrics | Completed | [Day 61 Progress Log](../progress/daily/day-061.md) | 
+| 62 | Regression Evaluation Metrics and K-Fold Cross-Validation | Completed | [Day 62 Progress Log](../progress/daily/day-062.md) | 
 
 ## Milestones
 
