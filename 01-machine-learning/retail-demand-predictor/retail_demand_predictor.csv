@@ -1,0 +1,2501 @@
+location,category,season,price_ngn,vat_rate,fuel_transport_cost_ngn,historical_sales_lag,demand_units
+Port Harcourt,Groceries,Regular,69317.99,0.075,8589.4,471.0,109
+Onitsha,Electronics,Rainy,61699.61,0.075,4240.41,90.0,5
+Abuja,Groceries,Rainy,26877.81,0.075,7600.23,156.0,7
+Onitsha,Electronics,Regular,49358.65,0.075,12258.79,163.0,5
+Onitsha,Groceries,Regular,40527.04,0.075,9470.75,408.0,125
+Kano,Groceries,Regular,50945.76,0.075,2808.38,373.0,110
+Abuja,FMCG,Regular,51359.0,0.075,8898.29,399.0,64
+Abuja,Electronics,Regular,47340.68,0.075,10986.97,426.0,94
+Abuja,Groceries,Festive,20324.55,0.075,12201.5,318.0,118
+Onitsha,Electronics,Rainy,3405.98,0.075,9993.09,389.0,129
+Port Harcourt,FMCG,Rainy,34439.73,0.075,3560.89,364.0,101
+Abuja,FMCG,Regular,66877.55,0.075,11087.34,460.0,82
+Onitsha,Electronics,Regular,42927.55,0.075,10644.11,454.0,131
+Kano,FMCG,Rainy,62513.13,0.075,1829.76,288.0,42
+Port Harcourt,Apparel,Rainy,74376.01,0.075,7058.59,403.0,48
+Kano,Apparel,Harmattan,12689.41,0.075,5994.83,427.0,194
+Port Harcourt,FMCG,Regular,52037.43,0.075,10537.06,158.0,5
+Onitsha,Apparel,Rainy,50734.87,0.075,4417.83,71.0,5
+Lagos,Groceries,Regular,73506.68,0.075,9476.77,36.0,5
+Port Harcourt,Electronics,Festive,73927.25,0.075,13828.28,184.0,5
+Kano,Groceries,Rainy,51657.56,0.075,12270.33,32.0,5
+Onitsha,Electronics,Rainy,18649.3,0.075,13939.68,209.0,18
+Port Harcourt,FMCG,Regular,59992.41,0.075,14709.83,494.0,115
+Lagos,Groceries,Rainy,8473.67,0.075,1644.05,359.0,149
+Lagos,FMCG,Regular,58662.1,0.075,9907.01,372.0,86
+Abuja,FMCG,Regular,68309.61,0.075,7073.33,381.0,74
+Abuja,Electronics,Regular,29021.09,0.075,13108.04,371.0,73
+Kano,Electronics,Rainy,47482.33,0.075,4899.5,283.0,50
+Port Harcourt,Electronics,Regular,32545.63,0.075,14743.9,331.0,51
+Port Harcourt,Groceries,Regular,33113.5,0.075,9785.06,240.0,22
+Abuja,Apparel,Festive,23622.63,0.075,12212.75,123.0,5
+Port Harcourt,Electronics,Regular,57278.66,0.075,2655.59,358.0,102
+Port Harcourt,Electronics,Rainy,70245.15,0.075,3976.68,217.0,5
+Lagos,Groceries,Regular,70585.94,0.075,11738.45,319.0,5
+Abuja,Electronics,Regular,13521.21,0.075,1796.82,463.0,247
+Onitsha,Groceries,Harmattan,65668.4,0.075,12527.85,378.0,39
+Abuja,FMCG,Regular,55438.64,0.075,1688.31,387.0,97
+Onitsha,Electronics,Regular,19336.39,0.075,10371.1,188.0,48
+Lagos,Electronics,Rainy,5512.7,0.075,6428.77,168.0,42
+Kano,FMCG,Rainy,20465.8,0.075,9755.18,268.0,78
+Port Harcourt,FMCG,Rainy,68459.51,0.075,10896.42,275.0,5
+Lagos,FMCG,Regular,47671.81,0.075,6123.42,489.0,176
+Port Harcourt,Electronics,Regular,54218.57,0.075,2957.49,61.0,5
+Kano,Apparel,Harmattan,19657.85,0.075,2440.22,221.0,51
+Kano,Apparel,Rainy,54094.42,0.075,9450.64,477.0,117
+Lagos,Apparel,Festive,2595.05,0.075,8528.85,263.0,153
+Kano,Electronics,Festive,28461.44,0.075,11519.71,176.0,5
+Onitsha,FMCG,Festive,47193.12,0.075,8381.43,483.0,228
+Kano,Electronics,Regular,11384.19,0.075,7203.02,468.0,221
+Port Harcourt,FMCG,Regular,61813.77,0.075,6874.18,420.0,81
+Port Harcourt,Electronics,Harmattan,18009.83,0.075,1857.03,305.0,139
+Port Harcourt,Electronics,Regular,49094.94,0.075,6030.02,301.0,61
+Port Harcourt,FMCG,Regular,30687.19,0.075,14676.27,456.0,128
+Onitsha,Apparel,Festive,44905.25,0.075,13293.0,400.0,135
+Abuja,FMCG,Festive,8505.07,0.075,5946.6,257.0,184
+Lagos,Groceries,Regular,1760.0,0.075,9435.24,38.0,5
+Port Harcourt,Groceries,Regular,68262.55,0.075,12938.51,72.0,5
+Kano,FMCG,Regular,20587.44,0.075,7457.2,104.0,5
+Port Harcourt,Electronics,Festive,61565.94,0.075,1742.43,292.0,94
+Kano,Groceries,Festive,74951.6,0.075,2505.89,449.0,138
+Kano,Groceries,Regular,16251.63,0.075,8390.3,379.0,138
+Port Harcourt,Electronics,Regular,20255.22,0.075,14587.43,232.0,11
+Onitsha,Electronics,Festive,49883.05,0.075,10858.33,456.0,185
+Kano,Apparel,Regular,72425.92,0.075,2457.37,380.0,60
+Kano,Electronics,Rainy,68728.17,0.075,4056.37,123.0,5
+Port Harcourt,FMCG,Festive,37964.23,0.075,11912.86,211.0,5
+Kano,FMCG,Regular,59735.72,0.075,12859.44,448.0,89
+Kano,Apparel,Rainy,10613.07,0.075,9838.88,196.0,58
+Port Harcourt,Groceries,Regular,73319.14,0.075,10199.71,166.0,5
+Port Harcourt,Groceries,Regular,72344.32,0.075,1882.56,399.0,89
+Lagos,Electronics,Festive,12697.81,0.075,12685.16,474.0,272
+Onitsha,FMCG,Regular,22807.02,0.075,12141.72,100.0,5
+Onitsha,Groceries,Festive,7961.55,0.075,4996.97,212.0,117
+Kano,Apparel,Rainy,20742.96,0.075,11067.14,56.0,5
+Onitsha,Apparel,Regular,61288.71,0.075,4400.54,396.0,86
+Kano,FMCG,Regular,28684.51,0.075,2044.46,345.0,115
+Lagos,Apparel,Regular,7085.57,0.075,4215.34,173.0,51
+Port Harcourt,Apparel,Regular,25995.8,0.075,3911.49,149.0,17
+Port Harcourt,FMCG,Regular,73613.06,0.075,6059.6,78.0,5
+Port Harcourt,Electronics,Regular,47411.43,0.075,7149.07,243.0,40
+Onitsha,Electronics,Regular,31503.99,0.075,8365.28,268.0,53
+Lagos,Apparel,Harmattan,12907.12,0.075,7936.18,259.0,74
+Onitsha,Electronics,Rainy,73970.17,0.075,5154.11,393.0,50
+Onitsha,Electronics,Harmattan,61653.25,0.075,1893.8,408.0,90
+Lagos,Apparel,Regular,21470.06,0.075,9668.87,312.0,107
+Lagos,Electronics,Regular,5720.12,0.075,6842.56,306.0,170
+Lagos,Apparel,Rainy,4718.6,0.075,5532.07,223.0,76
+Lagos,Groceries,Regular,9468.17,0.075,13203.7,118.0,5
+Port Harcourt,FMCG,Regular,43767.26,0.075,11581.03,369.0,91
+Abuja,FMCG,Festive,69692.87,0.075,13079.83,195.0,5
+Abuja,Electronics,Harmattan,37507.39,0.075,8182.27,281.0,55
+Lagos,Electronics,Rainy,63299.44,0.075,3267.57,290.0,51
+Abuja,Electronics,Regular,33718.55,0.075,10898.99,162.0,5
+Abuja,FMCG,Harmattan,53289.47,0.075,4282.0,208.0,5
+Lagos,Groceries,Rainy,55024.52,0.075,7456.6,291.0,22
+Abuja,Groceries,Harmattan,13460.3,0.075,2377.51,39.0,5
+Onitsha,FMCG,Harmattan,27410.6,0.075,12641.66,352.0,83
+Kano,Groceries,Festive,47979.01,0.075,3200.2,319.0,148
+Kano,FMCG,Rainy,5766.9,0.075,13691.82,445.0,163
+Lagos,Groceries,Regular,27434.74,0.075,13167.11,65.0,5
+Port Harcourt,Apparel,Rainy,40342.56,0.075,7771.87,114.0,5
+Lagos,Apparel,Rainy,74718.72,0.075,11548.97,437.0,64
+Port Harcourt,FMCG,Harmattan,35852.75,0.075,9862.51,83.0,5
+Kano,Groceries,Regular,61296.23,0.075,12341.52,432.0,72
+Lagos,Electronics,Regular,32689.01,0.075,7329.37,150.0,5
+Onitsha,Groceries,Festive,59831.11,0.075,12108.41,28.0,5
+Abuja,Apparel,Harmattan,44858.4,0.075,7743.17,478.0,153
+Port Harcourt,Apparel,Festive,66551.36,0.075,14203.04,222.0,5
+Abuja,Groceries,Harmattan,31115.22,0.075,8066.02,428.0,176
+Abuja,Groceries,Rainy,45520.68,0.075,7745.36,489.0,126
+Lagos,Electronics,Rainy,47436.39,0.075,12098.47,317.0,5
+Abuja,Electronics,Festive,31595.03,0.075,12591.3,193.0,5
+Onitsha,Groceries,Rainy,11251.25,0.075,8985.6,92.0,9
+Abuja,Groceries,Rainy,7470.18,0.075,3927.27,103.0,21
+Lagos,Groceries,Regular,1742.03,0.075,7814.74,78.0,5
+Onitsha,Groceries,Regular,65578.3,0.075,14568.98,40.0,5
+Kano,FMCG,Harmattan,18117.38,0.075,11665.31,477.0,164
+Abuja,Groceries,Regular,16257.25,0.075,12450.7,425.0,177
+Lagos,Electronics,Regular,55334.64,0.075,1943.14,176.0,5
+Kano,Apparel,Regular,24341.2,0.075,7816.1,338.0,119
+Kano,FMCG,Regular,38200.33,0.075,10229.39,348.0,53
+Port Harcourt,Groceries,Regular,12607.07,0.075,12705.44,80.0,5
+Onitsha,Apparel,Regular,72001.06,0.075,2165.19,83.0,5
+Abuja,FMCG,Festive,63942.81,0.075,13007.92,344.0,5
+Lagos,Apparel,Rainy,64852.33,0.075,8903.41,187.0,5
+Port Harcourt,Groceries,Regular,30804.64,0.075,4163.74,222.0,50
+Onitsha,Groceries,Regular,57295.91,0.075,5782.95,148.0,5
+Port Harcourt,Electronics,Rainy,11218.77,0.075,5306.05,264.0,54
+Onitsha,Groceries,Regular,1142.12,0.075,8666.6,125.0,19
+Onitsha,Groceries,Festive,1987.98,0.075,2197.76,340.0,269
+Abuja,FMCG,Rainy,44201.83,0.075,3640.24,141.0,5
+Onitsha,Electronics,Harmattan,34426.92,0.075,12471.36,337.0,64
+Port Harcourt,FMCG,Regular,39092.14,0.075,3290.15,201.0,48
+Onitsha,Apparel,Rainy,1056.0,0.075,4650.85,122.0,41
+Abuja,Groceries,Regular,31990.15,0.075,7620.5,335.0,67
+Abuja,Apparel,Festive,53996.08,0.075,8481.13,321.0,56
+Port Harcourt,FMCG,Rainy,33480.68,0.075,11808.74,280.0,39
+Kano,Groceries,Regular,55050.33,0.075,7538.99,132.0,5
+Kano,Groceries,Regular,17859.91,0.075,12163.17,425.0,169
+Onitsha,FMCG,Regular,61079.08,0.075,9847.68,493.0,102
+Lagos,FMCG,Rainy,44338.13,0.075,3026.85,456.0,150
+Onitsha,FMCG,Regular,16201.85,0.075,3610.47,89.0,5
+Port Harcourt,FMCG,Rainy,18135.68,0.075,7399.96,179.0,26
+Port Harcourt,FMCG,Regular,47288.27,0.075,6858.01,259.0,37
+Port Harcourt,Groceries,Rainy,62330.5,0.075,11537.85,30.0,5
+Port Harcourt,FMCG,Festive,31464.27,0.075,9339.95,157.0,5
+Port Harcourt,Groceries,Harmattan,19743.38,0.075,6739.8,186.0,36
+Abuja,Groceries,Harmattan,65092.36,0.075,3805.26,266.0,11
+Kano,FMCG,Regular,50360.49,0.075,4562.3,373.0,110
+Port Harcourt,FMCG,Regular,33882.37,0.075,9269.26,50.0,5
+Lagos,Electronics,Rainy,36848.56,0.075,7216.42,31.0,5
+Lagos,Groceries,Regular,15717.11,0.075,8451.52,262.0,86
+Lagos,FMCG,Regular,47196.8,0.075,3804.15,127.0,5
+Lagos,FMCG,Regular,27226.32,0.075,10449.23,355.0,119
+Abuja,FMCG,Regular,74675.57,0.075,13009.27,441.0,70
+Lagos,Electronics,Regular,36273.67,0.075,4982.18,342.0,144
+Port Harcourt,Electronics,Festive,36698.48,0.075,8135.44,213.0,40
+Onitsha,Apparel,Regular,42655.96,0.075,14669.62,327.0,30
+Lagos,Groceries,Rainy,68798.32,0.075,5998.76,152.0,5
+Abuja,Apparel,Regular,60160.95,0.075,9533.13,414.0,76
+Abuja,FMCG,Rainy,34109.19,0.075,2717.64,300.0,82
+Lagos,Electronics,Regular,54043.1,0.075,9681.2,310.0,27
+Onitsha,Electronics,Festive,44174.54,0.075,2710.03,182.0,29
+Lagos,Apparel,Festive,37181.35,0.075,14449.68,297.0,20
+Abuja,Electronics,Regular,14827.53,0.075,11161.45,440.0,163
+Kano,FMCG,Festive,35063.25,0.075,12140.16,489.0,245
+Port Harcourt,Electronics,Festive,18813.48,0.075,11005.41,458.0,276
+Abuja,Apparel,Festive,68655.74,0.075,9461.34,222.0,5
+Lagos,FMCG,Festive,25487.81,0.075,7573.82,115.0,5
+Port Harcourt,Apparel,Regular,71443.67,0.075,13088.04,242.0,5
+Lagos,Electronics,Rainy,40212.62,0.075,14417.28,256.0,5
+Lagos,Apparel,Regular,47550.06,0.075,8236.99,136.0,5
+Kano,Apparel,Regular,40949.06,0.075,14075.72,475.0,107
+Port Harcourt,Groceries,Festive,10138.86,0.075,9374.99,211.0,73
+Port Harcourt,Electronics,Regular,28498.68,0.075,8768.19,295.0,87
+Kano,Electronics,Harmattan,7886.39,0.075,7635.52,125.0,31
+Abuja,Apparel,Festive,46910.08,0.075,4325.38,23.0,5
+Lagos,Groceries,Festive,33792.13,0.075,1550.22,37.0,5
+Onitsha,Electronics,Festive,58459.88,0.075,4760.33,326.0,76
+Lagos,FMCG,Regular,16925.05,0.075,8381.26,471.0,203
+Lagos,Apparel,Regular,12760.17,0.075,6629.46,39.0,5
+Abuja,Electronics,Regular,30771.75,0.075,7554.55,141.0,5
+Lagos,FMCG,Regular,69530.61,0.075,14738.75,156.0,5
+Kano,Electronics,Regular,53426.43,0.075,6228.68,99.0,5
+Kano,FMCG,Regular,31709.81,0.075,7604.47,173.0,5
+Port Harcourt,Apparel,Harmattan,39036.78,0.075,3302.46,377.0,139
+Onitsha,Electronics,Rainy,6773.87,0.075,2147.43,44.0,5
+Lagos,Electronics,Regular,73850.9,0.075,11968.03,471.0,78
+Lagos,Groceries,Rainy,50147.34,0.075,9204.22,188.0,5
+Abuja,Apparel,Regular,21762.6,0.075,11769.51,78.0,5
+Kano,FMCG,Regular,44142.73,0.075,3523.15,320.0,59
+Onitsha,Electronics,Harmattan,8656.44,0.075,9219.69,60.0,5
+Port Harcourt,Electronics,Rainy,72454.83,0.075,4924.17,57.0,5
+Kano,FMCG,Harmattan,13521.48,0.075,4578.83,136.0,33
+Port Harcourt,Apparel,Regular,48778.26,0.075,1655.6,294.0,71
+Abuja,Groceries,Festive,18786.36,0.075,3259.6,289.0,140
+Abuja,Groceries,Rainy,53958.32,0.075,5675.12,146.0,5
+Lagos,Electronics,Rainy,58373.19,0.075,3077.86,424.0,132
+Onitsha,FMCG,Rainy,50669.77,0.075,14809.09,418.0,51
+Port Harcourt,Electronics,Festive,46280.21,0.075,5666.54,22.0,5
+Kano,FMCG,Rainy,66988.95,0.075,3259.37,312.0,50
+Abuja,Groceries,Rainy,6357.69,0.075,4187.61,392.0,164
+Lagos,Apparel,Festive,25153.15,0.075,9433.99,449.0,234
+Lagos,FMCG,Harmattan,18997.42,0.075,2364.59,35.0,5
+Port Harcourt,Groceries,Regular,74107.04,0.075,13142.86,417.0,35
+Abuja,Electronics,Harmattan,29509.54,0.075,14480.25,284.0,43
+Onitsha,FMCG,Regular,55079.65,0.075,4831.09,258.0,5
+Abuja,Apparel,Regular,51512.02,0.075,7576.29,282.0,34
+Port Harcourt,Electronics,Rainy,16300.05,0.075,1798.82,417.0,197
+Port Harcourt,Electronics,Festive,18305.33,0.075,10149.59,153.0,16
+Abuja,Groceries,Festive,21455.7,0.075,7088.0,232.0,92
+Port Harcourt,FMCG,Regular,31128.98,0.075,5145.79,34.0,5
+Abuja,Electronics,Rainy,17957.22,0.075,4292.3,455.0,192
+Kano,Apparel,Regular,1964.04,0.075,10329.31,347.0,157
+Abuja,FMCG,Festive,66014.78,0.075,7118.93,437.0,154
+Abuja,Apparel,Festive,72437.93,0.075,3925.4,379.0,88
+Port Harcourt,Electronics,Rainy,25946.99,0.075,10802.97,148.0,5
+Port Harcourt,Apparel,Festive,25718.76,0.075,9128.48,371.0,161
+Lagos,Groceries,Harmattan,1028.34,0.075,13092.07,141.0,5
+Lagos,Apparel,Rainy,51178.68,0.075,3085.92,260.0,15
+Kano,FMCG,Regular,61995.27,0.075,12106.5,134.0,5
+Lagos,Apparel,Regular,11422.32,0.075,10592.48,216.0,84
+Abuja,Apparel,Rainy,12395.14,0.075,3052.65,241.0,88
+Port Harcourt,Groceries,Rainy,59361.2,0.075,10880.08,233.0,5
+Lagos,Apparel,Regular,46413.66,0.075,7460.89,423.0,132
+Lagos,Apparel,Festive,3842.11,0.075,14257.29,99.0,5
+Kano,Electronics,Regular,46879.75,0.075,3411.75,282.0,51
+Kano,Electronics,Rainy,23514.37,0.075,10178.25,154.0,5
+Abuja,FMCG,Rainy,27970.02,0.075,6656.73,325.0,101
+Port Harcourt,Electronics,Rainy,57844.99,0.075,14417.0,261.0,5
+Kano,Electronics,Rainy,60914.67,0.075,5954.66,405.0,91
+Lagos,Electronics,Regular,30326.57,0.075,14489.51,322.0,51
+Port Harcourt,Electronics,Regular,71062.89,0.075,13670.06,289.0,5
+Port Harcourt,Groceries,Rainy,30781.47,0.075,5150.17,306.0,92
+Lagos,Electronics,Rainy,58001.78,0.075,12347.81,69.0,5
+Kano,Groceries,Regular,36548.86,0.075,14940.66,208.0,5
+Lagos,Groceries,Harmattan,67366.16,0.075,4910.95,316.0,46
+Port Harcourt,Electronics,Regular,68128.21,0.075,7396.49,33.0,5
+Onitsha,Apparel,Rainy,7012.55,0.075,8522.44,408.0,171
+Onitsha,Groceries,Festive,70268.75,0.075,5481.57,478.0,158
+Abuja,Apparel,Regular,62002.35,0.075,1706.08,251.0,22
+Lagos,Apparel,Regular,59452.65,0.075,4471.74,280.0,22
+Lagos,Electronics,Harmattan,15467.89,0.075,5306.15,211.0,45
+Abuja,FMCG,Rainy,60481.38,0.075,7488.6,432.0,77
+Abuja,Electronics,Rainy,63834.89,0.075,3809.88,222.0,5
+Abuja,FMCG,Festive,22041.7,0.075,13288.93,280.0,60
+Port Harcourt,FMCG,Festive,71443.38,0.075,11016.3,132.0,5
+Lagos,Electronics,Festive,4214.58,0.075,2650.21,393.0,296
+Port Harcourt,Electronics,Rainy,11668.24,0.075,10276.25,371.0,136
+Abuja,FMCG,Regular,40549.79,0.075,10324.36,55.0,5
+Lagos,Electronics,Regular,43396.54,0.075,14408.99,98.0,5
+Port Harcourt,FMCG,Regular,48563.68,0.075,1540.78,294.0,81
+Port Harcourt,Apparel,Rainy,1764.2,0.075,4847.09,467.0,227
+Abuja,Electronics,Regular,72047.32,0.075,14025.18,297.0,5
+Lagos,Apparel,Festive,3821.81,0.075,14083.81,181.0,5
+Abuja,Groceries,Rainy,11158.12,0.075,11227.92,331.0,97
+Lagos,Apparel,Rainy,1544.08,0.075,11837.8,36.0,5
+Onitsha,Apparel,Regular,42730.95,0.075,2735.02,223.0,23
+Kano,FMCG,Regular,69953.88,0.075,8437.32,492.0,121
+Kano,Apparel,Regular,50113.06,0.075,4626.37,459.0,151
+Kano,Electronics,Regular,61787.98,0.075,3946.44,36.0,5
+Abuja,FMCG,Regular,1489.45,0.075,12439.09,221.0,50
+Onitsha,Groceries,Rainy,40880.14,0.075,3323.01,495.0,181
+Lagos,Electronics,Festive,34737.44,0.075,7826.8,229.0,47
+Port Harcourt,Groceries,Festive,37673.11,0.075,14170.81,421.0,150
+Lagos,Apparel,Rainy,5879.88,0.075,4008.73,448.0,215
+Port Harcourt,Electronics,Regular,51490.43,0.075,14702.91,499.0,140
+Lagos,Electronics,Festive,37989.92,0.075,14922.89,97.0,5
+Onitsha,Groceries,Festive,57503.59,0.075,9000.83,75.0,5
+Port Harcourt,Electronics,Regular,36654.15,0.075,3796.93,99.0,5
+Abuja,Electronics,Harmattan,11628.93,0.075,5767.42,325.0,147
+Lagos,Electronics,Regular,48795.14,0.075,7230.65,77.0,5
+Lagos,Apparel,Festive,13342.78,0.075,5675.88,37.0,5
+Port Harcourt,Groceries,Festive,65493.39,0.075,5288.58,227.0,5
+Abuja,Electronics,Regular,46177.16,0.075,14625.1,484.0,120
+Abuja,FMCG,Festive,12211.69,0.075,3570.43,154.0,75
+Onitsha,FMCG,Rainy,72194.19,0.075,11399.93,351.0,29
+Abuja,FMCG,Festive,39118.23,0.075,1505.54,29.0,5
+Abuja,FMCG,Regular,5930.93,0.075,9548.47,88.0,5
+Abuja,Apparel,Festive,47199.05,0.075,13865.23,360.0,72
+Kano,Electronics,Regular,19363.32,0.075,5387.11,406.0,160
+Onitsha,Groceries,Regular,60375.16,0.075,4004.6,102.0,5
+Lagos,Electronics,Regular,61427.74,0.075,10297.68,128.0,5
+Port Harcourt,Apparel,Festive,73431.58,0.075,11120.12,63.0,5
+Lagos,FMCG,Festive,37889.28,0.075,10788.41,473.0,213
+Onitsha,Apparel,Festive,34394.29,0.075,5810.78,417.0,232
+Port Harcourt,Electronics,Festive,56633.93,0.075,4904.73,151.0,5
+Onitsha,Groceries,Regular,10369.06,0.075,14404.9,37.0,5
+Abuja,Apparel,Regular,41245.21,0.075,13964.54,112.0,5
+Port Harcourt,Groceries,Regular,41195.45,0.075,7673.77,455.0,158
+Abuja,Apparel,Regular,7165.75,0.075,12923.62,313.0,108
+Lagos,Groceries,Regular,31639.81,0.075,7606.37,483.0,197
+Lagos,Groceries,Regular,64069.72,0.075,7229.25,167.0,5
+Port Harcourt,FMCG,Regular,64283.44,0.075,3616.3,491.0,139
+Port Harcourt,Groceries,Regular,7893.21,0.075,7256.48,191.0,72
+Onitsha,FMCG,Regular,7258.71,0.075,8755.13,70.0,5
+Onitsha,Electronics,Regular,20070.81,0.075,1803.81,38.0,5
+Abuja,Electronics,Festive,65670.07,0.075,7495.53,139.0,5
+Port Harcourt,FMCG,Harmattan,10103.24,0.075,12048.31,343.0,112
+Lagos,FMCG,Festive,54139.76,0.075,10680.62,244.0,5
+Onitsha,Apparel,Regular,8036.84,0.075,10074.62,85.0,5
+Onitsha,Apparel,Regular,46923.77,0.075,13779.0,160.0,5
+Lagos,Apparel,Harmattan,27027.01,0.075,1743.43,465.0,216
+Onitsha,Electronics,Regular,59274.09,0.075,9020.14,208.0,5
+Abuja,Apparel,Regular,17909.94,0.075,12129.21,177.0,5
+Port Harcourt,Groceries,Regular,48120.54,0.075,8808.03,117.0,5
+Lagos,Groceries,Regular,18058.35,0.075,5872.59,177.0,34
+Port Harcourt,Apparel,Regular,53667.69,0.075,3339.38,454.0,140
+Onitsha,Groceries,Regular,65589.01,0.075,13482.1,265.0,5
+Onitsha,Electronics,Rainy,9946.73,0.075,7855.29,363.0,127
+Lagos,Groceries,Regular,65061.38,0.075,13354.56,451.0,61
+Abuja,Electronics,Regular,44721.36,0.075,9409.0,255.0,8
+Kano,FMCG,Festive,9969.73,0.075,10601.59,52.0,5
+Lagos,FMCG,Regular,32351.87,0.075,12357.53,380.0,116
+Kano,FMCG,Regular,12484.09,0.075,10398.6,260.0,67
+Kano,FMCG,Festive,52675.92,0.075,6873.74,349.0,87
+Abuja,Groceries,Regular,57035.68,0.075,8434.05,357.0,60
+Kano,Apparel,Regular,8381.84,0.075,12341.11,294.0,81
+Kano,Groceries,Regular,38207.42,0.075,6544.28,90.0,5
+Abuja,Electronics,Regular,61189.57,0.075,6739.64,332.0,55
+Kano,Groceries,Rainy,70244.15,0.075,2791.82,422.0,71
+Kano,Groceries,Festive,38757.08,0.075,13846.89,235.0,7
+Kano,Electronics,Regular,71295.8,0.075,2728.99,98.0,5
+Lagos,FMCG,Rainy,40408.83,0.075,10250.82,188.0,5
+Lagos,FMCG,Rainy,29867.19,0.075,7078.13,317.0,68
+Lagos,FMCG,Regular,63691.13,0.075,6975.86,490.0,122
+Abuja,Apparel,Rainy,37227.21,0.075,10673.95,199.0,5
+Onitsha,Electronics,Regular,35656.74,0.075,2405.77,135.0,5
+Kano,Electronics,Regular,37028.28,0.075,9515.03,279.0,39
+Kano,Groceries,Regular,63585.48,0.075,11922.43,279.0,5
+Abuja,Apparel,Regular,62479.64,0.075,12680.87,24.0,5
+Kano,FMCG,Regular,30562.24,0.075,3802.16,316.0,107
+Lagos,Apparel,Festive,25330.84,0.075,13615.16,127.0,5
+Onitsha,Electronics,Regular,37148.64,0.075,10357.97,362.0,71
+Port Harcourt,Electronics,Regular,43171.55,0.075,13405.04,379.0,82
+Kano,Groceries,Regular,18256.12,0.075,8051.29,136.0,13
+Lagos,Groceries,Harmattan,59649.65,0.075,8817.45,376.0,49
+Port Harcourt,Electronics,Rainy,36742.97,0.075,13907.02,464.0,105
+Onitsha,FMCG,Rainy,25386.39,0.075,13648.78,350.0,105
+Port Harcourt,FMCG,Harmattan,8458.16,0.075,7550.17,458.0,212
+Lagos,Apparel,Festive,18293.96,0.075,5204.57,350.0,212
+Port Harcourt,Electronics,Regular,71221.45,0.075,6807.8,32.0,5
+Abuja,Electronics,Rainy,23229.93,0.075,6734.82,161.0,5
+Port Harcourt,FMCG,Festive,13080.02,0.075,5372.7,207.0,122
+Kano,FMCG,Festive,34820.12,0.075,5125.82,475.0,259
+Kano,Electronics,Festive,23378.04,0.075,13124.35,300.0,107
+Abuja,Groceries,Regular,3119.36,0.075,2443.14,485.0,294
+Lagos,Electronics,Regular,24574.32,0.075,10647.75,134.0,5
+Kano,Electronics,Regular,41036.09,0.075,3833.07,447.0,149
+Onitsha,FMCG,Harmattan,41602.57,0.075,6150.83,255.0,5
+Kano,FMCG,Regular,27063.64,0.075,2330.83,357.0,147
+Kano,Groceries,Regular,33824.06,0.075,5144.64,29.0,5
+Lagos,Groceries,Festive,72431.08,0.075,11873.68,218.0,5
+Port Harcourt,Apparel,Regular,28612.46,0.075,13447.71,271.0,40
+Kano,Electronics,Festive,19737.9,0.075,4490.62,69.0,5
+Abuja,FMCG,Regular,18638.29,0.075,7757.9,447.0,207
+Port Harcourt,Groceries,Regular,34603.46,0.075,7849.37,161.0,5
+Onitsha,Apparel,Regular,57084.25,0.075,13293.27,290.0,5
+Lagos,Apparel,Harmattan,15846.12,0.075,11797.79,35.0,5
+Onitsha,FMCG,Regular,53342.56,0.075,8426.54,21.0,5
+Port Harcourt,FMCG,Regular,2075.66,0.075,10555.09,177.0,41
+Port Harcourt,Apparel,Festive,31710.51,0.075,12939.29,49.0,5
+Port Harcourt,Groceries,Regular,58301.95,0.075,1628.78,101.0,5
+Onitsha,Apparel,Rainy,25735.61,0.075,6939.02,50.0,5
+Port Harcourt,Electronics,Rainy,42498.41,0.075,13747.78,255.0,5
+Onitsha,Electronics,Regular,15770.95,0.075,11494.23,352.0,115
+Port Harcourt,FMCG,Rainy,55778.66,0.075,8828.36,167.0,5
+Abuja,Groceries,Regular,4394.79,0.075,8650.2,196.0,79
+Port Harcourt,Groceries,Rainy,64014.43,0.075,6194.9,389.0,52
+Onitsha,Electronics,Regular,15265.63,0.075,8527.03,54.0,5
+Kano,Apparel,Rainy,65642.65,0.075,10347.67,42.0,5
+Port Harcourt,FMCG,Regular,26763.43,0.075,7147.9,125.0,5
+Kano,Apparel,Rainy,54339.93,0.075,11141.07,116.0,5
+Abuja,Apparel,Regular,24282.28,0.075,13126.64,249.0,22
+Lagos,Apparel,Regular,67990.42,0.075,3588.25,246.0,5
+Abuja,Groceries,Regular,9934.47,0.075,7595.88,390.0,163
+Port Harcourt,Electronics,Regular,13799.72,0.075,7008.27,119.0,25
+Kano,Groceries,Festive,37230.74,0.075,10780.77,464.0,230
+Kano,Electronics,Regular,6604.41,0.075,4873.21,487.0,253
+Onitsha,FMCG,Festive,15100.52,0.075,10143.39,74.0,5
+Kano,FMCG,Festive,70810.6,0.075,13346.1,214.0,5
+Onitsha,Apparel,Rainy,73248.48,0.075,7144.78,27.0,5
+Lagos,Electronics,Regular,28531.32,0.075,13798.71,443.0,156
+Port Harcourt,Electronics,Regular,69284.81,0.075,14907.71,334.0,10
+Onitsha,Electronics,Harmattan,41089.44,0.075,2932.24,147.0,21
+Lagos,Apparel,Regular,20595.81,0.075,4646.22,51.0,5
+Kano,Apparel,Regular,52828.7,0.075,14330.13,112.0,5
+Kano,FMCG,Rainy,49588.18,0.075,14437.42,26.0,5
+Lagos,Groceries,Festive,74189.84,0.075,2819.05,277.0,26
+Kano,Electronics,Harmattan,20246.02,0.075,1702.48,360.0,165
+Lagos,Electronics,Regular,50568.43,0.075,3674.85,409.0,137
+Onitsha,Groceries,Rainy,4375.77,0.075,14946.17,239.0,36
+Onitsha,Electronics,Regular,8966.63,0.075,3929.99,259.0,114
+Lagos,Apparel,Regular,791.92,0.075,8284.39,125.0,44
+Onitsha,Apparel,Festive,74959.82,0.075,12953.64,55.0,5
+Onitsha,Electronics,Regular,60269.39,0.075,1775.42,435.0,145
+Onitsha,Apparel,Regular,59110.86,0.075,9660.6,64.0,5
+Abuja,Apparel,Regular,38474.59,0.075,5239.84,317.0,77
+Port Harcourt,Electronics,Festive,22855.0,0.075,13141.52,328.0,118
+Kano,FMCG,Harmattan,11769.19,0.075,5326.73,385.0,172
+Abuja,Groceries,Rainy,21708.27,0.075,10771.2,28.0,5
+Onitsha,Apparel,Harmattan,28509.86,0.075,10601.97,478.0,153
+Lagos,FMCG,Regular,56845.1,0.075,4490.16,106.0,5
+Onitsha,Apparel,Regular,40704.8,0.075,1969.79,389.0,140
+Port Harcourt,Apparel,Regular,6272.53,0.075,7024.87,350.0,128
+Onitsha,Groceries,Regular,1843.16,0.075,5404.11,196.0,99
+Lagos,Apparel,Regular,8123.75,0.075,12421.2,149.0,13
+Port Harcourt,Groceries,Festive,31082.15,0.075,12304.92,214.0,10
+Onitsha,Groceries,Regular,70022.87,0.075,7669.82,30.0,5
+Port Harcourt,Groceries,Regular,47986.48,0.075,9687.92,325.0,59
+Kano,FMCG,Regular,60236.03,0.075,9657.5,438.0,81
+Kano,Electronics,Regular,35244.91,0.075,12666.64,141.0,5
+Onitsha,FMCG,Festive,27444.12,0.075,7237.53,418.0,233
+Port Harcourt,Electronics,Regular,8575.83,0.075,5218.53,254.0,114
+Lagos,Electronics,Regular,65757.01,0.075,5077.97,350.0,33
+Onitsha,Groceries,Harmattan,58845.42,0.075,8738.6,50.0,5
+Kano,Apparel,Regular,13024.8,0.075,7563.5,367.0,144
+Kano,Groceries,Regular,38663.41,0.075,7441.63,465.0,162
+Onitsha,Apparel,Regular,36809.42,0.075,2730.35,431.0,197
+Port Harcourt,Electronics,Rainy,47069.32,0.075,11201.15,243.0,5
+Kano,Groceries,Festive,70990.92,0.075,4385.45,172.0,5
+Port Harcourt,Apparel,Harmattan,43692.97,0.075,4158.87,231.0,35
+Kano,FMCG,Regular,40746.19,0.075,7072.24,111.0,5
+Kano,Apparel,Festive,4249.06,0.075,4575.01,428.0,284
+Abuja,Groceries,Regular,5186.61,0.075,9382.09,350.0,170
+Kano,FMCG,Regular,14457.34,0.075,6514.76,486.0,223
+Lagos,Apparel,Regular,2919.07,0.075,7560.31,367.0,209
+Onitsha,Apparel,Regular,55879.79,0.075,8751.79,148.0,5
+Onitsha,Apparel,Rainy,54388.11,0.075,4247.73,462.0,127
+Port Harcourt,Apparel,Rainy,10636.19,0.075,3602.65,216.0,89
+Kano,Apparel,Festive,62787.88,0.075,13385.7,477.0,138
+Lagos,FMCG,Rainy,12031.56,0.075,7355.27,61.0,5
+Port Harcourt,Electronics,Rainy,22937.58,0.075,7063.26,385.0,125
+Abuja,FMCG,Regular,19048.78,0.075,1980.76,437.0,217
+Port Harcourt,FMCG,Regular,28236.88,0.075,8222.68,247.0,71
+Port Harcourt,FMCG,Rainy,19472.45,0.075,8981.29,213.0,50
+Kano,Electronics,Regular,36926.84,0.075,9044.35,37.0,5
+Abuja,Groceries,Festive,30851.89,0.075,11044.92,352.0,117
+Port Harcourt,Electronics,Regular,73999.43,0.075,3896.0,262.0,5
+Lagos,FMCG,Regular,4666.51,0.075,4905.01,408.0,191
+Lagos,Apparel,Regular,11092.51,0.075,12444.86,295.0,94
+Onitsha,Apparel,Regular,4435.53,0.075,14286.8,469.0,213
+Abuja,FMCG,Regular,47125.17,0.075,3335.09,146.0,5
+Abuja,Apparel,Harmattan,4560.94,0.075,8218.27,94.0,31
+Onitsha,FMCG,Regular,62814.76,0.075,4391.38,81.0,5
+Port Harcourt,Apparel,Rainy,38639.43,0.075,2310.99,497.0,193
+Abuja,Electronics,Regular,39762.07,0.075,5894.3,499.0,200
+Lagos,Groceries,Regular,42338.79,0.075,3439.78,307.0,68
+Lagos,Groceries,Regular,13225.62,0.075,11084.1,205.0,35
+Kano,Electronics,Festive,15227.93,0.075,8705.29,197.0,80
+Abuja,Electronics,Regular,24251.89,0.075,3441.77,185.0,36
+Port Harcourt,FMCG,Harmattan,44715.48,0.075,1624.76,202.0,44
+Onitsha,FMCG,Regular,16153.77,0.075,12410.12,47.0,5
+Onitsha,FMCG,Harmattan,9166.71,0.075,3878.62,349.0,174
+Port Harcourt,Apparel,Regular,72773.71,0.075,9683.92,489.0,81
+Kano,FMCG,Rainy,2137.65,0.075,6048.45,266.0,107
+Onitsha,Electronics,Rainy,60300.96,0.075,9404.06,356.0,51
+Abuja,Groceries,Festive,59208.62,0.075,5761.32,41.0,5
+Kano,Apparel,Regular,22642.45,0.075,2673.68,446.0,206
+Abuja,FMCG,Regular,10604.18,0.075,4509.83,486.0,259
+Lagos,Apparel,Regular,11349.33,0.075,4038.79,484.0,238
+Kano,Apparel,Festive,52458.66,0.075,7278.26,491.0,201
+Onitsha,FMCG,Rainy,48389.09,0.075,10386.83,439.0,76
+Kano,Apparel,Harmattan,58814.55,0.075,5061.38,115.0,5
+Kano,Groceries,Regular,70342.35,0.075,1662.94,141.0,5
+Kano,Electronics,Regular,52048.59,0.075,8505.65,269.0,5
+Kano,Electronics,Regular,12110.94,0.075,9677.75,398.0,166
+Abuja,Groceries,Festive,18636.47,0.075,14498.75,327.0,117
+Lagos,Apparel,Rainy,63243.43,0.075,9457.86,439.0,70
+Port Harcourt,FMCG,Festive,16093.3,0.075,7860.83,431.0,274
+Kano,Apparel,Regular,5902.91,0.075,9240.92,353.0,178
+Onitsha,Groceries,Rainy,52894.36,0.075,14026.66,461.0,105
+Kano,Apparel,Rainy,30488.21,0.075,12683.1,439.0,114
+Onitsha,Electronics,Regular,69042.98,0.075,5860.21,345.0,69
+Abuja,Apparel,Festive,48944.0,0.075,4702.93,156.0,5
+Onitsha,Groceries,Festive,7236.21,0.075,5045.55,296.0,186
+Port Harcourt,Electronics,Festive,71115.31,0.075,8309.68,339.0,15
+Lagos,Apparel,Harmattan,19762.52,0.075,11544.67,351.0,124
+Onitsha,Apparel,Regular,25622.33,0.075,8293.46,80.0,5
+Onitsha,Electronics,Regular,30468.4,0.075,2415.25,269.0,75
+Lagos,FMCG,Festive,4316.21,0.075,11268.34,497.0,324
+Port Harcourt,Electronics,Regular,37490.4,0.075,12380.6,114.0,5
+Kano,FMCG,Harmattan,9687.23,0.075,5408.22,315.0,123
+Onitsha,Groceries,Harmattan,30372.29,0.075,10465.7,203.0,23
+Lagos,Groceries,Rainy,26627.88,0.075,7258.99,279.0,81
+Abuja,Electronics,Festive,58076.59,0.075,13503.11,306.0,12
+Lagos,Electronics,Regular,60336.2,0.075,12910.55,174.0,5
+Abuja,Groceries,Regular,11929.26,0.075,8593.33,205.0,42
+Port Harcourt,FMCG,Regular,27808.06,0.075,10835.32,428.0,137
+Kano,Groceries,Regular,28314.81,0.075,13425.22,88.0,5
+Lagos,Electronics,Regular,11780.08,0.075,8192.18,345.0,144
+Onitsha,Groceries,Regular,59984.79,0.075,5728.88,280.0,5
+Port Harcourt,Electronics,Festive,53188.51,0.075,11674.49,134.0,5
+Lagos,Electronics,Festive,14683.44,0.075,4470.89,366.0,244
+Onitsha,Groceries,Regular,27820.78,0.075,6745.17,27.0,5
+Lagos,FMCG,Regular,8382.47,0.075,13187.32,284.0,73
+Abuja,Apparel,Festive,47301.39,0.075,11279.7,290.0,60
+Lagos,Groceries,Regular,9542.21,0.075,6951.45,268.0,84
+Lagos,Apparel,Regular,73952.1,0.075,4399.05,124.0,5
+Lagos,Groceries,Regular,58660.81,0.075,6305.57,282.0,46
+Port Harcourt,Apparel,Rainy,29572.77,0.075,5335.41,243.0,62
+Lagos,FMCG,Regular,43603.01,0.075,3877.21,347.0,114
+Onitsha,FMCG,Festive,68394.97,0.075,11534.99,390.0,39
+Abuja,Groceries,Regular,41780.4,0.075,4902.94,290.0,71
+Abuja,Electronics,Rainy,13500.14,0.075,7631.26,184.0,40
+Lagos,Apparel,Regular,28713.4,0.075,6709.1,102.0,5
+Port Harcourt,Electronics,Regular,63314.29,0.075,14758.04,314.0,5
+Port Harcourt,Electronics,Rainy,48493.87,0.075,6779.75,153.0,5
+Onitsha,Electronics,Harmattan,48978.97,0.075,2579.76,230.0,15
+Lagos,FMCG,Harmattan,65078.2,0.075,2712.65,332.0,59
+Abuja,Groceries,Rainy,67100.99,0.075,9475.18,111.0,5
+Port Harcourt,Groceries,Festive,69024.55,0.075,9591.41,356.0,41
+Lagos,FMCG,Festive,7566.26,0.075,7153.25,422.0,280
+Port Harcourt,FMCG,Harmattan,41037.39,0.075,7329.89,146.0,5
+Port Harcourt,Groceries,Regular,55667.96,0.075,2228.09,210.0,5
+Abuja,Electronics,Regular,56891.05,0.075,8473.38,178.0,5
+Kano,Apparel,Regular,45700.36,0.075,8313.98,350.0,84
+Onitsha,Apparel,Rainy,12925.66,0.075,3518.92,354.0,137
+Onitsha,Apparel,Regular,59907.83,0.075,2901.83,29.0,5
+Abuja,Electronics,Regular,54148.29,0.075,3168.23,126.0,5
+Port Harcourt,Groceries,Festive,6917.11,0.075,2863.88,106.0,62
+Lagos,FMCG,Festive,35053.83,0.075,9731.06,86.0,5
+Port Harcourt,Groceries,Festive,13461.32,0.075,4152.52,81.0,5
+Abuja,Electronics,Regular,25642.04,0.075,4894.31,406.0,157
+Onitsha,FMCG,Rainy,1847.04,0.075,3843.22,165.0,72
+Port Harcourt,Electronics,Regular,30324.58,0.075,14430.78,172.0,5
+Onitsha,Apparel,Regular,41465.83,0.075,13037.34,126.0,5
+Lagos,Apparel,Regular,46658.9,0.075,4611.68,167.0,5
+Onitsha,Electronics,Regular,49930.03,0.075,5922.14,205.0,5
+Onitsha,FMCG,Regular,62803.7,0.075,4333.55,368.0,63
+Kano,FMCG,Festive,16551.99,0.075,8140.33,361.0,216
+Kano,Groceries,Regular,9475.9,0.075,1764.74,197.0,68
+Kano,Apparel,Harmattan,63939.52,0.075,10563.47,396.0,45
+Onitsha,Groceries,Rainy,12167.65,0.075,8562.64,354.0,119
+Abuja,Groceries,Regular,73119.63,0.075,13631.63,285.0,5
+Onitsha,Electronics,Regular,63269.1,0.075,3719.3,168.0,5
+Abuja,Electronics,Regular,37815.31,0.075,12355.47,266.0,33
+Abuja,Groceries,Rainy,73615.9,0.075,12191.47,273.0,5
+Kano,Apparel,Regular,7754.57,0.075,3216.95,48.0,9
+Port Harcourt,Electronics,Regular,23078.4,0.075,6880.55,371.0,159
+Lagos,Groceries,Regular,48047.72,0.075,3797.06,285.0,50
+Kano,Groceries,Rainy,26575.51,0.075,4938.73,32.0,5
+Kano,Groceries,Festive,69663.76,0.075,5053.82,66.0,5
+Port Harcourt,Groceries,Regular,5389.14,0.075,9009.19,170.0,42
+Lagos,Groceries,Harmattan,41431.18,0.075,7054.05,69.0,5
+Onitsha,Groceries,Rainy,44519.54,0.075,14294.39,234.0,5
+Onitsha,Electronics,Festive,49128.25,0.075,3206.0,498.0,253
+Kano,Apparel,Festive,19547.13,0.075,14644.84,151.0,5
+Lagos,Groceries,Rainy,27660.2,0.075,4613.62,391.0,137
+Kano,FMCG,Rainy,63354.2,0.075,11933.8,132.0,5
+Abuja,Electronics,Festive,15023.24,0.075,6076.09,271.0,145
+Kano,Electronics,Regular,62101.65,0.075,3431.6,470.0,133
+Kano,Groceries,Regular,42417.83,0.075,13081.5,360.0,59
+Onitsha,Electronics,Regular,57282.97,0.075,5669.62,72.0,5
+Onitsha,Groceries,Festive,53663.75,0.075,10394.55,149.0,5
+Onitsha,Apparel,Festive,15959.61,0.075,9146.99,343.0,185
+Abuja,Apparel,Regular,42876.55,0.075,7868.71,212.0,5
+Onitsha,Electronics,Rainy,65145.37,0.075,8193.56,98.0,5
+Lagos,Electronics,Regular,32692.66,0.075,11385.21,76.0,5
+Port Harcourt,FMCG,Regular,72511.01,0.075,2684.93,116.0,5
+Lagos,Electronics,Festive,34190.02,0.075,10520.44,217.0,33
+Lagos,FMCG,Regular,11137.53,0.075,13593.46,154.0,11
+Onitsha,Apparel,Regular,29512.88,0.075,2280.14,166.0,61
+Port Harcourt,Apparel,Rainy,71401.83,0.075,3398.82,191.0,5
+Port Harcourt,Groceries,Harmattan,24319.2,0.075,11174.53,82.0,5
+Port Harcourt,Apparel,Regular,65173.31,0.075,7403.3,84.0,5
+Abuja,FMCG,Rainy,66153.18,0.075,6947.91,314.0,39
+Onitsha,Electronics,Rainy,26588.9,0.075,3349.05,230.0,48
+Port Harcourt,Groceries,Regular,6702.7,0.075,8341.4,128.0,5
+Abuja,FMCG,Regular,54479.56,0.075,3208.36,301.0,61
+Kano,Electronics,Rainy,23707.67,0.075,7934.38,191.0,15
+Kano,Groceries,Regular,58827.81,0.075,11808.81,31.0,5
+Abuja,Apparel,Festive,33477.79,0.075,4986.57,425.0,209
+Abuja,FMCG,Festive,36652.37,0.075,7990.61,352.0,132
+Onitsha,Electronics,Festive,58454.25,0.075,14892.22,239.0,5
+Onitsha,Groceries,Regular,28986.07,0.075,10769.78,417.0,139
+Kano,Groceries,Festive,33512.99,0.075,12858.32,361.0,149
+Port Harcourt,Apparel,Regular,28526.19,0.075,7100.44,305.0,87
+Kano,Electronics,Regular,27866.87,0.075,11866.12,191.0,5
+Port Harcourt,Apparel,Regular,39683.02,0.075,2046.87,487.0,178
+Port Harcourt,Apparel,Regular,60755.56,0.075,3159.3,255.0,15
+Onitsha,Electronics,Rainy,27451.74,0.075,4241.45,494.0,203
+Lagos,Electronics,Regular,39556.98,0.075,6926.35,185.0,5
+Lagos,Electronics,Regular,50469.19,0.075,12917.56,206.0,5
+Abuja,FMCG,Rainy,20573.24,0.075,6174.59,189.0,44
+Onitsha,Electronics,Regular,21175.45,0.075,10337.39,71.0,5
+Port Harcourt,Groceries,Rainy,70039.28,0.075,11075.74,338.0,5
+Lagos,Apparel,Regular,54403.33,0.075,9413.46,208.0,5
+Port Harcourt,FMCG,Festive,43500.41,0.075,6322.77,139.0,5
+Lagos,Electronics,Festive,48755.14,0.075,9290.22,124.0,5
+Lagos,FMCG,Regular,2682.81,0.075,6120.59,181.0,99
+Lagos,Electronics,Regular,46548.67,0.075,2632.3,314.0,52
+Onitsha,FMCG,Regular,38458.41,0.075,14902.85,60.0,5
+Kano,Apparel,Festive,41158.35,0.075,3216.96,396.0,189
+Port Harcourt,Apparel,Regular,27277.08,0.075,2476.7,383.0,154
+Onitsha,Groceries,Regular,6569.81,0.075,13360.17,184.0,40
+Onitsha,Groceries,Regular,14903.77,0.075,5574.77,340.0,143
+Onitsha,Electronics,Regular,71330.48,0.075,10279.01,393.0,11
+Onitsha,Apparel,Regular,30948.12,0.075,5941.58,354.0,96
+Onitsha,FMCG,Festive,35267.9,0.075,6784.63,179.0,14
+Abuja,FMCG,Regular,4426.88,0.075,5038.53,283.0,111
+Port Harcourt,FMCG,Regular,3298.68,0.075,6131.09,372.0,197
+Onitsha,Groceries,Festive,53930.02,0.075,7044.46,37.0,5
+Port Harcourt,FMCG,Festive,40588.05,0.075,11225.62,192.0,5
+Abuja,Groceries,Regular,38398.6,0.075,8405.74,496.0,177
+Abuja,Groceries,Regular,18612.78,0.075,14238.13,371.0,121
+Port Harcourt,Electronics,Regular,55983.93,0.075,2065.39,52.0,5
+Lagos,FMCG,Festive,13033.63,0.075,8291.42,280.0,141
+Kano,FMCG,Regular,14650.14,0.075,9387.03,229.0,44
+Lagos,Apparel,Festive,34823.06,0.075,13922.66,402.0,145
+Lagos,Electronics,Rainy,21827.85,0.075,2163.64,349.0,149
+Lagos,Apparel,Rainy,18935.99,0.075,9242.24,401.0,143
+Onitsha,Electronics,Regular,48570.2,0.075,13024.0,183.0,5
+Abuja,FMCG,Regular,48997.4,0.075,4766.02,426.0,123
+Lagos,Groceries,Regular,61926.52,0.075,13329.95,443.0,74
+Abuja,Groceries,Regular,31619.29,0.075,1757.09,24.0,5
+Port Harcourt,Groceries,Rainy,5944.84,0.075,11388.14,53.0,5
+Kano,Groceries,Festive,20888.15,0.075,14097.03,299.0,81
+Port Harcourt,Groceries,Rainy,73510.41,0.075,10372.17,164.0,5
+Port Harcourt,Apparel,Harmattan,44921.26,0.075,7426.89,370.0,73
+Onitsha,Electronics,Regular,53375.41,0.075,2105.89,90.0,5
+Kano,FMCG,Regular,1048.16,0.075,13921.54,484.0,208
+Port Harcourt,Apparel,Regular,39106.33,0.075,7849.0,367.0,112
+Port Harcourt,Electronics,Rainy,3295.88,0.075,1891.46,249.0,123
+Kano,Groceries,Festive,42907.65,0.075,10812.58,144.0,5
+Kano,Electronics,Rainy,69097.43,0.075,8004.8,297.0,5
+Port Harcourt,Electronics,Regular,72647.23,0.075,3178.66,290.0,23
+Kano,Groceries,Regular,40771.17,0.075,4392.67,376.0,115
+Port Harcourt,Groceries,Rainy,34636.26,0.075,2370.62,34.0,5
+Port Harcourt,Groceries,Regular,70903.77,0.075,9252.96,261.0,5
+Onitsha,FMCG,Festive,50683.93,0.075,9897.4,172.0,5
+Lagos,Groceries,Festive,5335.0,0.075,8327.52,72.0,5
+Port Harcourt,FMCG,Rainy,35196.56,0.075,12530.88,168.0,5
+Abuja,Groceries,Regular,18398.25,0.075,13123.62,377.0,122
+Lagos,FMCG,Regular,35500.42,0.075,9810.93,469.0,138
+Lagos,Electronics,Regular,34432.19,0.075,1672.21,238.0,66
+Lagos,Apparel,Regular,43869.79,0.075,10885.6,132.0,5
+Onitsha,Electronics,Regular,27079.4,0.075,7142.99,307.0,90
+Port Harcourt,Electronics,Rainy,12738.15,0.075,9135.03,296.0,64
+Onitsha,Groceries,Rainy,38027.1,0.075,10262.59,471.0,144
+Port Harcourt,FMCG,Regular,62350.11,0.075,6228.19,447.0,121
+Onitsha,Apparel,Regular,49968.91,0.075,13880.83,102.0,5
+Onitsha,Groceries,Regular,25708.41,0.075,3308.66,469.0,204
+Abuja,Groceries,Regular,70196.47,0.075,10565.41,237.0,5
+Onitsha,Groceries,Festive,68459.46,0.075,1558.85,245.0,5
+Kano,Electronics,Regular,16096.46,0.075,13982.79,289.0,54
+Abuja,FMCG,Regular,3436.61,0.075,3018.81,34.0,5
+Onitsha,FMCG,Regular,55727.5,0.075,2780.94,423.0,137
+Lagos,Apparel,Festive,62156.96,0.075,5995.6,309.0,51
+Kano,FMCG,Rainy,72605.91,0.075,6543.14,439.0,39
+Kano,FMCG,Regular,66792.81,0.075,4393.05,358.0,49
+Kano,Groceries,Rainy,45239.84,0.075,9399.14,284.0,46
+Abuja,Groceries,Harmattan,39988.9,0.075,7479.34,218.0,17
+Onitsha,Electronics,Festive,2574.16,0.075,1961.37,177.0,109
+Onitsha,Groceries,Regular,18875.91,0.075,5815.3,352.0,163
+Lagos,Groceries,Festive,34741.3,0.075,12440.84,494.0,245
+Lagos,Groceries,Festive,47323.54,0.075,10810.97,466.0,178
+Kano,Groceries,Festive,42015.26,0.075,11285.76,438.0,184
+Lagos,Electronics,Rainy,55826.38,0.075,10924.58,416.0,104
+Abuja,Groceries,Rainy,21342.64,0.075,5698.14,226.0,42
+Onitsha,Apparel,Regular,42588.97,0.075,2845.46,193.0,24
+Kano,Apparel,Harmattan,7066.6,0.075,5178.31,203.0,107
+Lagos,Apparel,Rainy,31318.08,0.075,12729.1,284.0,49
+Abuja,Apparel,Rainy,56386.98,0.075,14736.36,490.0,85
+Abuja,Groceries,Regular,52158.36,0.075,8166.93,265.0,17
+Lagos,Apparel,Harmattan,74302.88,0.075,1630.95,55.0,5
+Onitsha,Groceries,Festive,21202.89,0.075,3390.6,392.0,230
+Lagos,Electronics,Regular,37615.1,0.075,5848.09,278.0,61
+Kano,Apparel,Festive,25050.02,0.075,9310.9,38.0,5
+Lagos,FMCG,Rainy,33324.93,0.075,2513.76,431.0,151
+Abuja,Apparel,Festive,64342.78,0.075,14235.32,42.0,5
+Lagos,Apparel,Regular,51473.58,0.075,6428.63,123.0,5
+Onitsha,Groceries,Regular,66241.87,0.075,13819.89,260.0,5
+Port Harcourt,Apparel,Festive,15661.58,0.075,12037.04,410.0,233
+Lagos,FMCG,Regular,65565.4,0.075,11698.4,380.0,19
+Onitsha,Groceries,Festive,4952.29,0.075,9690.71,223.0,106
+Onitsha,Groceries,Regular,66700.65,0.075,9961.58,272.0,5
+Abuja,Electronics,Rainy,25016.0,0.075,10113.04,161.0,5
+Onitsha,Electronics,Regular,23936.78,0.075,9987.74,321.0,94
+Onitsha,Apparel,Rainy,38650.6,0.075,8975.33,162.0,5
+Onitsha,Electronics,Regular,70581.42,0.075,14816.59,470.0,88
+Onitsha,Electronics,Regular,4059.71,0.075,11385.92,290.0,137
+Kano,Electronics,Regular,26741.21,0.075,11988.78,326.0,90
+Kano,Groceries,Regular,64314.61,0.075,13278.25,491.0,108
+Abuja,Groceries,Festive,30006.06,0.075,4411.14,129.0,5
+Lagos,Groceries,Festive,15337.19,0.075,2631.36,27.0,5
+Onitsha,Electronics,Regular,32147.17,0.075,8019.07,88.0,5
+Lagos,Groceries,Harmattan,29223.66,0.075,8440.09,209.0,23
+Lagos,Electronics,Regular,68698.51,0.075,12693.95,198.0,5
+Abuja,Groceries,Rainy,57264.11,0.075,7491.08,82.0,5
+Onitsha,Groceries,Festive,38131.11,0.075,9206.52,87.0,5
+Onitsha,FMCG,Festive,74133.61,0.075,8615.46,225.0,5
+Port Harcourt,Apparel,Regular,35163.18,0.075,2015.74,419.0,165
+Lagos,Electronics,Harmattan,4838.72,0.075,9805.4,487.0,200
+Lagos,FMCG,Regular,20039.44,0.075,12678.58,427.0,151
+Kano,Groceries,Festive,32987.25,0.075,3626.26,25.0,5
+Port Harcourt,Electronics,Regular,12189.25,0.075,9523.48,138.0,5
+Kano,Groceries,Rainy,71093.6,0.075,9513.74,332.0,5
+Kano,Apparel,Rainy,57630.24,0.075,3716.5,50.0,5
+Kano,FMCG,Rainy,20487.4,0.075,3166.76,25.0,5
+Abuja,Apparel,Regular,44514.94,0.075,14730.7,226.0,5
+Abuja,FMCG,Festive,54247.96,0.075,6815.21,176.0,5
+Kano,Groceries,Regular,70625.28,0.075,4570.19,86.0,5
+Port Harcourt,Apparel,Rainy,66181.83,0.075,3812.88,478.0,141
+Lagos,Apparel,Regular,38881.82,0.075,10512.62,406.0,131
+Port Harcourt,Groceries,Regular,58211.62,0.075,9727.51,431.0,74
+Onitsha,Apparel,Rainy,42379.78,0.075,10187.95,349.0,73
+Abuja,Electronics,Regular,41676.44,0.075,2688.08,389.0,162
+Lagos,FMCG,Regular,9048.28,0.075,13562.72,372.0,122
+Lagos,FMCG,Regular,9897.26,0.075,6755.1,451.0,202
+Onitsha,FMCG,Regular,39950.25,0.075,5730.49,355.0,92
+Onitsha,Electronics,Harmattan,20530.19,0.075,7741.88,398.0,164
+Kano,FMCG,Festive,2067.25,0.075,6765.89,413.0,298
+Abuja,Groceries,Regular,54351.52,0.075,13158.29,308.0,5
+Abuja,Apparel,Regular,2920.25,0.075,14045.02,470.0,211
+Port Harcourt,Electronics,Regular,44848.12,0.075,5596.62,472.0,161
+Kano,FMCG,Regular,40669.94,0.075,13163.13,159.0,5
+Kano,Groceries,Rainy,72676.69,0.075,12050.56,460.0,50
+Kano,Apparel,Rainy,36573.88,0.075,14065.9,319.0,48
+Kano,Apparel,Regular,5238.31,0.075,4817.63,32.0,5
+Abuja,Electronics,Regular,41600.75,0.075,9288.95,171.0,5
+Abuja,Electronics,Regular,63161.66,0.075,5206.35,447.0,90
+Kano,Electronics,Festive,74765.27,0.075,12625.28,332.0,5
+Port Harcourt,Groceries,Festive,32560.57,0.075,1571.88,371.0,220
+Lagos,Groceries,Regular,24362.26,0.075,9125.06,419.0,150
+Lagos,Electronics,Regular,68045.67,0.075,6079.25,499.0,110
+Port Harcourt,FMCG,Festive,14747.54,0.075,5856.23,128.0,36
+Kano,Apparel,Festive,46349.45,0.075,10206.24,395.0,151
+Abuja,Apparel,Regular,30725.72,0.075,12995.04,375.0,98
+Lagos,Groceries,Regular,3560.64,0.075,9724.14,168.0,20
+Onitsha,Apparel,Regular,26372.99,0.075,13017.84,386.0,108
+Onitsha,FMCG,Rainy,20259.52,0.075,5072.06,223.0,63
+Port Harcourt,Apparel,Regular,51613.79,0.075,8513.28,326.0,37
+Kano,Groceries,Regular,71184.89,0.075,7582.24,40.0,5
+Lagos,Groceries,Rainy,20469.52,0.075,1657.21,79.0,5
+Kano,FMCG,Regular,60954.21,0.075,9016.96,454.0,105
+Lagos,FMCG,Harmattan,4624.31,0.075,10430.58,40.0,5
+Port Harcourt,Apparel,Regular,40590.02,0.075,9490.84,382.0,109
+Port Harcourt,Apparel,Regular,5755.98,0.075,11439.78,401.0,171
+Onitsha,Groceries,Rainy,70085.46,0.075,9213.08,264.0,5
+Kano,FMCG,Regular,57593.17,0.075,2401.13,409.0,106
+Onitsha,FMCG,Festive,49517.27,0.075,3072.01,92.0,5
+Kano,FMCG,Rainy,61880.28,0.075,9552.41,468.0,94
+Onitsha,Apparel,Regular,48740.22,0.075,5212.22,95.0,5
+Abuja,FMCG,Harmattan,72686.36,0.075,2575.21,205.0,5
+Abuja,Groceries,Regular,53689.87,0.075,7299.64,97.0,5
+Abuja,Groceries,Festive,69387.07,0.075,8983.36,409.0,81
+Abuja,Apparel,Regular,39026.33,0.075,5938.07,84.0,5
+Lagos,Electronics,Rainy,9221.3,0.075,11225.85,361.0,131
+Abuja,Apparel,Regular,39849.24,0.075,10190.9,309.0,35
+Port Harcourt,Electronics,Regular,9952.03,0.075,5993.05,75.0,15
+Port Harcourt,FMCG,Festive,44640.76,0.075,11690.78,350.0,98
+Lagos,Apparel,Festive,36445.73,0.075,10257.38,278.0,74
+Abuja,Groceries,Regular,46881.87,0.075,10105.51,445.0,128
+Abuja,FMCG,Regular,1248.5,0.075,8971.27,209.0,42
+Abuja,Groceries,Festive,15015.62,0.075,1653.76,25.0,5
+Onitsha,FMCG,Festive,37104.12,0.075,10902.85,25.0,5
+Kano,Apparel,Regular,71312.52,0.075,6576.56,210.0,5
+Onitsha,Electronics,Regular,29078.87,0.075,14225.23,167.0,5
+Kano,FMCG,Regular,32115.72,0.075,12542.79,424.0,156
+Abuja,Electronics,Festive,53744.86,0.075,9433.88,277.0,7
+Abuja,FMCG,Regular,45482.56,0.075,4904.46,237.0,18
+Onitsha,Groceries,Regular,22770.0,0.075,4250.18,498.0,219
+Onitsha,Groceries,Harmattan,31105.82,0.075,6095.2,109.0,5
+Kano,FMCG,Regular,16718.64,0.075,7933.67,331.0,109
+Port Harcourt,Electronics,Regular,72468.6,0.075,5496.88,371.0,22
+Kano,Apparel,Regular,10232.26,0.075,8451.55,29.0,5
+Onitsha,Apparel,Regular,28201.84,0.075,3732.5,106.0,18
+Onitsha,Groceries,Regular,2425.0,0.075,14699.12,269.0,113
+Lagos,Apparel,Rainy,17022.57,0.075,2956.98,345.0,129
+Onitsha,Groceries,Regular,58645.1,0.075,14081.25,170.0,5
+Lagos,Apparel,Rainy,15487.55,0.075,13833.3,495.0,195
+Port Harcourt,FMCG,Festive,6464.72,0.075,8592.37,132.0,39
+Kano,Groceries,Harmattan,35846.76,0.075,11286.29,49.0,5
+Kano,Groceries,Regular,1242.71,0.075,7386.65,147.0,44
+Lagos,FMCG,Regular,6815.08,0.075,10005.47,97.0,12
+Kano,Groceries,Regular,60668.13,0.075,6097.78,440.0,96
+Onitsha,Apparel,Regular,57974.76,0.075,5565.65,74.0,5
+Abuja,Apparel,Regular,68677.84,0.075,9306.1,499.0,120
+Lagos,Groceries,Rainy,64161.4,0.075,8224.75,324.0,23
+Kano,Apparel,Regular,51396.58,0.075,9323.74,53.0,5
+Lagos,Electronics,Regular,4398.8,0.075,5369.92,124.0,39
+Lagos,Groceries,Regular,58822.22,0.075,6453.93,191.0,5
+Abuja,FMCG,Rainy,63490.56,0.075,2632.62,41.0,5
+Onitsha,Electronics,Regular,60031.62,0.075,2205.73,306.0,28
+Lagos,Groceries,Rainy,38381.69,0.075,4921.67,410.0,139
+Kano,FMCG,Regular,17851.19,0.075,2502.33,124.0,39
+Port Harcourt,Apparel,Festive,63477.08,0.075,2900.96,168.0,5
+Lagos,FMCG,Festive,54673.63,0.075,12474.53,291.0,5
+Lagos,Electronics,Regular,73566.71,0.075,2024.79,295.0,10
+Abuja,Apparel,Regular,12099.1,0.075,10395.73,318.0,113
+Onitsha,Groceries,Regular,17312.01,0.075,5179.53,191.0,57
+Port Harcourt,Apparel,Regular,16278.96,0.075,13265.87,66.0,5
+Kano,Groceries,Rainy,59544.21,0.075,8047.4,133.0,5
+Port Harcourt,Groceries,Festive,14424.59,0.075,5625.28,294.0,179
+Kano,FMCG,Rainy,5466.16,0.075,8488.13,323.0,128
+Onitsha,FMCG,Festive,74892.78,0.075,6656.43,499.0,148
+Kano,FMCG,Regular,2348.88,0.075,9118.06,226.0,110
+Abuja,Electronics,Regular,62725.68,0.075,3046.19,472.0,138
+Abuja,Electronics,Harmattan,27719.83,0.075,14959.37,414.0,116
+Abuja,FMCG,Regular,63200.35,0.075,7245.0,482.0,135
+Abuja,Electronics,Rainy,41819.23,0.075,6201.11,432.0,131
+Port Harcourt,Apparel,Regular,67671.53,0.075,11087.83,261.0,5
+Onitsha,Apparel,Regular,69501.38,0.075,6412.64,320.0,27
+Kano,Electronics,Festive,1177.81,0.075,12749.2,215.0,102
+Kano,Electronics,Regular,6118.21,0.075,7632.65,183.0,66
+Abuja,Apparel,Festive,19151.73,0.075,11214.04,195.0,31
+Abuja,Groceries,Festive,50364.0,0.075,2950.62,362.0,143
+Lagos,Apparel,Harmattan,66676.28,0.075,12922.61,290.0,5
+Onitsha,Apparel,Rainy,34765.68,0.075,11432.19,129.0,5
+Port Harcourt,Electronics,Rainy,45719.5,0.075,4358.18,191.0,5
+Kano,Apparel,Festive,14543.24,0.075,3461.36,470.0,340
+Lagos,Electronics,Regular,60470.03,0.075,5769.95,371.0,53
+Lagos,Electronics,Regular,72565.94,0.075,14676.95,221.0,5
+Kano,FMCG,Rainy,20510.62,0.075,4967.23,187.0,25
+Port Harcourt,Apparel,Regular,37364.53,0.075,7657.72,121.0,5
+Lagos,Groceries,Regular,6915.65,0.075,1905.27,105.0,37
+Lagos,FMCG,Regular,42155.68,0.075,6862.57,161.0,5
+Onitsha,Electronics,Rainy,37957.37,0.075,9212.82,466.0,120
+Port Harcourt,Electronics,Festive,11260.52,0.075,14367.18,356.0,164
+Lagos,Groceries,Regular,33433.93,0.075,8475.94,232.0,15
+Port Harcourt,Electronics,Festive,25390.8,0.075,12557.95,70.0,5
+Kano,Apparel,Rainy,39376.4,0.075,8886.22,131.0,5
+Abuja,FMCG,Festive,44131.25,0.075,2050.6,482.0,281
+Lagos,Electronics,Rainy,1132.92,0.075,5752.61,461.0,201
+Onitsha,Electronics,Harmattan,57194.95,0.075,9269.92,290.0,36
+Kano,Groceries,Regular,53619.56,0.075,14333.02,84.0,5
+Port Harcourt,Apparel,Festive,27788.34,0.075,13098.26,363.0,126
+Kano,Electronics,Regular,4443.73,0.075,4582.8,202.0,76
+Lagos,Groceries,Festive,56742.47,0.075,4471.48,351.0,105
+Port Harcourt,Electronics,Festive,71660.55,0.075,4215.84,29.0,5
+Abuja,Groceries,Regular,18391.29,0.075,13953.74,253.0,22
+Kano,Groceries,Regular,24602.58,0.075,13010.99,317.0,45
+Lagos,Apparel,Harmattan,14194.06,0.075,11960.93,263.0,70
+Onitsha,Electronics,Regular,43481.74,0.075,6801.92,370.0,109
+Port Harcourt,Apparel,Festive,12035.68,0.075,8309.14,286.0,149
+Kano,Groceries,Regular,27036.45,0.075,7768.48,137.0,5
+Kano,FMCG,Regular,52427.47,0.075,4920.87,163.0,5
+Abuja,Electronics,Festive,42228.64,0.075,8317.88,400.0,145
+Abuja,FMCG,Rainy,29291.46,0.075,1911.7,220.0,59
+Onitsha,Electronics,Festive,31808.6,0.075,3279.44,258.0,131
+Onitsha,Apparel,Regular,42377.26,0.075,13468.96,353.0,68
+Lagos,Apparel,Rainy,936.92,0.075,11647.68,422.0,182
+Lagos,Apparel,Rainy,6348.99,0.075,7208.72,434.0,174
+Onitsha,Apparel,Rainy,66153.73,0.075,8481.53,476.0,106
+Onitsha,Apparel,Rainy,6301.98,0.075,6494.98,456.0,187
+Port Harcourt,FMCG,Rainy,53156.87,0.075,11500.53,265.0,22
+Abuja,Apparel,Regular,69042.84,0.075,12086.53,365.0,5
+Lagos,Groceries,Regular,20665.93,0.075,11804.35,27.0,5
+Abuja,Groceries,Harmattan,28101.61,0.075,11255.26,171.0,5
+Abuja,FMCG,Regular,42884.64,0.075,4260.81,411.0,140
+Onitsha,Electronics,Rainy,66187.32,0.075,6062.59,230.0,5
+Port Harcourt,Groceries,Regular,70671.97,0.075,7842.91,386.0,73
+Kano,Electronics,Rainy,55597.46,0.075,5965.71,451.0,128
+Port Harcourt,FMCG,Harmattan,6953.17,0.075,11691.69,177.0,20
+Port Harcourt,Electronics,Regular,50351.98,0.075,5946.27,77.0,5
+Abuja,Electronics,Regular,31067.63,0.075,3366.13,105.0,5
+Port Harcourt,Electronics,Regular,35567.22,0.075,6887.05,74.0,5
+Lagos,Electronics,Rainy,4161.56,0.075,14728.84,220.0,46
+Abuja,FMCG,Festive,14734.13,0.075,4549.4,141.0,28
+Lagos,Groceries,Regular,59393.26,0.075,9764.14,465.0,127
+Kano,Apparel,Harmattan,34319.93,0.075,7345.14,127.0,6
+Abuja,Electronics,Regular,22973.84,0.075,2458.83,323.0,131
+Kano,Groceries,Regular,29109.42,0.075,8086.33,151.0,5
+Abuja,Groceries,Festive,64152.76,0.075,10979.22,440.0,111
+Onitsha,FMCG,Regular,56300.43,0.075,8428.47,411.0,83
+Port Harcourt,Groceries,Regular,20787.5,0.075,13273.43,404.0,138
+Onitsha,FMCG,Regular,9253.89,0.075,5400.65,495.0,231
+Kano,Electronics,Regular,19273.87,0.075,2664.36,217.0,83
+Port Harcourt,Electronics,Regular,69096.36,0.075,14143.64,66.0,5
+Abuja,Apparel,Regular,43828.37,0.075,6605.65,247.0,5
+Port Harcourt,Apparel,Rainy,40244.28,0.075,9281.47,264.0,10
+Lagos,Apparel,Regular,44931.32,0.075,12192.04,222.0,5
+Port Harcourt,Groceries,Rainy,27769.11,0.075,5878.23,280.0,82
+Lagos,Electronics,Regular,60629.47,0.075,11168.22,197.0,5
+Port Harcourt,FMCG,Regular,39484.83,0.075,3328.15,43.0,5
+Lagos,Apparel,Rainy,9197.72,0.075,5432.47,194.0,38
+Kano,FMCG,Festive,10115.35,0.075,3453.59,293.0,183
+Onitsha,FMCG,Regular,40496.01,0.075,12451.61,359.0,58
+Abuja,Apparel,Festive,70274.48,0.075,4505.76,431.0,132
+Port Harcourt,Electronics,Rainy,23472.23,0.075,11184.95,480.0,166
+Onitsha,Apparel,Rainy,65280.82,0.075,14234.53,280.0,5
+Abuja,FMCG,Rainy,57425.12,0.075,8624.92,305.0,15
+Abuja,Apparel,Regular,18962.03,0.075,8790.39,20.0,5
+Lagos,FMCG,Regular,3207.39,0.075,7723.95,105.0,8
+Kano,FMCG,Rainy,8087.62,0.075,5899.52,357.0,148
+Kano,Apparel,Regular,54772.8,0.075,7921.34,449.0,145
+Onitsha,Groceries,Festive,15375.4,0.075,9637.9,88.0,5
+Kano,Apparel,Regular,28159.68,0.075,14810.89,50.0,5
+Port Harcourt,Groceries,Regular,37876.59,0.075,14159.82,217.0,5
+Kano,FMCG,Harmattan,54547.38,0.075,13139.06,110.0,5
+Onitsha,FMCG,Regular,8935.73,0.075,13503.26,459.0,197
+Kano,Groceries,Rainy,30774.3,0.075,7815.96,492.0,175
+Port Harcourt,FMCG,Rainy,36637.93,0.075,10375.5,368.0,105
+Lagos,Groceries,Festive,40791.62,0.075,13583.4,402.0,131
+Onitsha,Groceries,Harmattan,61467.87,0.075,6804.84,431.0,107
+Lagos,FMCG,Rainy,13290.03,0.075,14483.79,35.0,5
+Lagos,Electronics,Rainy,60683.44,0.075,7113.11,329.0,39
+Lagos,Groceries,Festive,52119.44,0.075,9614.62,456.0,176
+Abuja,Apparel,Regular,41912.38,0.075,11082.36,415.0,122
+Abuja,Apparel,Regular,52614.83,0.075,14332.99,295.0,5
+Lagos,FMCG,Regular,31195.32,0.075,4802.32,357.0,120
+Onitsha,Electronics,Regular,10810.62,0.075,11572.77,181.0,5
+Port Harcourt,FMCG,Rainy,50099.51,0.075,8531.01,456.0,111
+Port Harcourt,Electronics,Rainy,39588.09,0.075,5125.52,211.0,33
+Kano,Groceries,Rainy,48133.42,0.075,11984.19,170.0,5
+Onitsha,Groceries,Regular,25680.91,0.075,8955.0,384.0,119
+Abuja,Groceries,Harmattan,68061.56,0.075,10423.15,430.0,37
+Lagos,Groceries,Regular,44259.06,0.075,5859.16,132.0,5
+Kano,Apparel,Rainy,6862.49,0.075,7997.2,292.0,123
+Port Harcourt,Apparel,Rainy,34010.4,0.075,9834.28,195.0,5
+Abuja,FMCG,Regular,56848.53,0.075,6966.3,168.0,5
+Abuja,Electronics,Regular,59663.02,0.075,4178.03,197.0,5
+Lagos,Groceries,Regular,37347.48,0.075,14482.15,443.0,123
+Port Harcourt,Groceries,Festive,67158.69,0.075,8404.81,401.0,108
+Onitsha,Electronics,Festive,20441.3,0.075,11407.92,242.0,62
+Abuja,Electronics,Rainy,31089.6,0.075,7049.14,278.0,78
+Lagos,FMCG,Regular,67445.47,0.075,6294.28,292.0,22
+Onitsha,Electronics,Regular,67271.13,0.075,6996.72,208.0,5
+Port Harcourt,Groceries,Harmattan,51585.6,0.075,7024.15,325.0,72
+Abuja,Groceries,Harmattan,64494.05,0.075,8846.43,397.0,66
+Onitsha,Groceries,Regular,7113.61,0.075,8836.84,109.0,5
+Onitsha,Groceries,Regular,64942.13,0.075,8211.58,362.0,72
+Onitsha,Groceries,Harmattan,24386.18,0.075,3319.61,281.0,96
+Abuja,FMCG,Regular,13785.7,0.075,8197.02,175.0,7
+Abuja,Groceries,Regular,18333.05,0.075,3782.9,219.0,65
+Kano,FMCG,Regular,31638.65,0.075,3202.83,74.0,5
+Port Harcourt,Groceries,Rainy,19213.8,0.075,14090.72,273.0,39
+Lagos,Apparel,Festive,24382.29,0.075,9666.83,461.0,244
+Onitsha,Apparel,Festive,10555.9,0.075,10403.12,192.0,55
+Kano,Apparel,Rainy,22565.17,0.075,6924.21,219.0,42
+Lagos,Apparel,Rainy,43135.14,0.075,13771.24,422.0,86
+Kano,FMCG,Regular,33418.1,0.075,10112.06,121.0,5
+Abuja,FMCG,Rainy,26330.55,0.075,11883.79,304.0,52
+Onitsha,Electronics,Regular,56110.68,0.075,6475.59,170.0,5
+Lagos,Groceries,Rainy,67066.49,0.075,14460.16,130.0,5
+Lagos,Apparel,Regular,56880.8,0.075,12576.23,435.0,93
+Lagos,FMCG,Regular,25234.05,0.075,13028.3,285.0,80
+Lagos,Groceries,Regular,55960.94,0.075,3824.62,110.0,5
+Lagos,Groceries,Regular,11822.52,0.075,5158.0,196.0,71
+Kano,FMCG,Regular,10208.69,0.075,5355.96,468.0,219
+Onitsha,Apparel,Regular,26249.21,0.075,5157.27,250.0,64
+Abuja,Electronics,Festive,60673.83,0.075,13048.01,48.0,5
+Abuja,Groceries,Regular,18852.94,0.075,1930.44,462.0,241
+Abuja,Electronics,Rainy,5212.38,0.075,2527.35,320.0,158
+Abuja,Apparel,Festive,10312.36,0.075,5197.85,214.0,85
+Kano,Apparel,Festive,64476.5,0.075,4198.29,326.0,53
+Port Harcourt,Electronics,Rainy,47716.85,0.075,4630.1,258.0,58
+Onitsha,Apparel,Festive,19363.49,0.075,12272.23,376.0,181
+Lagos,Groceries,Regular,41869.54,0.075,9102.21,498.0,177
+Port Harcourt,Electronics,Regular,39804.68,0.075,1577.9,403.0,156
+Abuja,Apparel,Regular,49329.98,0.075,7295.86,286.0,27
+Port Harcourt,Electronics,Rainy,17872.47,0.075,7006.45,233.0,67
+Onitsha,Groceries,Rainy,64898.02,0.075,3038.26,101.0,5
+Lagos,Apparel,Regular,23547.96,0.075,10627.91,147.0,5
+Lagos,Groceries,Regular,52212.81,0.075,10978.31,281.0,5
+Onitsha,Apparel,Rainy,1701.29,0.075,11232.06,86.0,5
+Onitsha,FMCG,Regular,28262.96,0.075,11334.36,81.0,5
+Abuja,Apparel,Rainy,26702.38,0.075,1500.71,152.0,29
+Lagos,Electronics,Rainy,40989.59,0.075,14377.93,156.0,5
+Port Harcourt,Apparel,Harmattan,5918.85,0.075,12491.82,47.0,5
+Kano,Groceries,Harmattan,59364.79,0.075,13703.75,230.0,5
+Kano,Groceries,Festive,16724.67,0.075,1711.18,495.0,357
+Onitsha,Apparel,Regular,50939.32,0.075,14107.09,494.0,110
+Abuja,Electronics,Harmattan,60339.3,0.075,12432.15,224.0,5
+Kano,FMCG,Rainy,42359.83,0.075,12802.46,272.0,5
+Lagos,Electronics,Regular,55695.8,0.075,2759.38,57.0,5
+Onitsha,FMCG,Regular,49808.59,0.075,11473.5,62.0,5
+Port Harcourt,Groceries,Regular,26986.97,0.075,14458.88,136.0,5
+Onitsha,Electronics,Regular,60759.96,0.075,10660.39,424.0,111
+Port Harcourt,FMCG,Rainy,22455.25,0.075,9202.58,494.0,155
+Onitsha,Apparel,Festive,43055.36,0.075,14266.0,209.0,5
+Onitsha,Groceries,Regular,56032.13,0.075,7479.65,65.0,5
+Onitsha,Apparel,Regular,28732.22,0.075,9590.46,473.0,175
+Port Harcourt,Groceries,Festive,23056.19,0.075,7930.57,185.0,35
+Port Harcourt,Electronics,Regular,34721.28,0.075,14093.42,324.0,88
+Onitsha,Electronics,Regular,61438.28,0.075,2527.14,222.0,5
+Kano,Groceries,Rainy,69779.17,0.075,8265.12,252.0,5
+Abuja,Groceries,Rainy,41108.71,0.075,10773.86,264.0,35
+Abuja,Groceries,Regular,49779.23,0.075,12190.74,228.0,5
+Abuja,Electronics,Regular,67793.88,0.075,9370.75,267.0,5
+Port Harcourt,FMCG,Regular,7841.74,0.075,13770.39,314.0,113
+Port Harcourt,Apparel,Rainy,17789.85,0.075,14216.88,346.0,103
+Kano,Apparel,Rainy,53313.05,0.075,2368.31,402.0,82
+Abuja,Electronics,Regular,61868.96,0.075,6932.0,177.0,5
+Abuja,Apparel,Rainy,64348.66,0.075,1816.7,424.0,95
+Onitsha,Groceries,Festive,31425.48,0.075,5947.12,20.0,5
+Port Harcourt,FMCG,Regular,7155.82,0.075,8747.72,236.0,73
+Abuja,Apparel,Regular,33114.72,0.075,13795.73,435.0,110
+Kano,FMCG,Rainy,17689.73,0.075,12928.48,268.0,36
+Kano,Groceries,Regular,22194.14,0.075,3221.25,411.0,187
+Abuja,Apparel,Regular,58033.93,0.075,2755.91,88.0,5
+Port Harcourt,Electronics,Rainy,6126.77,0.075,9455.11,49.0,5
+Kano,FMCG,Festive,62154.8,0.075,8683.59,134.0,5
+Onitsha,Groceries,Festive,32361.35,0.075,5096.1,27.0,5
+Kano,FMCG,Rainy,44906.76,0.075,13642.62,388.0,73
+Lagos,Apparel,Harmattan,7179.09,0.075,14019.45,294.0,73
+Lagos,Apparel,Regular,25633.25,0.075,6935.25,334.0,90
+Port Harcourt,Electronics,Rainy,7182.72,0.075,13519.08,458.0,189
+Abuja,Groceries,Regular,72135.01,0.075,6683.31,433.0,75
+Port Harcourt,Groceries,Regular,60640.99,0.075,11447.03,354.0,32
+Port Harcourt,Electronics,Harmattan,34742.64,0.075,7925.22,55.0,5
+Port Harcourt,Electronics,Rainy,17158.39,0.075,3154.87,330.0,143
+Port Harcourt,Groceries,Regular,70042.41,0.075,14027.11,63.0,5
+Onitsha,FMCG,Festive,26172.45,0.075,7630.3,174.0,41
+Onitsha,FMCG,Regular,12493.34,0.075,11415.58,96.0,5
+Kano,Electronics,Regular,42455.75,0.075,6456.85,97.0,5
+Lagos,FMCG,Regular,70811.17,0.075,1754.89,120.0,5
+Port Harcourt,Groceries,Harmattan,785.36,0.075,2857.16,457.0,259
+Kano,Apparel,Harmattan,18240.3,0.075,8198.96,451.0,183
+Lagos,Apparel,Regular,70414.35,0.075,10814.52,49.0,5
+Abuja,FMCG,Rainy,13245.9,0.075,6018.93,58.0,5
+Onitsha,Electronics,Regular,8936.64,0.075,10889.09,258.0,66
+Lagos,Electronics,Harmattan,42978.95,0.075,10931.58,32.0,5
+Abuja,Electronics,Regular,64707.36,0.075,11003.13,141.0,5
+Lagos,Electronics,Regular,36044.68,0.075,8149.05,163.0,5
+Onitsha,Electronics,Festive,74595.04,0.075,13850.96,191.0,5
+Onitsha,FMCG,Regular,51098.29,0.075,8104.15,474.0,126
+Kano,Apparel,Regular,6018.58,0.075,7578.58,387.0,165
+Port Harcourt,Apparel,Rainy,74465.99,0.075,4191.64,266.0,5
+Lagos,FMCG,Festive,30888.12,0.075,5653.34,266.0,102
+Lagos,Electronics,Regular,21911.49,0.075,2071.52,430.0,209
+Abuja,FMCG,Regular,42062.0,0.075,10052.73,64.0,5
+Onitsha,Apparel,Regular,23170.92,0.075,4855.23,272.0,91
+Lagos,Groceries,Rainy,6941.08,0.075,5606.1,394.0,163
+Onitsha,FMCG,Regular,606.41,0.075,11906.0,310.0,158
+Lagos,Electronics,Rainy,33993.96,0.075,5917.49,226.0,47
+Kano,Apparel,Festive,62846.32,0.075,4769.64,431.0,154
+Port Harcourt,Apparel,Regular,43137.48,0.075,3782.28,26.0,5
+Lagos,Apparel,Regular,74940.94,0.075,11960.59,465.0,73
+Onitsha,Apparel,Regular,21870.08,0.075,3251.03,261.0,93
+Kano,Electronics,Regular,21393.9,0.075,7625.68,129.0,5
+Lagos,Groceries,Festive,12401.33,0.075,8343.56,133.0,26
+Abuja,Apparel,Regular,12722.74,0.075,10779.76,326.0,105
+Port Harcourt,FMCG,Regular,21746.4,0.075,10049.33,321.0,74
+Lagos,Groceries,Rainy,59566.58,0.075,12444.73,295.0,5
+Kano,Apparel,Regular,67978.88,0.075,2104.14,115.0,5
+Abuja,Groceries,Rainy,73143.99,0.075,5501.95,313.0,5
+Kano,FMCG,Regular,17805.58,0.075,5281.81,208.0,69
+Kano,Apparel,Festive,66156.67,0.075,3471.23,379.0,91
+Abuja,FMCG,Festive,24955.0,0.075,5403.91,307.0,133
+Kano,Electronics,Rainy,8906.62,0.075,5681.83,173.0,41
+Abuja,Apparel,Festive,65316.86,0.075,8545.44,77.0,5
+Lagos,Apparel,Regular,47889.87,0.075,10460.01,442.0,97
+Abuja,Apparel,Regular,12772.45,0.075,6644.86,423.0,185
+Abuja,Apparel,Rainy,32522.43,0.075,11212.85,357.0,83
+Port Harcourt,Electronics,Rainy,21900.7,0.075,6038.23,69.0,5
+Abuja,Apparel,Regular,55391.2,0.075,5418.83,226.0,19
+Abuja,Groceries,Regular,34279.51,0.075,8806.04,71.0,5
+Lagos,Apparel,Regular,74201.36,0.075,1820.17,361.0,55
+Port Harcourt,Electronics,Regular,4578.5,0.075,2577.15,390.0,231
+Onitsha,Apparel,Regular,26948.64,0.075,7142.59,169.0,5
+Lagos,Groceries,Harmattan,36401.56,0.075,14229.32,72.0,5
+Lagos,Electronics,Regular,37983.45,0.075,11240.41,232.0,9
+Onitsha,Electronics,Regular,24037.22,0.075,2689.71,85.0,5
+Abuja,Groceries,Rainy,54828.4,0.075,12925.29,251.0,5
+Kano,Groceries,Rainy,65668.66,0.075,11386.06,392.0,50
+Port Harcourt,Groceries,Festive,70434.59,0.075,9747.78,318.0,5
+Kano,Groceries,Rainy,60479.46,0.075,12573.95,357.0,38
+Onitsha,Groceries,Regular,63868.22,0.075,6955.48,170.0,5
+Lagos,Electronics,Festive,41515.62,0.075,4490.26,224.0,31
+Lagos,Electronics,Rainy,62028.67,0.075,8412.32,339.0,50
+Port Harcourt,Apparel,Regular,23111.04,0.075,8909.36,274.0,62
+Lagos,Apparel,Rainy,30186.67,0.075,8767.41,156.0,5
+Lagos,FMCG,Festive,24110.02,0.075,9128.5,388.0,183
+Port Harcourt,Apparel,Regular,35320.36,0.075,14307.52,154.0,5
+Port Harcourt,Apparel,Regular,21775.68,0.075,13680.32,444.0,152
+Onitsha,Groceries,Regular,72140.05,0.075,13322.18,73.0,5
+Lagos,Groceries,Regular,23806.92,0.075,12319.13,84.0,5
+Lagos,Apparel,Regular,7804.32,0.075,14236.28,21.0,5
+Onitsha,FMCG,Rainy,39747.88,0.075,2829.68,151.0,5
+Abuja,Groceries,Regular,4753.88,0.075,5079.16,353.0,181
+Abuja,Apparel,Festive,8735.47,0.075,8183.26,51.0,5
+Abuja,Apparel,Harmattan,16844.51,0.075,12928.22,375.0,126
+Onitsha,Electronics,Rainy,35094.09,0.075,8319.74,405.0,87
+Lagos,FMCG,Festive,32777.19,0.075,11598.47,379.0,129
+Onitsha,Electronics,Regular,60077.04,0.075,3375.96,262.0,25
+Onitsha,FMCG,Regular,55590.86,0.075,4907.59,211.0,5
+Abuja,Groceries,Rainy,32260.71,0.075,11378.98,161.0,5
+Kano,FMCG,Festive,25360.96,0.075,3723.91,167.0,54
+Lagos,Apparel,Harmattan,24076.92,0.075,6243.31,108.0,5
+Abuja,Apparel,Regular,58162.63,0.075,5075.69,68.0,5
+Kano,FMCG,Festive,4379.39,0.075,6223.13,155.0,92
+Kano,FMCG,Regular,1455.21,0.075,11062.37,495.0,242
+Port Harcourt,FMCG,Festive,59768.06,0.075,6465.94,210.0,5
+Lagos,Electronics,Festive,36047.41,0.075,8996.05,449.0,204
+Kano,FMCG,Regular,10250.64,0.075,2849.08,168.0,79
+Abuja,Groceries,Harmattan,18049.66,0.075,12367.74,106.0,5
+Port Harcourt,Electronics,Regular,69971.54,0.075,6493.5,435.0,84
+Lagos,Electronics,Regular,64532.97,0.075,10255.21,27.0,5
+Onitsha,FMCG,Rainy,53378.99,0.075,11292.76,242.0,5
+Abuja,Groceries,Rainy,36425.78,0.075,4330.42,376.0,101
+Kano,Electronics,Festive,39264.11,0.075,13443.11,35.0,5
+Kano,Apparel,Rainy,73155.72,0.075,9819.03,315.0,12
+Abuja,Electronics,Regular,72449.9,0.075,7287.79,125.0,5
+Kano,FMCG,Festive,16537.54,0.075,3961.52,302.0,216
+Port Harcourt,Groceries,Festive,60927.29,0.075,14221.06,123.0,5
+Lagos,FMCG,Regular,15194.58,0.075,11693.42,380.0,148
+Port Harcourt,Apparel,Festive,16408.54,0.075,4308.33,165.0,44
+Kano,Apparel,Regular,50868.93,0.075,6059.1,54.0,5
+Onitsha,Apparel,Festive,30672.58,0.075,12430.6,132.0,5
+Lagos,FMCG,Regular,69900.06,0.075,10891.65,327.0,10
+Lagos,Electronics,Regular,7131.23,0.075,11838.09,418.0,172
+Abuja,FMCG,Regular,38608.66,0.075,7456.21,466.0,134
+Abuja,Groceries,Rainy,68929.85,0.075,11172.43,72.0,5
+Onitsha,Electronics,Regular,67856.47,0.075,6717.67,366.0,77
+Lagos,Apparel,Regular,12161.43,0.075,4352.05,100.0,20
+Onitsha,FMCG,Rainy,27814.51,0.075,10041.14,123.0,5
+Abuja,Apparel,Festive,46624.54,0.075,14676.19,341.0,55
+Abuja,Apparel,Regular,12374.92,0.075,5693.11,388.0,176
+Lagos,Groceries,Regular,72617.65,0.075,7723.09,261.0,5
+Port Harcourt,Electronics,Regular,68648.82,0.075,10599.02,50.0,5
+Kano,Groceries,Regular,12937.79,0.075,8810.33,336.0,115
+Abuja,Groceries,Festive,9526.08,0.075,12886.28,211.0,71
+Abuja,Groceries,Festive,6862.93,0.075,11783.53,376.0,230
+Port Harcourt,Apparel,Rainy,68253.55,0.075,2287.01,380.0,69
+Port Harcourt,Groceries,Regular,14924.97,0.075,14978.69,252.0,38
+Onitsha,Groceries,Harmattan,31513.23,0.075,11657.43,117.0,5
+Onitsha,Electronics,Rainy,33939.43,0.075,13162.69,53.0,5
+Kano,Electronics,Festive,45126.32,0.075,10291.17,262.0,14
+Kano,Groceries,Rainy,5844.28,0.075,13059.85,458.0,187
+Lagos,Electronics,Harmattan,17393.52,0.075,3017.17,78.0,5
+Onitsha,Electronics,Rainy,69896.03,0.075,6194.46,278.0,5
+Abuja,Groceries,Regular,68176.55,0.075,13331.68,36.0,5
+Onitsha,Apparel,Festive,58706.15,0.075,4222.35,97.0,5
+Abuja,Groceries,Rainy,1945.39,0.075,2556.27,225.0,117
+Port Harcourt,Electronics,Rainy,24862.0,0.075,12139.61,321.0,59
+Onitsha,Apparel,Regular,47282.93,0.075,12779.06,185.0,5
+Port Harcourt,FMCG,Rainy,21001.67,0.075,3695.8,310.0,114
+Kano,Apparel,Rainy,68264.21,0.075,13033.67,404.0,47
+Kano,Electronics,Regular,47724.76,0.075,10771.37,131.0,5
+Lagos,Apparel,Regular,5857.05,0.075,8521.12,432.0,221
+Onitsha,Groceries,Rainy,68220.92,0.075,12708.38,407.0,37
+Port Harcourt,FMCG,Harmattan,71853.62,0.075,7159.86,336.0,59
+Abuja,FMCG,Rainy,6289.58,0.075,4118.92,372.0,146
+Kano,FMCG,Regular,40160.84,0.075,5345.51,164.0,27
+Kano,Electronics,Rainy,23100.64,0.075,8319.71,175.0,13
+Abuja,Electronics,Regular,29766.51,0.075,8672.97,197.0,18
+Port Harcourt,FMCG,Regular,13884.02,0.075,12375.34,365.0,120
+Port Harcourt,Apparel,Regular,43566.37,0.075,12183.26,155.0,5
+Onitsha,FMCG,Regular,71869.46,0.075,9348.45,437.0,63
+Onitsha,Apparel,Regular,37978.91,0.075,12040.6,334.0,58
+Lagos,Apparel,Regular,6677.14,0.075,4088.94,37.0,5
+Kano,Electronics,Regular,46690.1,0.075,2175.87,370.0,134
+Onitsha,Apparel,Regular,25846.61,0.075,13294.06,462.0,161
+Port Harcourt,FMCG,Rainy,64266.43,0.075,2519.99,174.0,5
+Abuja,Electronics,Regular,32883.52,0.075,4830.29,291.0,90
+Port Harcourt,Groceries,Regular,14866.55,0.075,10886.81,285.0,60
+Kano,Groceries,Festive,14737.37,0.075,7027.55,379.0,202
+Port Harcourt,Electronics,Regular,57772.93,0.075,13330.24,351.0,5
+Lagos,FMCG,Rainy,20286.28,0.075,5522.73,425.0,162
+Kano,Groceries,Regular,57658.89,0.075,1660.26,35.0,5
+Abuja,Groceries,Regular,15838.6,0.075,5558.85,31.0,5
+Lagos,Apparel,Rainy,24465.63,0.075,9304.01,94.0,5
+Kano,Apparel,Rainy,35178.78,0.075,6575.17,231.0,39
+Abuja,FMCG,Festive,70768.09,0.075,8720.78,198.0,5
+Lagos,Electronics,Rainy,69913.99,0.075,13334.07,148.0,5
+Lagos,FMCG,Festive,15911.95,0.075,13818.55,302.0,83
+Kano,Electronics,Regular,27187.32,0.075,5090.65,214.0,45
+Onitsha,Groceries,Regular,11630.25,0.075,7738.9,287.0,115
+Lagos,Apparel,Regular,38493.89,0.075,8913.44,49.0,5
+Lagos,FMCG,Regular,34813.4,0.075,14313.02,28.0,5
+Abuja,FMCG,Rainy,67606.63,0.075,14981.33,328.0,5
+Port Harcourt,Electronics,Rainy,69785.4,0.075,4678.0,464.0,106
+Kano,Electronics,Regular,29075.77,0.075,11314.23,329.0,78
+Kano,FMCG,Festive,37134.48,0.075,6603.42,184.0,5
+Onitsha,Electronics,Festive,67269.6,0.075,1609.46,212.0,5
+Onitsha,FMCG,Regular,60599.73,0.075,1624.91,445.0,140
+Kano,FMCG,Regular,772.4,0.075,7717.64,324.0,163
+Onitsha,FMCG,Regular,24344.44,0.075,8092.52,279.0,69
+Abuja,Groceries,Regular,31922.18,0.075,1804.69,211.0,35
+Kano,Electronics,Regular,17613.86,0.075,10773.52,98.0,5
+Onitsha,Apparel,Rainy,15368.09,0.075,5469.05,198.0,50
+Kano,Apparel,Regular,3314.95,0.075,9058.56,110.0,16
+Port Harcourt,Electronics,Regular,48431.04,0.075,5562.41,475.0,149
+Lagos,FMCG,Festive,20057.02,0.075,3756.31,463.0,306
+Kano,Apparel,Rainy,4399.86,0.075,6996.85,234.0,104
+Lagos,Apparel,Festive,17707.96,0.075,4635.69,98.0,5
+Onitsha,Electronics,Regular,60242.59,0.075,8719.81,494.0,100
+Lagos,Apparel,Regular,63935.94,0.075,4184.19,434.0,130
+Kano,FMCG,Rainy,36488.44,0.075,8363.48,122.0,5
+Port Harcourt,Electronics,Regular,31497.26,0.075,3624.61,130.0,5
+Onitsha,FMCG,Regular,73350.1,0.075,10558.16,475.0,94
+Kano,Apparel,Rainy,15442.07,0.075,11678.16,497.0,187
+Onitsha,Apparel,Rainy,16544.27,0.075,2990.32,333.0,135
+Abuja,FMCG,Regular,22244.1,0.075,7815.33,266.0,77
+Lagos,Groceries,Regular,13370.42,0.075,2456.77,253.0,150
+Abuja,Apparel,Regular,28762.74,0.075,9575.46,101.0,5
+Kano,Groceries,Regular,68357.15,0.075,5069.46,151.0,5
+Port Harcourt,Apparel,Regular,46343.41,0.075,8622.93,254.0,32
+Onitsha,Groceries,Regular,31190.02,0.075,8485.72,297.0,80
+Lagos,Groceries,Regular,70113.6,0.075,13978.78,406.0,33
+Onitsha,Groceries,Festive,4110.59,0.075,8912.62,354.0,209
+Kano,FMCG,Rainy,16165.58,0.075,9370.48,118.0,5
+Onitsha,Groceries,Harmattan,42658.7,0.075,6922.32,450.0,137
+Lagos,Groceries,Regular,46358.67,0.075,14312.57,57.0,5
+Kano,Groceries,Regular,3447.03,0.075,11992.01,180.0,29
+Onitsha,Apparel,Regular,30526.39,0.075,5352.97,481.0,215
+Port Harcourt,Groceries,Regular,48861.97,0.075,12896.83,451.0,96
+Kano,Apparel,Regular,52506.26,0.075,7337.35,468.0,127
+Kano,Groceries,Harmattan,48041.42,0.075,12687.01,136.0,5
+Port Harcourt,Groceries,Rainy,24381.96,0.075,12608.99,260.0,37
+Abuja,FMCG,Rainy,7467.25,0.075,4049.75,45.0,5
+Lagos,Apparel,Regular,32319.88,0.075,10965.41,155.0,5
+Abuja,Groceries,Festive,10092.21,0.075,5423.68,69.0,11
+Onitsha,Apparel,Regular,71097.96,0.075,5516.15,483.0,88
+Port Harcourt,Apparel,Regular,35900.23,0.075,5500.7,313.0,86
+Abuja,Electronics,Regular,24135.81,0.075,11295.17,413.0,121
+Kano,FMCG,Harmattan,57589.65,0.075,4602.65,317.0,43
+Onitsha,FMCG,Festive,37597.17,0.075,1512.23,312.0,146
+Onitsha,FMCG,Regular,23597.53,0.075,11155.7,173.0,5
+Abuja,Electronics,Festive,60991.6,0.075,3810.99,239.0,5
+Abuja,Electronics,Festive,65102.84,0.075,2910.51,159.0,5
+Port Harcourt,FMCG,Regular,50639.11,0.075,4706.47,487.0,178
+Lagos,Electronics,Regular,3998.85,0.075,6628.66,68.0,22
+Abuja,Electronics,Regular,42691.05,0.075,7924.74,161.0,5
+Abuja,Electronics,Festive,57365.47,0.075,2101.7,65.0,5
+Kano,FMCG,Regular,10669.47,0.075,14602.74,182.0,25
+Onitsha,FMCG,Harmattan,17535.97,0.075,11166.85,304.0,86
+Lagos,FMCG,Regular,66245.89,0.075,5863.12,287.0,5
+Kano,Electronics,Harmattan,1999.07,0.075,5802.41,135.0,38
+Port Harcourt,FMCG,Regular,56578.17,0.075,7555.32,101.0,5
+Port Harcourt,Electronics,Rainy,35796.11,0.075,9954.31,63.0,5
+Abuja,Groceries,Festive,33784.53,0.075,3476.04,213.0,59
+Abuja,Electronics,Festive,1028.69,0.075,4050.55,277.0,201
+Port Harcourt,Apparel,Festive,61545.17,0.075,13102.37,462.0,116
+Abuja,FMCG,Regular,27306.96,0.075,4959.44,292.0,108
+Lagos,FMCG,Rainy,40787.04,0.075,6632.63,413.0,112
+Abuja,Apparel,Regular,50958.9,0.075,13262.17,293.0,5
+Onitsha,Electronics,Regular,52845.9,0.075,10452.5,297.0,53
+Abuja,Groceries,Rainy,71720.51,0.075,6113.11,102.0,5
+Kano,Apparel,Regular,40084.83,0.075,10729.94,77.0,5
+Lagos,Apparel,Rainy,30279.11,0.075,1765.72,72.0,5
+Kano,Electronics,Festive,71550.92,0.075,11431.18,20.0,5
+Kano,FMCG,Regular,48337.21,0.075,8074.72,235.0,10
+Onitsha,Electronics,Rainy,22712.2,0.075,12477.96,336.0,93
+Lagos,Apparel,Regular,9921.59,0.075,14387.61,247.0,88
+Lagos,Apparel,Regular,63270.31,0.075,13998.15,492.0,84
+Lagos,FMCG,Regular,27482.53,0.075,13775.08,273.0,41
+Lagos,FMCG,Festive,49704.99,0.075,8414.29,178.0,5
+Lagos,FMCG,Festive,35575.82,0.075,6361.92,306.0,145
+Onitsha,Electronics,Festive,15320.27,0.075,7777.98,85.0,5
+Abuja,FMCG,Festive,45325.65,0.075,10813.6,422.0,182
+Kano,Apparel,Regular,5020.89,0.075,13433.97,328.0,131
+Lagos,Apparel,Regular,31294.01,0.075,4294.32,479.0,225
+Abuja,Groceries,Rainy,41222.81,0.075,13895.61,477.0,132
+Abuja,Electronics,Regular,32985.5,0.075,12504.93,114.0,5
+Kano,Groceries,Regular,56276.08,0.075,14714.56,272.0,10
+Onitsha,Apparel,Regular,62180.41,0.075,13383.4,169.0,5
+Port Harcourt,Groceries,Rainy,57957.61,0.075,5279.15,42.0,5
+Port Harcourt,Apparel,Rainy,3391.56,0.075,2930.4,263.0,153
+Abuja,Groceries,Regular,14962.59,0.075,3015.25,234.0,115
+Kano,FMCG,Regular,40477.26,0.075,5431.51,418.0,141
+Port Harcourt,Groceries,Rainy,70144.24,0.075,9791.48,429.0,65
+Abuja,FMCG,Rainy,62704.28,0.075,12358.32,150.0,5
+Onitsha,FMCG,Regular,63268.82,0.075,13639.88,362.0,15
+Port Harcourt,Electronics,Harmattan,23089.01,0.075,9920.67,167.0,13
+Abuja,FMCG,Regular,32493.87,0.075,1576.02,400.0,145
+Abuja,FMCG,Regular,35567.59,0.075,4015.28,128.0,5
+Lagos,Groceries,Harmattan,12224.18,0.075,2846.3,59.0,26
+Onitsha,Apparel,Rainy,2814.58,0.075,6404.88,140.0,39
+Lagos,Electronics,Regular,71044.27,0.075,8268.24,314.0,20
+Kano,FMCG,Rainy,18433.09,0.075,2085.86,139.0,40
+Lagos,Electronics,Rainy,18376.19,0.075,6204.45,475.0,190
+Lagos,Groceries,Harmattan,6711.74,0.075,3918.93,37.0,5
+Port Harcourt,FMCG,Harmattan,69673.83,0.075,10235.45,188.0,5
+Abuja,Groceries,Rainy,43690.42,0.075,7767.68,217.0,5
+Onitsha,Electronics,Regular,50194.25,0.075,8186.79,430.0,130
+Lagos,Groceries,Regular,68412.48,0.075,7273.84,162.0,5
+Onitsha,Electronics,Regular,26248.7,0.075,14406.27,56.0,5
+Lagos,Groceries,Regular,46802.29,0.075,4398.92,205.0,13
+Kano,Electronics,Rainy,3390.56,0.075,8474.97,280.0,104
+Lagos,Apparel,Rainy,14414.55,0.075,11436.23,250.0,60
+Port Harcourt,Groceries,Regular,62427.81,0.075,9017.4,273.0,5
+Abuja,Groceries,Regular,57624.24,0.075,14041.78,348.0,45
+Kano,Apparel,Regular,26622.88,0.075,6602.57,410.0,160
+Lagos,Apparel,Regular,28572.39,0.075,7759.62,316.0,97
+Onitsha,Groceries,Harmattan,40249.81,0.075,2695.05,487.0,169
+Kano,Apparel,Regular,517.95,0.075,9721.49,29.0,5
+Kano,FMCG,Rainy,18472.7,0.075,5390.86,465.0,215
+Lagos,Electronics,Festive,16013.27,0.075,3664.17,429.0,296
+Kano,Electronics,Regular,19160.98,0.075,8851.17,343.0,107
+Onitsha,Electronics,Regular,60539.99,0.075,8686.19,249.0,5
+Kano,FMCG,Regular,21335.7,0.075,2524.27,43.0,5
+Onitsha,Apparel,Rainy,14768.34,0.075,10925.91,97.0,5
+Lagos,Apparel,Rainy,38067.63,0.075,9920.92,444.0,139
+Abuja,Groceries,Regular,64990.56,0.075,4051.73,212.0,5
+Kano,Apparel,Rainy,18480.55,0.075,7837.37,420.0,157
+Abuja,Groceries,Festive,6350.95,0.075,11224.36,128.0,13
+Onitsha,FMCG,Regular,27052.15,0.075,8647.38,299.0,67
+Kano,Electronics,Regular,56200.06,0.075,6839.1,430.0,105
+Port Harcourt,Electronics,Festive,41526.45,0.075,5851.57,282.0,99
+Abuja,Electronics,Rainy,61351.11,0.075,9740.32,348.0,39
+Kano,Apparel,Festive,71989.61,0.075,14177.97,382.0,12
+Abuja,Groceries,Rainy,59553.35,0.075,10568.56,374.0,44
+Kano,Groceries,Festive,45483.33,0.075,2509.07,397.0,185
+Lagos,FMCG,Regular,37253.95,0.075,7719.25,287.0,63
+Abuja,Apparel,Harmattan,3485.15,0.075,13526.13,360.0,112
+Port Harcourt,FMCG,Festive,73831.99,0.075,2775.24,278.0,5
+Port Harcourt,Groceries,Rainy,29069.34,0.075,14849.82,354.0,87
+Onitsha,Groceries,Regular,11841.0,0.075,14312.44,104.0,5
+Kano,Electronics,Regular,50169.81,0.075,2556.71,29.0,5
+Abuja,Apparel,Regular,21679.48,0.075,14101.08,308.0,58
+Onitsha,Groceries,Regular,44140.48,0.075,6402.29,321.0,83
+Abuja,Electronics,Regular,44214.21,0.075,12903.57,78.0,5
+Kano,Apparel,Rainy,33706.87,0.075,7148.18,327.0,91
+Port Harcourt,FMCG,Rainy,62790.84,0.075,7451.54,281.0,5
+Lagos,Apparel,Regular,20240.05,0.075,10062.28,405.0,135
+Port Harcourt,Apparel,Rainy,33923.13,0.075,11955.45,304.0,52
+Onitsha,Groceries,Regular,40558.06,0.075,1956.15,138.0,5
+Lagos,Groceries,Regular,49940.04,0.075,9507.61,187.0,5
+Onitsha,Apparel,Regular,58905.9,0.075,4020.9,372.0,98
+Kano,Groceries,Rainy,29913.14,0.075,6170.32,208.0,25
+Lagos,Groceries,Regular,48630.5,0.075,6197.58,471.0,159
+Onitsha,Groceries,Regular,11720.52,0.075,7832.31,270.0,93
+Kano,Electronics,Regular,69982.28,0.075,6010.84,343.0,45
+Port Harcourt,Electronics,Festive,29037.88,0.075,2949.38,432.0,264
+Kano,Apparel,Regular,54849.35,0.075,3465.99,248.0,12
+Abuja,Groceries,Rainy,2015.41,0.075,1951.41,209.0,89
+Kano,Electronics,Rainy,15786.44,0.075,7848.36,335.0,121
+Kano,Apparel,Harmattan,36787.65,0.075,14385.04,143.0,5
+Abuja,Groceries,Festive,65929.81,0.075,3061.62,103.0,5
+Onitsha,FMCG,Regular,39780.51,0.075,14274.57,316.0,24
+Onitsha,Groceries,Regular,69775.35,0.075,11400.38,234.0,5
+Kano,Groceries,Festive,36542.87,0.075,10106.23,256.0,31
+Abuja,Electronics,Regular,37038.46,0.075,10211.25,485.0,156
+Abuja,Apparel,Rainy,9421.14,0.075,12660.82,132.0,5
+Port Harcourt,Apparel,Rainy,60297.89,0.075,2943.42,236.0,17
+Onitsha,Electronics,Rainy,18898.92,0.075,8314.18,340.0,105
+Lagos,Groceries,Festive,67521.13,0.075,10910.73,265.0,5
+Onitsha,FMCG,Festive,68356.4,0.075,9422.08,467.0,130
+Onitsha,Groceries,Harmattan,70776.6,0.075,12742.52,354.0,6
+Port Harcourt,Groceries,Regular,39257.17,0.075,2475.67,338.0,101
+Lagos,FMCG,Festive,50943.49,0.075,10824.46,451.0,160
+Port Harcourt,Electronics,Regular,58499.43,0.075,8709.37,423.0,80
+Lagos,Apparel,Regular,10260.59,0.075,6618.67,393.0,181
+Kano,Electronics,Festive,45271.31,0.075,6093.71,56.0,5
+Lagos,Electronics,Regular,3055.19,0.075,9881.24,83.0,5
+Port Harcourt,Groceries,Regular,37568.67,0.075,13528.44,238.0,5
+Onitsha,Apparel,Regular,12035.78,0.075,8198.38,361.0,131
+Lagos,Apparel,Festive,14127.76,0.075,12633.76,408.0,223
+Lagos,Electronics,Rainy,27696.04,0.075,6929.11,53.0,5
+Abuja,FMCG,Rainy,32716.57,0.075,2882.33,58.0,5
+Onitsha,Electronics,Regular,46926.35,0.075,2330.33,86.0,5
+Kano,FMCG,Harmattan,6044.92,0.075,2193.01,228.0,105
+Port Harcourt,Apparel,Harmattan,38025.04,0.075,6632.03,337.0,98
+Kano,Electronics,Regular,14105.57,0.075,6052.71,363.0,180
+Onitsha,Groceries,Regular,43261.15,0.075,11192.15,171.0,5
+Lagos,Electronics,Regular,47986.64,0.075,11528.09,406.0,75
+Lagos,Apparel,Festive,41974.84,0.075,2186.53,384.0,176
+Onitsha,Groceries,Rainy,55503.02,0.075,4485.16,218.0,8
+Lagos,Groceries,Festive,25502.89,0.075,5202.53,108.0,5
+Lagos,FMCG,Regular,57500.44,0.075,8892.76,267.0,5
+Lagos,Groceries,Harmattan,32741.15,0.075,3450.96,342.0,111
+Port Harcourt,Groceries,Harmattan,36571.75,0.075,3308.21,98.0,5
+Port Harcourt,Electronics,Rainy,48783.61,0.075,14241.15,496.0,128
+Abuja,Apparel,Festive,1867.7,0.075,12356.74,453.0,299
+Kano,FMCG,Regular,49222.57,0.075,3938.84,304.0,43
+Onitsha,Electronics,Regular,46584.59,0.075,6988.67,349.0,88
+Onitsha,Groceries,Rainy,23583.61,0.075,6300.9,51.0,5
+Onitsha,Groceries,Harmattan,6891.67,0.075,12178.55,106.0,5
+Abuja,FMCG,Rainy,7274.69,0.075,8387.87,58.0,5
+Port Harcourt,Apparel,Regular,69280.17,0.075,3225.97,412.0,113
+Abuja,FMCG,Rainy,51851.31,0.075,11476.39,120.0,5
+Onitsha,Electronics,Regular,9969.14,0.075,6857.99,263.0,99
+Kano,FMCG,Regular,27075.88,0.075,5049.48,251.0,56
+Lagos,Groceries,Rainy,44639.98,0.075,6569.23,417.0,101
+Port Harcourt,Electronics,Harmattan,62750.09,0.075,8219.71,87.0,5
+Port Harcourt,Groceries,Regular,3752.74,0.075,6132.06,211.0,91
+Abuja,Apparel,Regular,18129.17,0.075,4765.73,423.0,189
+Port Harcourt,Groceries,Regular,66786.3,0.075,6879.78,47.0,5
+Onitsha,Groceries,Regular,1182.83,0.075,1758.83,289.0,144
+Onitsha,FMCG,Harmattan,15504.23,0.075,11928.72,447.0,155
+Abuja,Groceries,Festive,71947.3,0.075,3807.76,245.0,5
+Onitsha,Electronics,Regular,46198.44,0.075,2092.71,96.0,5
+Kano,Electronics,Harmattan,19994.52,0.075,10324.93,242.0,48
+Abuja,Apparel,Festive,5490.84,0.075,11948.14,391.0,228
+Kano,Electronics,Festive,2600.25,0.075,12486.69,186.0,60
+Lagos,FMCG,Regular,18733.51,0.075,8162.37,303.0,126
+Kano,Apparel,Festive,66170.69,0.075,4272.47,211.0,5
+Lagos,Electronics,Regular,31485.57,0.075,11452.57,108.0,5
+Lagos,FMCG,Regular,54164.84,0.075,10946.13,51.0,5
+Kano,Electronics,Regular,68912.24,0.075,4824.65,156.0,5
+Abuja,Electronics,Regular,30899.01,0.075,13696.0,175.0,5
+Onitsha,Groceries,Regular,14750.16,0.075,2909.01,269.0,123
+Onitsha,Electronics,Regular,39025.29,0.075,14766.29,114.0,5
+Lagos,Electronics,Regular,68152.23,0.075,13113.35,36.0,5
+Lagos,FMCG,Festive,60425.89,0.075,10786.63,136.0,5
+Abuja,FMCG,Festive,5404.32,0.075,14173.12,490.0,295
+Port Harcourt,Groceries,Regular,52096.67,0.075,11251.2,352.0,69
+Kano,Electronics,Festive,43106.37,0.075,4071.17,330.0,119
+Lagos,Groceries,Festive,68106.01,0.075,7469.11,29.0,5
+Onitsha,Electronics,Harmattan,9624.87,0.075,2465.29,99.0,5
+Abuja,Apparel,Regular,40285.69,0.075,6760.38,153.0,5
+Kano,Apparel,Rainy,66019.97,0.075,11511.64,451.0,69
+Abuja,Groceries,Festive,31046.77,0.075,6716.99,222.0,34
+Kano,Groceries,Rainy,36408.62,0.075,5958.97,135.0,5
+Kano,Groceries,Regular,5749.32,0.075,9537.3,470.0,211
+Lagos,FMCG,Rainy,21221.7,0.075,13274.76,239.0,57
+Abuja,FMCG,Rainy,24675.75,0.075,2142.37,272.0,56
+Abuja,FMCG,Rainy,70911.62,0.075,6703.85,188.0,5
+Onitsha,Groceries,Regular,21558.72,0.075,3636.25,354.0,151
+Onitsha,Electronics,Regular,34834.72,0.075,10887.28,335.0,72
+Lagos,Apparel,Festive,50512.18,0.075,2927.28,224.0,18
+Lagos,Groceries,Festive,12582.66,0.075,10474.9,317.0,158
+Port Harcourt,FMCG,Regular,36739.96,0.075,5363.44,391.0,150
+Onitsha,FMCG,Festive,55521.16,0.075,4185.38,267.0,14
+Kano,Groceries,Regular,65080.71,0.075,14140.76,384.0,17
+Abuja,Groceries,Rainy,47156.32,0.075,1750.08,484.0,152
+Lagos,FMCG,Harmattan,50344.49,0.075,7409.99,90.0,5
+Abuja,Electronics,Festive,9908.12,0.075,1791.96,175.0,111
+Abuja,FMCG,Festive,70960.35,0.075,8028.51,121.0,5
+Port Harcourt,FMCG,Regular,10376.77,0.075,8264.14,32.0,5
+Onitsha,Groceries,Festive,58213.13,0.075,5842.44,484.0,211
+Lagos,Electronics,Regular,20228.82,0.075,3284.18,290.0,127
+Abuja,FMCG,Harmattan,70052.69,0.075,6581.23,311.0,5
+Lagos,FMCG,Harmattan,54136.99,0.075,10575.55,239.0,5
+Kano,Apparel,Rainy,56659.12,0.075,12062.34,34.0,5
+Port Harcourt,Groceries,Regular,16819.91,0.075,8665.13,257.0,92
+Kano,Apparel,Festive,33506.48,0.075,9462.76,136.0,5
+Lagos,Apparel,Regular,46527.08,0.075,4208.32,350.0,92
+Lagos,FMCG,Regular,57863.03,0.075,5378.96,75.0,5
+Onitsha,Groceries,Harmattan,8244.97,0.075,3685.59,370.0,178
+Abuja,Electronics,Regular,72196.22,0.075,4865.49,151.0,5
+Abuja,FMCG,Festive,66821.44,0.075,4535.97,245.0,6
+Kano,Electronics,Regular,20640.97,0.075,8512.56,327.0,94
+Port Harcourt,Electronics,Regular,61795.64,0.075,9096.3,494.0,127
+Abuja,Groceries,Festive,39115.13,0.075,14256.79,413.0,147
+Onitsha,Apparel,Rainy,34904.58,0.075,4140.2,241.0,80
+Kano,Groceries,Regular,23925.34,0.075,10162.62,192.0,9
+Kano,Electronics,Harmattan,43782.16,0.075,12533.0,359.0,57
+Onitsha,FMCG,Rainy,54876.74,0.075,9063.26,304.0,17
+Port Harcourt,Electronics,Rainy,31114.5,0.075,4942.55,328.0,102
+Onitsha,FMCG,Regular,47376.83,0.075,5044.43,176.0,5
+Port Harcourt,FMCG,Festive,52598.81,0.075,2029.92,170.0,5
+Onitsha,Groceries,Festive,53478.58,0.075,5623.5,204.0,5
+Onitsha,Electronics,Harmattan,4371.47,0.075,11552.15,197.0,41
+Lagos,Apparel,Regular,64551.21,0.075,2141.49,40.0,5
+Kano,Electronics,Festive,34639.87,0.075,4460.49,131.0,5
+Onitsha,Electronics,Rainy,20050.0,0.075,11034.14,190.0,28
+Onitsha,Apparel,Rainy,18511.46,0.075,12065.8,157.0,9
+Abuja,Groceries,Regular,36484.55,0.075,7646.8,252.0,64
+Kano,Electronics,Festive,66568.95,0.075,10924.0,351.0,26
+Abuja,Electronics,Harmattan,28686.89,0.075,6737.35,49.0,5
+Kano,FMCG,Regular,56354.57,0.075,3658.83,400.0,115
+Abuja,Electronics,Regular,7713.0,0.075,6875.02,326.0,163
+Onitsha,Apparel,Festive,35966.22,0.075,9329.57,180.0,5
+Onitsha,FMCG,Regular,74380.62,0.075,14298.72,421.0,51
+Lagos,Groceries,Festive,57897.62,0.075,2428.14,97.0,5
+Abuja,FMCG,Rainy,16184.37,0.075,8349.82,297.0,90
+Port Harcourt,Apparel,Rainy,37857.39,0.075,5940.42,339.0,96
+Lagos,Apparel,Regular,17905.04,0.075,8362.21,40.0,5
+Abuja,FMCG,Regular,31012.29,0.075,1823.67,404.0,174
+Abuja,Groceries,Festive,58616.26,0.075,5725.84,382.0,100
+Lagos,FMCG,Regular,57956.25,0.075,12568.22,391.0,54
+Onitsha,Groceries,Harmattan,17493.48,0.075,8978.21,399.0,166
+Abuja,FMCG,Regular,69205.64,0.075,7582.86,162.0,5
+Onitsha,Apparel,Regular,44646.33,0.075,5354.59,55.0,5
+Lagos,Electronics,Regular,28804.36,0.075,5523.57,322.0,112
+Onitsha,Electronics,Rainy,37894.2,0.075,6671.87,457.0,150
+Kano,Groceries,Festive,45577.81,0.075,12780.2,233.0,5
+Port Harcourt,Groceries,Regular,42211.84,0.075,14557.38,51.0,5
+Abuja,Groceries,Regular,36737.18,0.075,7421.85,205.0,15
+Port Harcourt,Apparel,Regular,38117.49,0.075,6810.26,193.0,5
+Onitsha,FMCG,Rainy,13642.69,0.075,12928.44,73.0,5
+Abuja,Apparel,Regular,61048.6,0.075,7263.22,180.0,5
+Onitsha,Electronics,Festive,40861.14,0.075,8952.25,269.0,49
+Kano,Groceries,Rainy,10265.45,0.075,4617.71,270.0,109
+Lagos,FMCG,Rainy,57578.7,0.075,11537.28,442.0,91
+Abuja,Electronics,Regular,69967.08,0.075,8681.84,298.0,5
+Kano,Electronics,Festive,71074.36,0.075,12421.97,190.0,5
+Kano,Electronics,Regular,27991.82,0.075,12039.89,202.0,27
+Abuja,Apparel,Regular,10596.01,0.075,4402.56,21.0,5
+Onitsha,Groceries,Rainy,39120.77,0.075,11161.08,213.0,5
+Kano,Electronics,Rainy,8889.39,0.075,12300.73,185.0,18
+Port Harcourt,Groceries,Regular,70082.06,0.075,6172.45,266.0,5
+Kano,Apparel,Regular,14176.68,0.075,3830.22,432.0,228
+Onitsha,Electronics,Harmattan,19331.06,0.075,1535.53,263.0,68
+Onitsha,Apparel,Regular,30794.42,0.075,7587.2,129.0,5
+Port Harcourt,Apparel,Festive,29045.75,0.075,6257.84,399.0,213
+Kano,Groceries,Rainy,59702.39,0.075,8991.28,342.0,62
+Onitsha,Electronics,Regular,34495.6,0.075,4038.55,90.0,5
+Abuja,Apparel,Regular,13222.24,0.075,13105.48,183.0,5
+Lagos,Electronics,Regular,20407.14,0.075,4979.7,304.0,103
+Lagos,Groceries,Harmattan,38428.95,0.075,4556.8,394.0,140
+Lagos,Apparel,Rainy,11485.32,0.075,7989.64,440.0,182
+Kano,Groceries,Regular,46068.35,0.075,8234.49,132.0,5
+Port Harcourt,Electronics,Rainy,42648.17,0.075,4403.65,247.0,38
+Onitsha,Electronics,Festive,53745.32,0.075,5170.12,490.0,248
+Abuja,Groceries,Regular,70358.99,0.075,3791.02,320.0,36
+Abuja,FMCG,Festive,68462.96,0.075,11199.21,35.0,5
+Kano,Apparel,Regular,70982.63,0.075,11896.2,50.0,5
+Lagos,Electronics,Regular,18731.31,0.075,7741.43,181.0,38
+Kano,Electronics,Regular,10301.62,0.075,11140.17,325.0,99
+Port Harcourt,Apparel,Regular,23019.61,0.075,11435.13,212.0,20
+Port Harcourt,Groceries,Regular,67183.85,0.075,3366.72,229.0,5
+Onitsha,Groceries,Regular,72917.98,0.075,14543.4,397.0,12
+Onitsha,Groceries,Festive,64519.71,0.075,12583.93,465.0,132
+Port Harcourt,FMCG,Festive,8696.32,0.075,4260.53,251.0,147
+Port Harcourt,FMCG,Harmattan,71083.39,0.075,4013.23,446.0,94
+Port Harcourt,Electronics,Regular,32040.17,0.075,3196.43,203.0,22
+Kano,Groceries,Regular,1193.62,0.075,3368.11,34.0,6
+Port Harcourt,Apparel,Regular,33458.33,0.075,11600.18,451.0,159
+Abuja,Electronics,Harmattan,3932.15,0.075,7840.33,324.0,134
+Lagos,Apparel,Festive,41018.91,0.075,12069.61,228.0,5
+Port Harcourt,Electronics,Regular,25722.28,0.075,11574.44,191.0,5
+Lagos,FMCG,Regular,35770.9,0.075,9662.27,285.0,13
+Kano,Electronics,Rainy,46181.19,0.075,10765.95,39.0,5
+Lagos,FMCG,Regular,65225.68,0.075,1747.8,89.0,5
+Kano,Electronics,Regular,49811.67,0.075,5709.0,27.0,5
+Abuja,Groceries,Rainy,32836.64,0.075,10110.6,448.0,141
+Kano,Apparel,Harmattan,61547.38,0.075,1626.16,53.0,5
+Kano,Groceries,Regular,67965.87,0.075,1945.19,243.0,22
+Onitsha,Electronics,Regular,9422.12,0.075,13000.49,198.0,33
+Port Harcourt,Electronics,Festive,40129.01,0.075,10734.34,265.0,32
+Port Harcourt,Electronics,Regular,21696.14,0.075,5082.49,279.0,109
+Abuja,FMCG,Regular,4006.06,0.075,10787.5,127.0,14
+Abuja,Apparel,Regular,50306.73,0.075,12198.17,261.0,33
+Port Harcourt,Apparel,Regular,64776.42,0.075,5641.72,442.0,104
+Onitsha,Electronics,Regular,12636.25,0.075,1986.5,487.0,262
+Port Harcourt,Electronics,Festive,61024.82,0.075,14092.52,43.0,5
+Onitsha,FMCG,Regular,64077.98,0.075,6159.93,235.0,5
+Abuja,Groceries,Regular,68618.36,0.075,2937.5,74.0,5
+Lagos,Groceries,Rainy,20263.74,0.075,8140.07,45.0,5
+Abuja,Apparel,Rainy,67844.5,0.075,11874.32,300.0,5
+Abuja,FMCG,Festive,24389.38,0.075,4492.24,311.0,141
+Kano,Electronics,Festive,41649.18,0.075,5138.12,346.0,144
+Kano,Apparel,Regular,4262.81,0.075,4776.65,477.0,232
+Kano,FMCG,Harmattan,3769.14,0.075,14887.59,205.0,58
+Kano,Groceries,Regular,54167.8,0.075,4164.95,31.0,5
+Onitsha,FMCG,Festive,33613.76,0.075,9269.52,148.0,5
+Port Harcourt,Groceries,Regular,19593.78,0.075,13991.07,391.0,112
+Lagos,FMCG,Festive,14685.81,0.075,3483.1,453.0,315
+Abuja,Apparel,Harmattan,50411.54,0.075,14606.53,428.0,79
+Onitsha,Groceries,Regular,529.92,0.075,14290.94,227.0,70
+Lagos,Apparel,Rainy,60538.89,0.075,13441.72,152.0,5
+Onitsha,Apparel,Festive,6404.1,0.075,4396.51,358.0,240
+Onitsha,Groceries,Festive,14765.98,0.075,10059.74,215.0,83
+Abuja,Groceries,Regular,29274.61,0.075,11772.03,281.0,61
+Port Harcourt,Electronics,Harmattan,36621.98,0.075,14811.38,301.0,5
+Kano,Electronics,Regular,26947.14,0.075,3935.72,388.0,164
+Port Harcourt,Electronics,Regular,24393.06,0.075,11841.35,122.0,5
+Abuja,Apparel,Regular,72311.74,0.075,6073.82,139.0,5
+Abuja,Apparel,Regular,48297.69,0.075,3870.96,202.0,5
+Abuja,Electronics,Festive,2245.76,0.075,7188.59,442.0,338
+Lagos,Apparel,Regular,32548.11,0.075,12216.78,28.0,5
+Port Harcourt,Apparel,Festive,65688.15,0.075,7775.47,64.0,5
+Port Harcourt,Groceries,Regular,22958.49,0.075,8756.56,263.0,74
+Onitsha,Groceries,Regular,7544.45,0.075,14934.65,289.0,83
+Onitsha,Apparel,Regular,56999.67,0.075,6887.98,131.0,5
+Onitsha,Electronics,Regular,45648.03,0.075,9807.91,74.0,5
+Abuja,FMCG,Regular,42988.28,0.075,6430.8,412.0,147
+Port Harcourt,Electronics,Regular,4491.45,0.075,6802.61,34.0,5
+Abuja,FMCG,Rainy,10967.18,0.075,10891.15,56.0,5
+Lagos,Electronics,Regular,46879.93,0.075,14161.47,197.0,5
+Onitsha,Groceries,Regular,15982.88,0.075,8821.85,146.0,9
+Abuja,Apparel,Regular,38053.22,0.075,11873.4,136.0,5
+Abuja,Apparel,Festive,41093.69,0.075,2704.29,359.0,158
+Lagos,Groceries,Festive,21621.29,0.075,4350.63,91.0,5
+Kano,FMCG,Regular,71157.67,0.075,8278.78,371.0,17
+Port Harcourt,FMCG,Regular,63263.58,0.075,1770.16,130.0,5
+Kano,FMCG,Regular,54316.83,0.075,4913.54,168.0,5
+Onitsha,Groceries,Festive,6310.54,0.075,8484.92,204.0,112
+Abuja,FMCG,Regular,8406.69,0.075,1701.98,124.0,75
+Lagos,Groceries,Regular,37212.21,0.075,5071.37,166.0,5
+Lagos,Electronics,Regular,12473.14,0.075,8439.42,240.0,65
+Port Harcourt,Electronics,Regular,73380.78,0.075,9237.51,333.0,5
+Kano,Groceries,Regular,12309.76,0.075,13997.65,370.0,131
+Port Harcourt,Apparel,Harmattan,36816.35,0.075,10212.17,393.0,96
+Abuja,Electronics,Regular,27627.02,0.075,7098.93,25.0,5
+Port Harcourt,FMCG,Rainy,48134.29,0.075,14059.74,279.0,25
+Lagos,Groceries,Regular,10113.21,0.075,12095.92,318.0,105
+Lagos,FMCG,Regular,32558.57,0.075,4200.12,368.0,143
+Onitsha,FMCG,Festive,20965.52,0.075,3266.37,61.0,5
+Onitsha,Apparel,Regular,66637.49,0.075,10623.46,278.0,5
+Abuja,FMCG,Festive,3523.64,0.075,9058.42,404.0,238
+Kano,Apparel,Rainy,68572.7,0.075,12160.59,458.0,76
+Port Harcourt,Electronics,Regular,62558.06,0.075,11473.87,290.0,17
+Abuja,Groceries,Festive,22669.02,0.075,9940.36,66.0,5
+Onitsha,FMCG,Regular,59302.15,0.075,14816.16,104.0,5
+Port Harcourt,Groceries,Festive,2825.41,0.075,8703.46,193.0,79
+Onitsha,FMCG,Regular,72531.48,0.075,3026.93,77.0,5
+Port Harcourt,Groceries,Festive,39731.32,0.075,12681.69,498.0,233
+Kano,FMCG,Regular,23094.44,0.075,4900.02,218.0,49
+Abuja,FMCG,Rainy,27512.45,0.075,11993.58,228.0,27
+Port Harcourt,FMCG,Harmattan,5447.2,0.075,14420.95,267.0,46
+Lagos,FMCG,Festive,74206.54,0.075,10906.74,230.0,5
+Lagos,FMCG,Festive,3427.25,0.075,9546.41,58.0,5
+Port Harcourt,FMCG,Festive,49290.58,0.075,7715.21,271.0,17
+Port Harcourt,FMCG,Festive,33483.83,0.075,6419.53,150.0,5
+Port Harcourt,FMCG,Regular,71194.26,0.075,6265.56,433.0,59
+Lagos,FMCG,Regular,18826.98,0.075,10091.03,310.0,103
+Lagos,Groceries,Regular,40140.47,0.075,11642.19,269.0,5
+Port Harcourt,Apparel,Regular,36435.54,0.075,10659.98,460.0,129
+Onitsha,FMCG,Regular,52863.55,0.075,4178.54,432.0,133
+Onitsha,Apparel,Rainy,5566.76,0.075,8168.83,453.0,195
+Kano,FMCG,Regular,14937.29,0.075,12187.14,465.0,210
+Abuja,FMCG,Rainy,16485.08,0.075,7922.01,71.0,5
+Onitsha,Groceries,Regular,55492.23,0.075,8744.41,393.0,101
+Lagos,Electronics,Regular,14590.83,0.075,11910.34,33.0,5
+Onitsha,Electronics,Rainy,43225.14,0.075,10427.08,438.0,125
+Kano,Groceries,Harmattan,16535.66,0.075,7026.16,175.0,51
+Kano,Apparel,Harmattan,64691.06,0.075,13588.07,461.0,80
+Abuja,Electronics,Rainy,70692.82,0.075,3694.66,49.0,5
+Onitsha,Groceries,Regular,39127.73,0.075,14939.47,109.0,5
+Lagos,Groceries,Rainy,26747.01,0.075,3104.51,410.0,130
+Lagos,Electronics,Regular,17937.3,0.075,1701.82,186.0,95
+Port Harcourt,Apparel,Regular,4208.68,0.075,13515.26,370.0,141
+Lagos,Groceries,Regular,20503.26,0.075,4806.87,88.0,5
+Abuja,FMCG,Regular,49240.57,0.075,11350.94,182.0,5
+Abuja,Apparel,Regular,40254.46,0.075,12448.71,261.0,16
+Lagos,Apparel,Festive,70831.08,0.075,13096.32,402.0,41
+Lagos,Electronics,Festive,30022.66,0.075,14886.52,71.0,5
+Port Harcourt,Electronics,Regular,52192.82,0.075,5469.54,161.0,5
+Lagos,FMCG,Regular,36954.54,0.075,11088.29,82.0,5
+Port Harcourt,Groceries,Regular,38686.93,0.075,3057.9,311.0,121
+Port Harcourt,Electronics,Regular,20449.19,0.075,6991.93,110.0,7
+Lagos,Electronics,Festive,34393.83,0.075,12947.62,171.0,5
+Kano,Apparel,Regular,35573.48,0.075,6463.38,443.0,183
+Kano,Electronics,Harmattan,53144.87,0.075,9479.79,176.0,5
+Port Harcourt,Electronics,Regular,70577.68,0.075,8300.94,328.0,5
+Lagos,Electronics,Festive,25034.44,0.075,10220.35,384.0,174
+Kano,Electronics,Regular,3643.93,0.075,14634.07,169.0,27
+Lagos,Apparel,Harmattan,37473.99,0.075,2252.43,347.0,100
+Lagos,FMCG,Regular,41062.37,0.075,9248.48,290.0,41
+Lagos,FMCG,Rainy,13048.82,0.075,13150.89,388.0,141
+Onitsha,Groceries,Regular,57154.61,0.075,7998.67,88.0,5
+Lagos,Electronics,Regular,73877.22,0.075,2560.12,135.0,5
+Onitsha,Apparel,Festive,70960.22,0.075,9067.28,211.0,5
+Port Harcourt,Groceries,Festive,15184.4,0.075,5983.0,23.0,5
+Kano,Groceries,Festive,65714.56,0.075,3591.71,94.0,5
+Kano,FMCG,Rainy,52984.78,0.075,12961.97,421.0,65
+Kano,Apparel,Festive,34311.57,0.075,8541.59,317.0,110
+Kano,Apparel,Regular,40775.52,0.075,14099.23,260.0,5
+Kano,Apparel,Regular,63795.21,0.075,12381.22,49.0,5
+Kano,FMCG,Regular,36270.05,0.075,10855.12,162.0,5
+Kano,FMCG,Rainy,28303.95,0.075,1567.84,345.0,126
+Port Harcourt,FMCG,Regular,37246.94,0.075,7275.62,202.0,12
+Lagos,FMCG,Regular,43645.17,0.075,4166.06,456.0,183
+Abuja,FMCG,Rainy,14586.29,0.075,13795.77,35.0,5
+Onitsha,Electronics,Festive,67617.63,0.075,3856.88,130.0,5
+Abuja,Electronics,Regular,50726.93,0.075,5361.81,379.0,110
+Abuja,Apparel,Regular,47678.53,0.075,8477.3,220.0,5
+Lagos,Groceries,Regular,7912.47,0.075,5055.41,126.0,36
+Lagos,Apparel,Regular,45510.96,0.075,4333.17,398.0,119
+Lagos,Groceries,Regular,9511.57,0.075,9587.84,181.0,37
+Kano,FMCG,Rainy,6362.98,0.075,2700.55,302.0,150
+Port Harcourt,Groceries,Rainy,39784.66,0.075,2285.26,288.0,68
+Kano,Apparel,Rainy,30507.52,0.075,6525.31,174.0,21
+Port Harcourt,Apparel,Regular,44366.37,0.075,11228.97,92.0,5
+Port Harcourt,Groceries,Festive,7147.05,0.075,8989.89,216.0,77
+Abuja,Electronics,Regular,32608.24,0.075,7208.83,262.0,21
+Abuja,FMCG,Regular,13521.61,0.075,9137.65,105.0,5
+Port Harcourt,FMCG,Festive,74038.96,0.075,6433.6,306.0,32
+Port Harcourt,Apparel,Regular,42305.69,0.075,14137.98,278.0,11
+Kano,Electronics,Regular,51714.05,0.075,2241.22,305.0,57
+Kano,Groceries,Festive,24743.66,0.075,10590.78,168.0,9
+Abuja,FMCG,Regular,7558.05,0.075,13532.32,374.0,155
+Lagos,Electronics,Rainy,73202.38,0.075,12352.44,409.0,15
+Port Harcourt,FMCG,Regular,21826.3,0.075,3984.55,495.0,270
+Kano,Electronics,Rainy,32073.71,0.075,5495.01,435.0,156
+Abuja,Electronics,Regular,48914.86,0.075,11180.15,445.0,119
+Kano,Apparel,Regular,2339.95,0.075,2637.65,209.0,114
+Port Harcourt,FMCG,Rainy,60864.31,0.075,12460.13,236.0,5
+Port Harcourt,Groceries,Regular,40475.08,0.075,11205.24,435.0,114
+Onitsha,Apparel,Regular,21227.18,0.075,11349.69,374.0,156
+Lagos,Apparel,Regular,5089.79,0.075,2853.26,105.0,34
+Onitsha,Groceries,Regular,12606.13,0.075,11189.77,235.0,74
+Abuja,Apparel,Regular,67180.02,0.075,10677.54,442.0,70
+Kano,Electronics,Regular,51608.8,0.075,12717.45,339.0,26
+Abuja,Electronics,Festive,19117.68,0.075,2061.55,137.0,75
+Port Harcourt,FMCG,Regular,5387.26,0.075,1811.99,433.0,238
+Onitsha,FMCG,Regular,51950.84,0.075,6535.6,466.0,142
+Onitsha,Groceries,Regular,43144.38,0.075,3508.64,389.0,133
+Onitsha,FMCG,Regular,30636.7,0.075,9038.19,499.0,231
+Abuja,Electronics,Festive,27589.05,0.075,13884.21,434.0,222
+Port Harcourt,Groceries,Regular,16652.66,0.075,6784.98,106.0,15
+Kano,Groceries,Festive,50386.04,0.075,12906.83,59.0,5
+Kano,FMCG,Regular,72814.77,0.075,1503.25,180.0,5
+Abuja,Electronics,Harmattan,13590.79,0.075,3774.95,210.0,85
+Onitsha,Groceries,Rainy,44985.19,0.075,1910.72,44.0,5
+Lagos,Electronics,Festive,32101.79,0.075,5929.99,439.0,210
+Abuja,Electronics,Rainy,33778.31,0.075,13760.56,171.0,5
+Abuja,Electronics,Rainy,19433.97,0.075,2808.85,114.0,6
+Port Harcourt,FMCG,Regular,61972.55,0.075,9686.53,461.0,127
+Kano,Apparel,Regular,36651.54,0.075,7595.2,442.0,147
+Abuja,Apparel,Festive,40983.74,0.075,14169.32,65.0,5
+Abuja,Groceries,Regular,23204.69,0.075,3154.01,480.0,248
+Onitsha,Electronics,Regular,14044.73,0.075,4362.38,157.0,43
+Onitsha,FMCG,Harmattan,6900.32,0.075,1898.82,490.0,274
+Lagos,Electronics,Regular,53701.88,0.075,7358.13,485.0,153
+Port Harcourt,Electronics,Festive,15119.45,0.075,5250.74,307.0,185
+Lagos,FMCG,Harmattan,51910.61,0.075,13243.73,372.0,46
+Onitsha,Apparel,Rainy,29583.05,0.075,9666.7,183.0,9
+Kano,Electronics,Festive,31475.22,0.075,9790.22,431.0,203
+Onitsha,Electronics,Regular,35453.72,0.075,8680.79,419.0,125
+Port Harcourt,Apparel,Regular,27894.28,0.075,2739.98,35.0,5
+Onitsha,FMCG,Regular,7996.19,0.075,7507.75,37.0,5
+Port Harcourt,Groceries,Regular,23567.57,0.075,14993.32,155.0,5
+Port Harcourt,Apparel,Harmattan,49948.21,0.075,12775.6,483.0,131
+Port Harcourt,Groceries,Festive,50100.94,0.075,13561.7,266.0,5
+Port Harcourt,Groceries,Regular,21823.71,0.075,12613.56,267.0,24
+Port Harcourt,Apparel,Regular,34777.65,0.075,2891.06,350.0,107
+Kano,Electronics,Festive,14911.82,0.075,4570.55,217.0,104
+Lagos,Groceries,Regular,16172.72,0.075,1542.14,20.0,5
+Abuja,Groceries,Regular,2217.01,0.075,5597.39,209.0,85
+Lagos,FMCG,Regular,67307.62,0.075,2966.2,400.0,82
+Port Harcourt,Electronics,Festive,16197.65,0.075,7882.71,479.0,293
+Kano,Groceries,Rainy,17451.27,0.075,10641.22,313.0,111
+Onitsha,FMCG,Harmattan,21330.31,0.075,13305.82,495.0,177
+Kano,Electronics,Festive,9991.9,0.075,11614.43,64.0,5
+Port Harcourt,Apparel,Regular,48125.08,0.075,14170.91,461.0,111
+Kano,Apparel,Regular,6098.15,0.075,2227.63,356.0,211
+Kano,FMCG,Festive,10498.08,0.075,1664.43,404.0,313
+Port Harcourt,Apparel,Regular,48534.38,0.075,10428.06,51.0,5
+Kano,Groceries,Harmattan,25804.72,0.075,5406.26,411.0,188
+Abuja,Electronics,Festive,53242.11,0.075,4922.26,137.0,5
+Abuja,Groceries,Rainy,42028.14,0.075,5966.98,315.0,70
+Kano,Groceries,Harmattan,19573.58,0.075,5142.25,203.0,59
+Onitsha,Apparel,Festive,48986.68,0.075,8404.39,210.0,5
+Port Harcourt,Groceries,Festive,9162.39,0.075,7442.0,254.0,147
+Abuja,Apparel,Regular,40462.57,0.075,8417.79,257.0,19
+Onitsha,Electronics,Regular,33067.53,0.075,10581.63,235.0,32
+Kano,Electronics,Regular,20456.58,0.075,6726.26,93.0,5
+Onitsha,Groceries,Rainy,45498.37,0.075,4892.65,130.0,5
+Lagos,FMCG,Regular,65414.35,0.075,3743.71,122.0,5
+Abuja,Apparel,Harmattan,74918.4,0.075,6217.9,378.0,31
+Kano,Apparel,Regular,45778.33,0.075,11514.39,93.0,5
+Port Harcourt,Groceries,Rainy,30650.59,0.075,11715.52,439.0,119
+Kano,Apparel,Regular,17277.93,0.075,10503.22,492.0,211
+Port Harcourt,Apparel,Harmattan,19653.66,0.075,4659.38,271.0,93
+Kano,FMCG,Rainy,36219.4,0.075,9439.16,133.0,5
+Onitsha,FMCG,Regular,27862.19,0.075,9204.31,398.0,123
+Onitsha,Groceries,Regular,68579.18,0.075,8037.59,332.0,27
+Onitsha,FMCG,Harmattan,27938.01,0.075,8924.72,349.0,95
+Lagos,Groceries,Regular,28321.62,0.075,8139.17,358.0,109
+Port Harcourt,Electronics,Regular,29073.32,0.075,9133.66,257.0,38
+Onitsha,Groceries,Festive,62828.21,0.075,11159.33,192.0,5
+Lagos,Electronics,Harmattan,48983.73,0.075,2979.98,98.0,5
+Port Harcourt,Groceries,Festive,46255.58,0.075,11619.95,483.0,178
+Kano,Apparel,Regular,25393.66,0.075,3334.46,405.0,197
+Lagos,FMCG,Regular,61433.86,0.075,2399.48,112.0,5
+Abuja,Electronics,Festive,3358.11,0.075,14677.08,471.0,273
+Lagos,Groceries,Rainy,65374.39,0.075,14419.39,69.0,5
+Lagos,FMCG,Harmattan,38699.87,0.075,2315.89,304.0,89
+Port Harcourt,Groceries,Regular,30169.64,0.075,7483.92,242.0,44
+Kano,FMCG,Regular,37538.96,0.075,4014.31,100.0,5
+Abuja,FMCG,Regular,50222.46,0.075,8052.16,285.0,30
+Onitsha,Groceries,Regular,1451.02,0.075,12707.39,174.0,34
+Onitsha,Electronics,Regular,65430.61,0.075,14333.26,392.0,46
+Lagos,Electronics,Regular,33782.09,0.075,10062.41,252.0,11
+Port Harcourt,Apparel,Festive,26051.01,0.075,6277.73,418.0,220
+Port Harcourt,FMCG,Regular,10799.29,0.075,9644.9,335.0,119
+Onitsha,Apparel,Rainy,33240.17,0.075,5712.02,255.0,36
+Abuja,Apparel,Festive,37476.05,0.075,13782.62,178.0,5
+Kano,Groceries,Rainy,30571.68,0.075,13250.41,424.0,121
+Abuja,Groceries,Regular,51060.18,0.075,9036.13,335.0,24
+Kano,Groceries,Harmattan,31856.79,0.075,5884.79,270.0,58
+Onitsha,FMCG,Rainy,72125.61,0.075,5460.76,333.0,20
+Kano,Groceries,Harmattan,45146.18,0.075,1951.14,444.0,153
+Port Harcourt,Groceries,Harmattan,60657.11,0.075,12513.58,449.0,61
+Lagos,FMCG,Festive,8647.01,0.075,7580.17,320.0,186
+Lagos,FMCG,Rainy,30098.2,0.075,5889.29,399.0,121
+Onitsha,Electronics,Regular,25595.15,0.075,7859.99,301.0,85
+Port Harcourt,Groceries,Rainy,42926.44,0.075,12552.96,121.0,5
+Abuja,Groceries,Regular,64652.96,0.075,3182.29,70.0,5
+Port Harcourt,Groceries,Festive,6336.2,0.075,13078.36,439.0,248
+Lagos,Electronics,Regular,5906.82,0.075,13616.37,71.0,5
+Lagos,Groceries,Regular,63848.67,0.075,14280.56,228.0,5
+Port Harcourt,Electronics,Festive,16357.33,0.075,6866.09,326.0,179
+Port Harcourt,Apparel,Rainy,50322.12,0.075,4431.4,150.0,5
+Lagos,Electronics,Regular,40944.42,0.075,6544.15,289.0,53
+Abuja,Apparel,Regular,62550.57,0.075,5994.31,452.0,125
+Onitsha,Groceries,Festive,9819.12,0.075,3878.08,224.0,150
+Onitsha,Apparel,Regular,10168.83,0.075,9698.1,238.0,78
+Port Harcourt,Electronics,Festive,41982.97,0.075,7934.43,276.0,58
+Onitsha,FMCG,Regular,71005.21,0.075,13186.96,204.0,5
+Lagos,Apparel,Harmattan,31417.33,0.075,1933.48,164.0,29
+Lagos,Apparel,Festive,24857.19,0.075,10192.22,197.0,39
+Port Harcourt,Groceries,Regular,45698.35,0.075,11799.81,33.0,5
+Port Harcourt,Electronics,Regular,69818.42,0.075,11753.07,265.0,5
+Port Harcourt,Apparel,Regular,62851.12,0.075,13462.0,206.0,5
+Abuja,Apparel,Harmattan,74663.53,0.075,11341.96,356.0,12
+Onitsha,Apparel,Rainy,2181.36,0.075,14025.44,278.0,87
+Port Harcourt,Apparel,Rainy,8907.93,0.075,5990.86,373.0,140
+Kano,FMCG,Regular,45905.35,0.075,8293.33,59.0,5
+Kano,Electronics,Regular,61632.94,0.075,1690.08,108.0,5
+Lagos,Groceries,Regular,21750.7,0.075,1593.93,144.0,45
+Onitsha,Groceries,Regular,18321.23,0.075,4741.71,469.0,225
+Port Harcourt,FMCG,Rainy,59129.7,0.075,2860.9,437.0,112
+Kano,Electronics,Festive,4700.45,0.075,5012.85,493.0,371
+Onitsha,Apparel,Rainy,28019.01,0.075,3890.08,370.0,138
+Lagos,FMCG,Regular,38182.79,0.075,1885.02,28.0,5
+Abuja,Electronics,Festive,42245.98,0.075,13775.61,369.0,116
+Onitsha,Apparel,Harmattan,54781.83,0.075,1611.01,103.0,5
+Onitsha,FMCG,Festive,26936.01,0.075,11437.11,40.0,5
+Abuja,Electronics,Rainy,46144.98,0.075,3554.0,496.0,180
+Onitsha,Groceries,Regular,44110.47,0.075,13815.1,300.0,23
+Lagos,Groceries,Regular,41297.4,0.075,13552.75,377.0,65
+Lagos,Electronics,Harmattan,48216.01,0.075,10327.67,397.0,83
+Abuja,Groceries,Regular,19828.96,0.075,10575.16,191.0,24
+Port Harcourt,Electronics,Regular,6806.33,0.075,1572.08,44.0,26
+Kano,Apparel,Rainy,9385.74,0.075,14795.77,412.0,157
+Port Harcourt,Electronics,Rainy,17231.39,0.075,13350.74,122.0,5
+Onitsha,Apparel,Rainy,37764.75,0.075,13583.93,209.0,10
+Kano,FMCG,Regular,63112.98,0.075,10399.8,255.0,5
+Abuja,Electronics,Regular,52746.35,0.075,6154.62,429.0,128
+Abuja,FMCG,Rainy,59283.53,0.075,13564.26,332.0,30
+Kano,Groceries,Festive,26647.68,0.075,5435.48,56.0,5
+Lagos,Apparel,Harmattan,30646.7,0.075,9096.61,291.0,44
+Kano,Electronics,Festive,29829.3,0.075,2846.37,312.0,179
+Onitsha,FMCG,Harmattan,14794.55,0.075,13946.4,351.0,117
+Lagos,Apparel,Rainy,5060.64,0.075,3400.4,171.0,73
+Abuja,Apparel,Regular,44523.25,0.075,4536.11,301.0,70
+Kano,Groceries,Rainy,74196.64,0.075,9034.81,39.0,5
+Port Harcourt,Groceries,Rainy,12928.81,0.075,11815.26,156.0,14
+Port Harcourt,Apparel,Rainy,3978.02,0.075,9861.24,490.0,209
+Onitsha,Apparel,Regular,58575.11,0.075,4633.81,378.0,74
+Port Harcourt,Electronics,Rainy,19317.66,0.075,1512.73,48.0,5
+Kano,Apparel,Regular,62308.46,0.075,11721.53,50.0,5
+Kano,Electronics,Rainy,52943.28,0.075,14800.3,38.0,5
+Port Harcourt,Apparel,Regular,70952.68,0.075,12433.83,167.0,5
+Kano,Groceries,Festive,30965.08,0.075,7712.79,490.0,290
+Onitsha,Electronics,Regular,49816.75,0.075,13700.86,302.0,5
+Lagos,FMCG,Regular,35131.68,0.075,7032.94,369.0,145
+Onitsha,Groceries,Regular,47478.86,0.075,8586.61,360.0,67
+Onitsha,Electronics,Rainy,33995.12,0.075,7941.25,319.0,56
+Kano,Electronics,Regular,14553.1,0.075,7542.92,182.0,25
+Lagos,FMCG,Regular,38338.36,0.075,11965.08,132.0,5
+Kano,Electronics,Rainy,39879.52,0.075,8611.38,474.0,141
+Abuja,Apparel,Regular,60889.99,0.075,5775.68,169.0,5
+Kano,FMCG,Festive,55296.29,0.075,4985.14,349.0,118
+Kano,Groceries,Festive,49952.48,0.075,2009.59,274.0,89
+Kano,Groceries,Rainy,8947.34,0.075,9373.13,106.0,5
+Lagos,Apparel,Regular,54185.91,0.075,4604.48,418.0,165
+Kano,Groceries,Harmattan,37772.73,0.075,3499.81,369.0,118
+Lagos,Electronics,Regular,67110.42,0.075,10326.7,117.0,5
+Port Harcourt,Electronics,Regular,69030.38,0.075,10696.32,416.0,38
+Abuja,Apparel,Regular,4609.17,0.075,11654.09,151.0,21
+Lagos,Groceries,Festive,61637.8,0.075,8298.29,485.0,181
+Port Harcourt,Groceries,Regular,3308.46,0.075,13569.74,331.0,106
+Lagos,Apparel,Rainy,27854.14,0.075,14140.63,426.0,108
+Lagos,FMCG,Harmattan,40901.35,0.075,12399.51,116.0,5
+Abuja,Groceries,Regular,11533.51,0.075,10080.51,117.0,5
+Onitsha,FMCG,Regular,56100.38,0.075,5600.23,309.0,34
+Onitsha,Groceries,Festive,1122.43,0.075,14769.76,375.0,220
+Lagos,Groceries,Rainy,13060.63,0.075,5200.84,246.0,66
+Kano,Groceries,Rainy,43769.36,0.075,4235.87,164.0,5
+Port Harcourt,Groceries,Regular,53721.87,0.075,7469.08,175.0,5
+Kano,Electronics,Regular,68789.91,0.075,2267.35,289.0,37
+Kano,FMCG,Regular,53059.5,0.075,14709.68,181.0,5
+Lagos,FMCG,Regular,50547.56,0.075,9443.85,131.0,5
+Lagos,Groceries,Regular,29878.42,0.075,9018.85,350.0,100
+Lagos,Groceries,Festive,595.69,0.075,10353.25,204.0,112
+Lagos,FMCG,Regular,9451.86,0.075,8209.82,224.0,87
+Onitsha,Electronics,Regular,40324.31,0.075,1932.86,116.0,5
+Lagos,Apparel,Rainy,50797.18,0.075,9766.2,396.0,74
+Onitsha,Apparel,Harmattan,31599.9,0.075,11168.35,74.0,5
+Onitsha,FMCG,Regular,54935.59,0.075,7126.11,469.0,124
+Lagos,Groceries,Rainy,39378.74,0.075,11723.49,136.0,5
+Abuja,Groceries,Regular,6026.13,0.075,4564.52,112.0,24
+Port Harcourt,Electronics,Regular,14805.21,0.075,4487.23,312.0,133
+Kano,Apparel,Regular,63079.87,0.075,3679.13,471.0,131
+Onitsha,Electronics,Festive,54506.0,0.075,6521.93,223.0,5
+Port Harcourt,Apparel,Regular,67159.77,0.075,12934.66,301.0,5
+Abuja,FMCG,Regular,9258.02,0.075,12676.81,208.0,37
+Kano,Apparel,Regular,74271.58,0.075,6668.13,495.0,102
+Kano,Electronics,Festive,16100.8,0.075,9453.1,342.0,186
+Onitsha,Electronics,Regular,1377.6,0.075,11231.02,103.0,5
+Lagos,Electronics,Regular,74808.01,0.075,4756.29,477.0,107
+Abuja,FMCG,Regular,21440.0,0.075,3769.9,199.0,78
+Onitsha,Apparel,Regular,50267.45,0.075,14623.3,293.0,5
+Abuja,Apparel,Rainy,13662.83,0.075,9837.02,200.0,9
+Lagos,Electronics,Rainy,43727.03,0.075,14749.11,466.0,95
+Lagos,Apparel,Regular,67850.61,0.075,6059.71,200.0,5
+Onitsha,Groceries,Regular,24353.5,0.075,10990.93,302.0,72
+Lagos,Groceries,Regular,50433.92,0.075,4505.15,306.0,52
+Port Harcourt,Groceries,Regular,14498.82,0.075,5026.2,494.0,242
+Kano,Apparel,Regular,47047.26,0.075,8410.68,125.0,5
+Onitsha,FMCG,Harmattan,25565.55,0.075,5814.84,148.0,6
+Abuja,FMCG,Festive,16235.02,0.075,3762.89,281.0,173
+Port Harcourt,FMCG,Festive,23832.06,0.075,5048.89,30.0,5
+Onitsha,FMCG,Festive,13823.66,0.075,1982.6,181.0,108
+Lagos,Groceries,Rainy,67692.75,0.075,11009.72,487.0,94
+Lagos,Groceries,Harmattan,30090.42,0.075,8143.57,466.0,163
+Lagos,Electronics,Regular,18773.31,0.075,2772.28,200.0,72
+Lagos,Apparel,Rainy,33906.38,0.075,3817.87,232.0,38
+Abuja,Apparel,Regular,24379.94,0.075,2884.22,488.0,208
+Port Harcourt,FMCG,Regular,55959.23,0.075,9770.0,293.0,14
+Kano,Groceries,Harmattan,72855.88,0.075,2771.84,40.0,5
+Abuja,FMCG,Regular,33133.51,0.075,11682.81,294.0,60
+Abuja,Electronics,Regular,64646.99,0.075,1776.9,279.0,28
+Kano,Apparel,Festive,42656.8,0.075,4866.57,352.0,163
+Kano,Apparel,Regular,12214.06,0.075,13524.0,485.0,193
+Lagos,FMCG,Regular,51951.39,0.075,11200.17,135.0,5
+Abuja,Electronics,Festive,38750.87,0.075,2485.07,432.0,214
+Onitsha,Apparel,Rainy,48970.19,0.075,12585.2,44.0,5
+Kano,Electronics,Rainy,66781.71,0.075,8155.97,459.0,65
+Kano,Electronics,Regular,33312.38,0.075,12931.57,352.0,96
+Port Harcourt,FMCG,Regular,67637.73,0.075,9609.99,273.0,5
+Onitsha,Groceries,Festive,56424.84,0.075,10704.75,466.0,178
+Onitsha,FMCG,Rainy,36901.07,0.075,14912.27,430.0,58
+Kano,Groceries,Rainy,45440.05,0.075,4636.53,463.0,170
+Lagos,Electronics,Regular,24755.79,0.075,9923.27,230.0,37
+Port Harcourt,Groceries,Regular,73778.0,0.075,7714.34,324.0,13
+Onitsha,Electronics,Festive,50217.66,0.075,2032.6,340.0,114
+Kano,Apparel,Regular,3766.59,0.075,1695.35,441.0,256
+Onitsha,Apparel,Rainy,24833.33,0.075,3109.59,358.0,129
+Port Harcourt,Apparel,Regular,46936.93,0.075,10262.74,455.0,109
+Port Harcourt,FMCG,Rainy,4696.83,0.075,9156.7,276.0,81
+Abuja,FMCG,Festive,2279.37,0.075,8971.3,187.0,69
+Kano,Electronics,Rainy,34026.81,0.075,1930.07,356.0,128
+Port Harcourt,Apparel,Regular,25285.42,0.075,7835.59,40.0,5
+Abuja,FMCG,Rainy,33153.25,0.075,13982.41,105.0,5
+Abuja,Apparel,Harmattan,20070.65,0.075,6867.49,34.0,5
+Onitsha,FMCG,Regular,12771.47,0.075,9936.45,69.0,5
+Onitsha,Groceries,Festive,51841.18,0.075,12027.55,323.0,61
+Abuja,Groceries,Rainy,38835.55,0.075,12082.99,435.0,140
+Onitsha,Apparel,Festive,15411.49,0.075,8510.28,324.0,149
+Port Harcourt,Electronics,Rainy,24309.41,0.075,13082.35,215.0,29
+Lagos,FMCG,Regular,44589.69,0.075,6783.6,383.0,111
+Port Harcourt,FMCG,Regular,5881.09,0.075,13497.36,320.0,105
+Abuja,Groceries,Regular,11485.25,0.075,4743.07,307.0,130
+Abuja,Groceries,Festive,5956.8,0.075,5282.92,407.0,298
+Port Harcourt,Electronics,Harmattan,61017.64,0.075,2217.13,264.0,23
+Onitsha,Electronics,Rainy,56554.49,0.075,12240.35,468.0,56
+Onitsha,Electronics,Regular,56621.81,0.075,7130.25,372.0,105
+Abuja,Apparel,Regular,53866.24,0.075,4593.07,474.0,160
+Kano,Groceries,Harmattan,50369.21,0.075,4629.17,220.0,6
+Onitsha,Apparel,Regular,36035.9,0.075,13668.9,212.0,5
+Port Harcourt,Groceries,Regular,48349.72,0.075,12757.87,355.0,49
+Onitsha,Groceries,Rainy,3357.94,0.075,8972.67,165.0,61
+Port Harcourt,FMCG,Regular,46799.1,0.075,9817.5,329.0,58
+Abuja,Groceries,Regular,58451.89,0.075,7903.4,146.0,5
+Onitsha,Groceries,Regular,37776.7,0.075,6787.5,194.0,5
+Port Harcourt,Apparel,Regular,27134.74,0.075,13858.94,153.0,5
+Abuja,Groceries,Festive,21168.29,0.075,3195.77,85.0,5
+Kano,Apparel,Regular,48388.75,0.075,7149.03,412.0,125
+Port Harcourt,Electronics,Regular,52113.69,0.075,6151.59,471.0,141
+Kano,Groceries,Regular,65387.09,0.075,8225.03,384.0,72
+Kano,Groceries,Harmattan,26003.89,0.075,7678.03,298.0,66
+Lagos,Apparel,Regular,57848.04,0.075,8505.01,265.0,5
+Onitsha,Electronics,Rainy,42321.01,0.075,3388.91,382.0,113
+Port Harcourt,FMCG,Regular,66271.32,0.075,8427.41,256.0,5
+Kano,Electronics,Regular,39822.0,0.075,4772.65,190.0,9
+Lagos,Apparel,Regular,39063.42,0.075,3988.47,70.0,5
+Abuja,Electronics,Festive,43551.84,0.075,2375.26,347.0,174
+Port Harcourt,Apparel,Festive,56323.99,0.075,11795.81,378.0,71
+Kano,Apparel,Regular,72369.44,0.075,7270.47,172.0,5
+Onitsha,FMCG,Rainy,5980.47,0.075,9959.69,99.0,5
+Lagos,Groceries,Festive,4480.88,0.075,11322.51,438.0,279
+Kano,Apparel,Regular,70347.5,0.075,10670.77,164.0,5
+Onitsha,Apparel,Festive,39975.73,0.075,7851.76,293.0,67
+Kano,FMCG,Regular,46310.27,0.075,6736.63,174.0,20
+Port Harcourt,Apparel,Festive,36440.56,0.075,6575.46,418.0,197
+Port Harcourt,Groceries,Harmattan,7477.48,0.075,10140.66,356.0,137
+Port Harcourt,FMCG,Festive,57722.66,0.075,8179.72,382.0,115
+Lagos,Groceries,Rainy,56168.24,0.075,12963.29,344.0,14
+Port Harcourt,Groceries,Regular,23721.9,0.075,13308.48,355.0,105
+Onitsha,FMCG,Festive,23314.82,0.075,3802.57,162.0,51
+Kano,Apparel,Regular,62919.18,0.075,3339.15,317.0,51
+Abuja,Groceries,Regular,5890.62,0.075,10010.41,53.0,5
+Onitsha,Groceries,Harmattan,66142.33,0.075,5566.55,323.0,19
+Onitsha,Groceries,Harmattan,19621.3,0.075,1750.7,486.0,254
+Port Harcourt,Groceries,Festive,44677.36,0.075,13496.68,411.0,132
+Lagos,FMCG,Regular,70231.57,0.075,4563.16,258.0,5
+Kano,FMCG,Harmattan,51020.13,0.075,14045.29,157.0,5
+Lagos,Electronics,Harmattan,31375.02,0.075,11185.37,273.0,71
+Kano,Electronics,Regular,51870.3,0.075,11795.82,24.0,5
+Kano,Groceries,Regular,26126.48,0.075,4219.73,391.0,168
+Lagos,Apparel,Regular,21155.75,0.075,4661.62,195.0,70
+Onitsha,Groceries,Regular,74752.9,0.075,8537.11,392.0,34
+Kano,Apparel,Festive,56433.87,0.075,3823.35,429.0,190
+Lagos,Groceries,Rainy,48531.64,0.075,5623.33,233.0,12
+Kano,Electronics,Harmattan,26969.08,0.075,5839.74,383.0,120
+Abuja,Electronics,Festive,4162.48,0.075,3655.0,42.0,5
+Onitsha,Apparel,Regular,2813.74,0.075,4269.97,337.0,173
+Port Harcourt,Groceries,Festive,41786.5,0.075,12145.45,32.0,5
+Kano,Apparel,Regular,57271.44,0.075,3757.14,412.0,82
+Abuja,Electronics,Festive,40534.75,0.075,1884.17,260.0,94
+Port Harcourt,Groceries,Regular,63138.49,0.075,9996.29,295.0,14
+Port Harcourt,Groceries,Festive,2990.28,0.075,14675.77,111.0,5
+Kano,Apparel,Regular,27823.03,0.075,5971.39,127.0,5
+Lagos,FMCG,Regular,18161.74,0.075,3101.85,460.0,232
+Kano,Apparel,Harmattan,33821.84,0.075,9200.23,248.0,46
+Abuja,Electronics,Regular,5892.04,0.075,13735.78,171.0,46
+Port Harcourt,Electronics,Rainy,71582.81,0.075,12084.83,127.0,5
+Kano,Electronics,Regular,17132.53,0.075,9903.96,308.0,88
+Lagos,Electronics,Harmattan,69211.93,0.075,5753.26,423.0,107
+Kano,Electronics,Regular,32229.04,0.075,8815.38,463.0,157
+Onitsha,FMCG,Regular,73921.55,0.075,2731.81,195.0,5
+Lagos,Groceries,Regular,41777.35,0.075,10665.76,339.0,99
+Abuja,Apparel,Regular,69847.05,0.075,11288.8,305.0,5
+Port Harcourt,Apparel,Regular,898.5,0.075,14527.93,383.0,167
+Kano,Electronics,Regular,56243.79,0.075,5015.36,348.0,90
+Lagos,Apparel,Regular,67777.27,0.075,1749.16,384.0,93
+Onitsha,Electronics,Regular,10909.18,0.075,8865.71,260.0,101
+Lagos,FMCG,Rainy,7661.38,0.075,11041.67,164.0,19
+Onitsha,FMCG,Festive,32130.66,0.075,12170.5,375.0,157
+Abuja,Groceries,Regular,70059.08,0.075,4115.48,33.0,5
+Port Harcourt,FMCG,Rainy,40907.8,0.075,5033.66,294.0,40
+Abuja,FMCG,Rainy,39795.51,0.075,8419.98,90.0,5
+Kano,Groceries,Regular,11013.9,0.075,5963.11,334.0,116
+Lagos,Apparel,Harmattan,558.82,0.075,13116.91,214.0,69
+Onitsha,Electronics,Regular,60855.44,0.075,7895.76,372.0,58
+Onitsha,Electronics,Rainy,7024.3,0.075,12294.31,319.0,132
+Lagos,Apparel,Regular,47721.81,0.075,9338.37,435.0,126
+Lagos,Groceries,Rainy,68638.93,0.075,11936.72,386.0,45
+Kano,Apparel,Rainy,16044.57,0.075,5991.09,30.0,5
+Abuja,FMCG,Regular,50062.83,0.075,12724.12,125.0,5
+Onitsha,Groceries,Regular,6363.04,0.075,5206.73,277.0,117
+Kano,Groceries,Festive,45479.76,0.075,8872.33,493.0,241
+Abuja,Groceries,Regular,12712.91,0.075,4389.1,400.0,175
+Kano,Electronics,Rainy,55328.54,0.075,7919.61,215.0,5
+Onitsha,Apparel,Festive,22941.73,0.075,5795.37,164.0,15
+Lagos,Groceries,Harmattan,35022.63,0.075,5100.5,484.0,186
+Lagos,Groceries,Rainy,45157.58,0.075,14554.3,239.0,12
+Abuja,Groceries,Harmattan,13259.87,0.075,3661.0,369.0,178
+Port Harcourt,Apparel,Festive,55752.02,0.075,12128.9,443.0,130
+Abuja,Electronics,Regular,23046.71,0.075,14786.23,490.0,137
+Port Harcourt,FMCG,Regular,49846.7,0.075,1768.67,193.0,5
+Kano,Electronics,Regular,12292.09,0.075,10936.87,235.0,68
+Kano,Groceries,Festive,51764.77,0.075,4914.31,112.0,5
+Onitsha,Electronics,Rainy,10050.01,0.075,2046.59,279.0,144
+Port Harcourt,Electronics,Regular,32189.06,0.075,6939.01,441.0,166
+Onitsha,FMCG,Festive,18916.85,0.075,14125.44,82.0,5
+Lagos,Apparel,Regular,56253.96,0.075,1658.83,48.0,5
+Port Harcourt,Apparel,Regular,20021.61,0.075,9436.46,294.0,85
+Abuja,Electronics,Rainy,66187.94,0.075,8268.85,366.0,34
+Lagos,Electronics,Regular,66940.61,0.075,13290.69,304.0,5
+Lagos,Apparel,Festive,15134.88,0.075,2634.02,438.0,323
+Abuja,Apparel,Regular,46231.52,0.075,10700.6,391.0,82
+Lagos,FMCG,Festive,7034.96,0.075,10681.48,89.0,5
+Port Harcourt,Groceries,Rainy,29669.51,0.075,10532.58,398.0,106
+Onitsha,Electronics,Regular,53642.47,0.075,14221.52,298.0,5
+Lagos,Apparel,Festive,49627.03,0.075,12611.68,250.0,5
+Port Harcourt,Electronics,Rainy,47040.2,0.075,2066.63,321.0,68
+Kano,Electronics,Regular,21549.29,0.075,7859.62,274.0,75
+Port Harcourt,Apparel,Regular,28662.86,0.075,6872.37,191.0,5
+Onitsha,FMCG,Festive,8169.49,0.075,5686.99,451.0,308
+Port Harcourt,Electronics,Regular,54067.2,0.075,7593.05,199.0,5
+Abuja,FMCG,Regular,38039.72,0.075,6686.62,283.0,55
+Onitsha,Apparel,Regular,53303.04,0.075,7336.51,202.0,5
+Kano,Groceries,Regular,19046.29,0.075,14720.04,341.0,95
+Abuja,Groceries,Harmattan,24670.65,0.075,2696.55,224.0,114
+Port Harcourt,Electronics,Regular,25399.04,0.075,13950.12,443.0,151
+Onitsha,Apparel,Regular,2417.81,0.075,7983.2,268.0,90
+Kano,FMCG,Regular,25908.07,0.075,9920.52,232.0,34
+Abuja,Electronics,Regular,60346.19,0.075,12707.47,178.0,5
+Kano,Apparel,Festive,67348.74,0.075,6366.25,451.0,136
+Port Harcourt,Apparel,Regular,39107.26,0.075,7310.7,119.0,5
+Kano,FMCG,Festive,34434.88,0.075,7028.5,336.0,126
+Lagos,Electronics,Regular,2796.43,0.075,6558.87,131.0,45
+Abuja,Apparel,Regular,66000.72,0.075,13994.65,327.0,5
+Kano,Apparel,Festive,1469.26,0.075,12690.55,185.0,79
+Port Harcourt,Apparel,Regular,70883.88,0.075,2971.5,494.0,116
+Port Harcourt,FMCG,Harmattan,36946.61,0.075,2959.67,55.0,5
+Kano,Electronics,Festive,25974.12,0.075,7276.24,131.0,5
+Port Harcourt,Electronics,Regular,69354.27,0.075,2831.87,106.0,5
+Onitsha,Electronics,Regular,2317.13,0.075,9857.76,202.0,64
+Onitsha,Electronics,Harmattan,43816.15,0.075,3439.84,104.0,5
+Onitsha,Groceries,Regular,41395.47,0.075,8552.04,288.0,63
+Lagos,Groceries,Regular,16839.37,0.075,1597.47,184.0,80
+Kano,Electronics,Regular,32452.11,0.075,5774.05,322.0,99
+Lagos,FMCG,Regular,49093.67,0.075,10642.07,109.0,5
+Port Harcourt,Groceries,Harmattan,54671.27,0.075,8034.53,474.0,157
+Lagos,Apparel,Regular,553.41,0.075,14706.64,257.0,91
+Port Harcourt,Groceries,Regular,70295.58,0.075,13300.4,41.0,5
+Port Harcourt,Apparel,Rainy,12757.14,0.075,6347.46,186.0,68
+Abuja,Electronics,Regular,17901.74,0.075,2114.07,234.0,99
+Onitsha,Groceries,Regular,20128.77,0.075,12915.96,77.0,5
+Port Harcourt,FMCG,Harmattan,3317.6,0.075,13801.66,49.0,5
+Abuja,Groceries,Regular,9667.38,0.075,12578.47,421.0,148
+Onitsha,Groceries,Harmattan,73983.07,0.075,3227.32,125.0,5
+Port Harcourt,Groceries,Festive,23983.65,0.075,14971.85,421.0,167
+Port Harcourt,Electronics,Regular,9089.93,0.075,4990.89,349.0,168
+Lagos,FMCG,Rainy,8470.85,0.075,11276.77,186.0,36
+Lagos,Groceries,Regular,54099.77,0.075,13758.47,369.0,23
+Onitsha,FMCG,Regular,64165.37,0.075,4681.78,173.0,5
+Port Harcourt,Electronics,Festive,19642.95,0.075,13761.49,346.0,161
+Kano,Apparel,Festive,2057.76,0.075,5678.0,26.0,5
+Lagos,Groceries,Regular,17120.21,0.075,14681.58,216.0,45
+Onitsha,FMCG,Rainy,4710.42,0.075,5297.01,340.0,173
+Port Harcourt,FMCG,Festive,8202.92,0.075,14371.38,65.0,5
+Port Harcourt,Electronics,Festive,32647.35,0.075,2222.85,37.0,5
+Kano,Groceries,Rainy,17628.92,0.075,11075.17,416.0,137
+Onitsha,Apparel,Regular,38937.97,0.075,8683.5,172.0,5
+Port Harcourt,FMCG,Regular,19385.28,0.075,7951.34,283.0,88
+Lagos,Groceries,Festive,70570.03,0.075,4517.17,93.0,5
+Kano,Apparel,Regular,67992.83,0.075,11025.54,435.0,38
+Onitsha,FMCG,Rainy,42727.05,0.075,4075.93,164.0,5
+Kano,FMCG,Regular,26904.59,0.075,8963.36,121.0,5
+Lagos,Apparel,Regular,28895.44,0.075,4918.81,354.0,148
+Onitsha,Apparel,Regular,31183.0,0.075,14400.89,354.0,78
+Kano,Electronics,Festive,54704.66,0.075,1886.52,140.0,5
+Abuja,Groceries,Regular,34147.11,0.075,4196.33,195.0,41
+Lagos,Groceries,Rainy,64326.38,0.075,4771.19,82.0,5
+Lagos,Electronics,Regular,70835.06,0.075,7089.92,315.0,6
+Lagos,FMCG,Regular,25527.99,0.075,4641.86,103.0,5
+Abuja,Apparel,Regular,42271.74,0.075,8133.21,34.0,5
+Abuja,Apparel,Rainy,7581.71,0.075,13278.28,374.0,139
+Port Harcourt,Apparel,Regular,15434.94,0.075,11112.86,153.0,18
+Kano,FMCG,Regular,31303.2,0.075,9329.49,497.0,176
+Port Harcourt,Apparel,Regular,15862.1,0.075,2701.54,140.0,39
+Kano,Apparel,Regular,65803.76,0.075,10868.89,338.0,15
+Abuja,Electronics,Festive,12292.33,0.075,3746.59,411.0,296
+Abuja,FMCG,Festive,34446.73,0.075,12115.96,498.0,257
+Port Harcourt,Groceries,Regular,45624.59,0.075,4875.77,147.0,5
+Onitsha,Electronics,Rainy,52043.86,0.075,7130.16,387.0,67
+Port Harcourt,Electronics,Festive,29038.67,0.075,6231.35,386.0,208
+Kano,Groceries,Regular,65247.88,0.075,13093.99,307.0,5
+Port Harcourt,Electronics,Festive,42839.78,0.075,3208.35,320.0,138
+Lagos,FMCG,Festive,33243.33,0.075,9136.21,397.0,170
+Kano,Apparel,Regular,5509.43,0.075,3417.83,199.0,72
+Kano,FMCG,Regular,35119.37,0.075,11014.74,482.0,137
+Onitsha,Groceries,Festive,61644.82,0.075,13718.55,101.0,5
+Abuja,Groceries,Rainy,46283.31,0.075,7367.2,32.0,5
+Kano,Electronics,Regular,62496.1,0.075,8089.25,43.0,5
+Abuja,FMCG,Regular,37303.87,0.075,14020.21,187.0,5
+Port Harcourt,FMCG,Regular,9325.4,0.075,8533.38,289.0,55
+Lagos,Groceries,Rainy,1516.17,0.075,8082.58,495.0,235
+Onitsha,FMCG,Harmattan,23089.86,0.075,9307.44,478.0,162
+Abuja,Groceries,Festive,52500.29,0.075,10804.6,89.0,5
+Kano,FMCG,Regular,59374.36,0.075,2942.93,337.0,38
+Abuja,FMCG,Rainy,22533.59,0.075,12584.99,395.0,84
+Kano,FMCG,Rainy,37426.22,0.075,7379.32,108.0,5
+Abuja,Groceries,Regular,31873.36,0.075,2476.7,208.0,37
+Kano,Electronics,Regular,31083.95,0.075,12113.47,276.0,20
+Port Harcourt,FMCG,Festive,17735.48,0.075,6588.82,236.0,102
+Kano,Groceries,Festive,10659.65,0.075,2854.96,469.0,327
+Kano,Groceries,Regular,15153.3,0.075,10056.02,401.0,174
+Lagos,FMCG,Rainy,4622.26,0.075,13381.77,51.0,5
+Kano,FMCG,Regular,15260.74,0.075,13484.67,160.0,5
+Lagos,Electronics,Rainy,1185.47,0.075,14428.46,180.0,50
+Onitsha,Groceries,Rainy,47230.75,0.075,13214.02,51.0,5
+Lagos,Groceries,Rainy,24069.97,0.075,1528.9,331.0,129
+Port Harcourt,Apparel,Festive,72999.28,0.075,6633.26,171.0,5
+Lagos,Groceries,Rainy,14931.92,0.075,12550.32,366.0,104
+Onitsha,Electronics,Regular,26264.23,0.075,6444.42,279.0,53
+Port Harcourt,Apparel,Harmattan,27159.17,0.075,9620.9,235.0,13
+Abuja,Apparel,Regular,1129.64,0.075,9685.28,298.0,118
+Abuja,Apparel,Regular,63020.99,0.075,6427.84,304.0,32
+Lagos,FMCG,Regular,2883.59,0.075,13710.4,117.0,5
+Lagos,FMCG,Regular,70543.4,0.075,8293.58,424.0,61
+Onitsha,Groceries,Harmattan,66959.54,0.075,7774.59,49.0,5
+Onitsha,Apparel,Regular,40396.38,0.075,14966.44,109.0,5
+Kano,Electronics,Harmattan,40997.87,0.075,8162.25,167.0,5
+Onitsha,FMCG,Rainy,49206.46,0.075,3908.38,163.0,5
+Kano,Electronics,Regular,29335.23,0.075,8426.44,86.0,5
+Port Harcourt,Electronics,Festive,48718.06,0.075,12489.23,452.0,174
+Lagos,FMCG,Regular,3835.24,0.075,11987.61,376.0,158
+Port Harcourt,FMCG,Regular,4526.55,0.075,12145.85,77.0,5
+Onitsha,FMCG,Rainy,34563.67,0.075,11058.32,447.0,146
+Port Harcourt,FMCG,Regular,41446.86,0.075,4931.94,300.0,67
+Port Harcourt,Apparel,Regular,66642.41,0.075,13138.14,298.0,5
+Port Harcourt,Apparel,Rainy,8297.22,0.075,13561.49,255.0,74
+Onitsha,Apparel,Rainy,61787.27,0.075,4121.06,462.0,117
+Port Harcourt,Apparel,Regular,16148.53,0.075,3261.15,404.0,172
+Kano,Groceries,Festive,29859.23,0.075,14670.67,372.0,126
+Onitsha,Apparel,Rainy,24086.88,0.075,13222.37,418.0,139
+Port Harcourt,FMCG,Festive,30311.57,0.075,13558.69,147.0,5
+Onitsha,Electronics,Regular,11711.91,0.075,13466.08,356.0,148
+Abuja,Apparel,Rainy,38015.97,0.075,8812.77,228.0,7
+Kano,Groceries,Festive,60222.37,0.075,10226.42,455.0,153
+Port Harcourt,FMCG,Rainy,33394.28,0.075,8862.4,205.0,5
+Abuja,Electronics,Harmattan,37050.71,0.075,2191.29,188.0,29
+Abuja,Electronics,Regular,63733.19,0.075,11564.29,191.0,5
+Onitsha,Apparel,Regular,53101.33,0.075,8321.98,279.0,33
+Abuja,Electronics,Regular,37038.85,0.075,10244.07,224.0,10
+Kano,Apparel,Regular,19698.33,0.075,8285.64,471.0,197
+Kano,Apparel,Festive,66427.04,0.075,8139.45,154.0,5
+Lagos,FMCG,Regular,43488.02,0.075,3819.15,65.0,5
+Kano,FMCG,Festive,16975.5,0.075,5262.64,28.0,5
+Abuja,Groceries,Festive,20549.42,0.075,3644.51,490.0,323
+Kano,FMCG,Regular,60333.42,0.075,4141.49,180.0,5
+Onitsha,FMCG,Regular,3788.84,0.075,14635.19,308.0,84
+Lagos,Apparel,Festive,74410.87,0.075,3567.03,359.0,81
+Abuja,FMCG,Festive,10211.2,0.075,5135.15,407.0,288
+Lagos,Apparel,Regular,59807.11,0.075,9472.96,340.0,32
+Abuja,Apparel,Regular,29910.76,0.075,9737.41,125.0,5
+Onitsha,FMCG,Rainy,37170.11,0.075,3578.65,309.0,86
+Lagos,Groceries,Rainy,66108.47,0.075,12215.19,494.0,99
+Port Harcourt,Groceries,Regular,31261.88,0.075,12100.24,360.0,98
+Abuja,Electronics,Harmattan,40543.28,0.075,4703.79,107.0,5
+Port Harcourt,Electronics,Regular,4172.82,0.075,5397.0,482.0,217
+Lagos,FMCG,Regular,674.89,0.075,14162.84,211.0,39
+Port Harcourt,Groceries,Regular,18737.59,0.075,12646.56,172.0,5
+Port Harcourt,Apparel,Regular,51203.44,0.075,10920.26,330.0,55
+Lagos,Electronics,Regular,9534.23,0.075,2610.15,156.0,64
+Onitsha,Apparel,Regular,8975.27,0.075,7146.57,292.0,129
+Port Harcourt,Electronics,Regular,31116.57,0.075,9050.58,168.0,5
+Port Harcourt,FMCG,Regular,48763.86,0.075,4030.05,207.0,5
+Onitsha,Groceries,Regular,53549.36,0.075,7551.06,160.0,5
+Port Harcourt,Electronics,Festive,13794.58,0.075,9613.85,150.0,8
+Port Harcourt,Groceries,Regular,6429.32,0.075,5919.59,471.0,224
+Port Harcourt,Apparel,Regular,70559.58,0.075,12042.76,23.0,5
+Kano,FMCG,Rainy,19919.65,0.075,12846.07,495.0,183
+Onitsha,Groceries,Festive,64074.31,0.075,5868.73,282.0,5
+Port Harcourt,FMCG,Regular,64830.11,0.075,12821.87,45.0,5
+Onitsha,Groceries,Rainy,58052.93,0.075,2898.28,478.0,160
+Abuja,Apparel,Harmattan,13078.1,0.075,12809.34,43.0,5
+Abuja,Apparel,Rainy,61724.21,0.075,3562.13,285.0,26
+Port Harcourt,FMCG,Regular,57809.17,0.075,2619.52,248.0,18
+Onitsha,Apparel,Rainy,44955.86,0.075,10163.97,288.0,26
+Onitsha,Electronics,Regular,25621.55,0.075,7871.15,144.0,20
+Onitsha,Groceries,Rainy,20056.89,0.075,13756.52,191.0,9
+Kano,Apparel,Harmattan,9580.75,0.075,6403.05,253.0,72
+Abuja,Electronics,Regular,38476.9,0.075,5376.56,314.0,107
+Onitsha,FMCG,Festive,44101.94,0.075,8259.92,422.0,177
+Onitsha,Electronics,Regular,27270.75,0.075,7655.27,454.0,173
+Kano,FMCG,Festive,35914.25,0.075,6149.78,294.0,123
+Kano,FMCG,Regular,27581.83,0.075,10865.51,95.0,5
+Onitsha,Groceries,Regular,48254.95,0.075,11754.08,327.0,66
+Lagos,Groceries,Regular,67643.81,0.075,13015.28,233.0,5
+Onitsha,Electronics,Festive,12712.06,0.075,14633.56,450.0,255
+Onitsha,Groceries,Regular,28914.96,0.075,5099.86,395.0,199
+Kano,Groceries,Regular,10994.71,0.075,11167.26,177.0,31
+Kano,Groceries,Regular,47058.31,0.075,6822.49,321.0,62
+Onitsha,Electronics,Rainy,54800.85,0.075,10640.61,223.0,5
+Onitsha,Apparel,Rainy,69927.5,0.075,7925.75,496.0,104
+Onitsha,Groceries,Regular,21275.96,0.075,14915.94,168.0,5
+Kano,Groceries,Regular,71290.73,0.075,11340.18,94.0,5
+Onitsha,Electronics,Regular,5213.07,0.075,14358.63,399.0,200
+Onitsha,Apparel,Regular,45424.53,0.075,12772.09,248.0,5
+Port Harcourt,Groceries,Regular,4756.39,0.075,13689.16,323.0,107
+Lagos,FMCG,Harmattan,67086.18,0.075,12494.66,81.0,5
+Abuja,Electronics,Regular,39970.77,0.075,7698.65,77.0,5
+Lagos,Groceries,Regular,50366.45,0.075,4899.14,293.0,66
+Port Harcourt,Groceries,Regular,62452.26,0.075,6499.32,127.0,5
+Abuja,FMCG,Festive,11698.14,0.075,1773.19,206.0,152
+Onitsha,FMCG,Festive,3375.07,0.075,8573.91,494.0,340
+Port Harcourt,Electronics,Festive,65976.65,0.075,8318.28,248.0,5
+Onitsha,Electronics,Regular,23962.53,0.075,8590.88,67.0,5
+Kano,FMCG,Regular,10108.93,0.075,14649.42,338.0,103
+Port Harcourt,Electronics,Regular,35400.36,0.075,13804.63,287.0,6
+Kano,FMCG,Regular,45073.8,0.075,3683.12,234.0,5
+Port Harcourt,Groceries,Rainy,2807.31,0.075,6479.91,309.0,142
+Port Harcourt,FMCG,Harmattan,20979.73,0.075,7223.41,273.0,55
+Kano,FMCG,Festive,2943.59,0.075,6367.19,464.0,343
+Abuja,Apparel,Festive,31814.99,0.075,12279.7,377.0,134
+Lagos,FMCG,Regular,67184.95,0.075,8574.51,106.0,5
+Onitsha,FMCG,Rainy,73707.6,0.075,9223.35,200.0,5
+Port Harcourt,Apparel,Regular,47960.04,0.075,13015.68,44.0,5
+Onitsha,Electronics,Regular,12542.01,0.075,12380.03,465.0,196
+Kano,Apparel,Harmattan,67985.78,0.075,3284.86,407.0,92
+Onitsha,Groceries,Regular,38960.46,0.075,11137.85,241.0,27
+Kano,Apparel,Regular,11954.32,0.075,7378.39,497.0,238
+Onitsha,Groceries,Regular,69168.64,0.075,5477.76,416.0,47
+Lagos,Electronics,Rainy,56931.44,0.075,2175.25,445.0,134
+Lagos,Apparel,Harmattan,55012.04,0.075,8077.87,68.0,5
+Lagos,Apparel,Regular,53333.96,0.075,6298.4,353.0,69
+Lagos,Electronics,Festive,15425.32,0.075,4895.43,459.0,295
+Lagos,Groceries,Regular,16220.0,0.075,10878.07,194.0,24
+Lagos,Apparel,Regular,51777.83,0.075,11888.05,411.0,105
+Kano,Groceries,Harmattan,16869.34,0.075,4804.66,330.0,119
+Port Harcourt,Apparel,Rainy,33181.04,0.075,2167.54,491.0,169
+Onitsha,FMCG,Festive,58759.14,0.075,12958.16,293.0,5
+Lagos,Apparel,Regular,58904.46,0.075,1634.46,54.0,5
+Kano,Electronics,Rainy,34268.0,0.075,14151.02,236.0,27
+Kano,Electronics,Rainy,59518.15,0.075,9972.87,228.0,5
+Kano,Groceries,Festive,62977.32,0.075,5844.93,179.0,5
+Port Harcourt,Apparel,Regular,49280.79,0.075,4827.45,427.0,118
+Onitsha,Groceries,Harmattan,17517.73,0.075,1621.58,26.0,5
+Port Harcourt,Groceries,Rainy,20913.88,0.075,4678.86,288.0,109
+Abuja,FMCG,Regular,23955.67,0.075,3359.33,145.0,42
+Kano,FMCG,Regular,9201.91,0.075,9764.24,494.0,219
+Abuja,Electronics,Regular,20850.39,0.075,3748.37,387.0,193
+Lagos,Groceries,Rainy,16109.18,0.075,8636.5,344.0,114
+Lagos,Electronics,Festive,34421.99,0.075,9466.57,375.0,163
+Port Harcourt,Apparel,Rainy,68178.6,0.075,5523.56,109.0,5
+Onitsha,Groceries,Rainy,8283.78,0.075,1973.38,61.0,5
+Abuja,Groceries,Rainy,54159.96,0.075,2002.93,384.0,107
+Onitsha,Apparel,Regular,51702.58,0.075,1855.69,178.0,15
+Port Harcourt,Apparel,Regular,7633.69,0.075,11478.18,221.0,51
+Lagos,Electronics,Regular,69231.64,0.075,5793.13,385.0,47
+Onitsha,Electronics,Regular,42851.18,0.075,12250.05,301.0,41
+Onitsha,Apparel,Regular,27597.55,0.075,7328.39,489.0,203
+Lagos,Electronics,Rainy,56862.12,0.075,7615.47,351.0,48
+Abuja,Apparel,Regular,19673.73,0.075,8423.92,307.0,102
+Lagos,Groceries,Regular,52166.48,0.075,11125.92,110.0,5
+Onitsha,Groceries,Regular,3458.48,0.075,5192.29,144.0,59
+Abuja,FMCG,Regular,63035.9,0.075,3141.43,145.0,5
+Abuja,Groceries,Festive,33888.73,0.075,9006.77,71.0,5
+Lagos,Apparel,Festive,47933.62,0.075,5914.2,423.0,167
+Onitsha,Electronics,Harmattan,16982.22,0.075,7473.63,122.0,5
+Port Harcourt,FMCG,Regular,50941.99,0.075,10233.78,380.0,117
+Onitsha,Electronics,Harmattan,58031.9,0.075,8170.7,443.0,119
+Kano,Apparel,Festive,35754.38,0.075,9873.76,206.0,5
+Port Harcourt,Groceries,Harmattan,46520.66,0.075,8846.7,224.0,5
+Abuja,FMCG,Regular,34496.28,0.075,11487.25,33.0,5
+Port Harcourt,Apparel,Rainy,67109.81,0.075,11030.14,447.0,57
+Abuja,FMCG,Festive,37591.25,0.075,8711.56,123.0,5
+Abuja,FMCG,Rainy,63214.75,0.075,10665.19,136.0,5
+Port Harcourt,Groceries,Rainy,60200.73,0.075,13293.05,489.0,109
+Abuja,Apparel,Regular,31082.61,0.075,7335.66,485.0,187
+Abuja,Electronics,Rainy,17641.29,0.075,7072.3,323.0,113
+Kano,FMCG,Regular,30753.12,0.075,11817.32,112.0,5
+Onitsha,FMCG,Rainy,62053.19,0.075,9364.48,446.0,97
+Onitsha,Electronics,Regular,17458.62,0.075,2458.59,163.0,47
+Kano,Apparel,Regular,39570.51,0.075,13543.51,129.0,5
+Port Harcourt,FMCG,Regular,60554.21,0.075,1915.57,182.0,5
+Lagos,FMCG,Rainy,26834.07,0.075,11603.35,72.0,5
+Lagos,FMCG,Regular,48344.62,0.075,11743.72,437.0,109
+Lagos,Apparel,Rainy,18799.55,0.075,14367.0,22.0,5
+Kano,Apparel,Harmattan,8641.32,0.075,2230.81,87.0,15
+Kano,Electronics,Regular,59681.62,0.075,9557.57,265.0,10
+Abuja,Apparel,Regular,7873.16,0.075,7275.85,408.0,209
+Lagos,Apparel,Regular,20717.91,0.075,5963.54,157.0,21
+Port Harcourt,Groceries,Festive,64205.65,0.075,2719.3,327.0,90
+Port Harcourt,Electronics,Rainy,26311.96,0.075,9095.83,432.0,108
+Lagos,FMCG,Regular,72991.88,0.075,7967.05,371.0,57
+Lagos,Apparel,Regular,73490.21,0.075,2911.49,306.0,35
+Lagos,FMCG,Rainy,20486.56,0.075,9768.61,85.0,5
+Kano,FMCG,Festive,3552.88,0.075,11462.37,479.0,315
+Kano,Groceries,Festive,53027.21,0.075,11858.26,366.0,45
+Kano,Apparel,Rainy,34098.49,0.075,13722.54,344.0,51
+Onitsha,Electronics,Regular,8006.09,0.075,7027.86,440.0,229
+Port Harcourt,Apparel,Regular,53210.45,0.075,14366.48,174.0,5
+Port Harcourt,FMCG,Regular,2822.53,0.075,13183.3,106.0,5
+Abuja,Electronics,Regular,65329.65,0.075,5502.77,52.0,5
+Kano,Apparel,Regular,10829.61,0.075,3650.32,87.0,11
+Onitsha,FMCG,Regular,9984.73,0.075,7377.76,206.0,81
+Onitsha,FMCG,Regular,13587.59,0.075,6925.63,211.0,55
+Port Harcourt,Groceries,Festive,72039.84,0.075,9272.21,232.0,5
+Kano,Groceries,Rainy,52141.12,0.075,9375.71,107.0,5
+Abuja,Groceries,Festive,60202.18,0.075,11624.82,447.0,136
+Kano,FMCG,Harmattan,30123.81,0.075,8383.51,370.0,109
+Lagos,Apparel,Regular,25555.3,0.075,2915.11,127.0,9
+Kano,Groceries,Harmattan,17969.06,0.075,13086.93,259.0,45
+Lagos,Apparel,Regular,36308.28,0.075,5681.82,235.0,36
+Lagos,Groceries,Rainy,41611.24,0.075,14612.52,196.0,5
+Abuja,Electronics,Regular,47567.23,0.075,3091.11,72.0,5
+Port Harcourt,Electronics,Festive,19655.33,0.075,14436.39,349.0,145
+Kano,Groceries,Regular,71174.73,0.075,2728.66,68.0,5
+Lagos,FMCG,Regular,13147.01,0.075,4618.99,388.0,174
+Kano,Groceries,Festive,72441.16,0.075,2128.83,133.0,5
+Port Harcourt,Groceries,Regular,1606.78,0.075,11019.03,469.0,214
+Port Harcourt,FMCG,Rainy,36343.86,0.075,12979.03,114.0,5
+Onitsha,Electronics,Harmattan,25335.9,0.075,7359.96,466.0,206
+Port Harcourt,Apparel,Festive,33959.69,0.075,14035.05,44.0,5
+Abuja,Groceries,Festive,43014.51,0.075,9469.04,151.0,5
+Lagos,FMCG,Festive,32951.39,0.075,10005.1,198.0,5
+Onitsha,Groceries,Regular,31406.09,0.075,12913.16,414.0,116
+Abuja,FMCG,Festive,55087.89,0.075,5506.8,164.0,5
+Kano,Apparel,Rainy,51597.78,0.075,6282.59,383.0,89
+Lagos,Apparel,Rainy,62578.71,0.075,13730.35,469.0,63
+Port Harcourt,Electronics,Regular,19121.94,0.075,13663.01,217.0,6
+Lagos,FMCG,Rainy,45909.87,0.075,14682.52,476.0,98
+Kano,FMCG,Festive,44097.01,0.075,13674.82,344.0,59
+Onitsha,Electronics,Festive,28045.47,0.075,3219.52,103.0,17
+Onitsha,Electronics,Regular,36711.29,0.075,12620.28,176.0,5
+Onitsha,FMCG,Regular,23876.77,0.075,7032.82,104.0,5
+Port Harcourt,Electronics,Regular,11067.41,0.075,14875.82,476.0,160
+Abuja,Apparel,Festive,16428.19,0.075,7875.79,495.0,313
+Abuja,Groceries,Harmattan,8360.77,0.075,8976.79,272.0,125
+Lagos,Apparel,Regular,51388.68,0.075,8651.96,394.0,100
+Port Harcourt,Electronics,Regular,49724.19,0.075,5843.45,91.0,5
+Onitsha,FMCG,Regular,71320.17,0.075,2512.8,242.0,5
+Onitsha,FMCG,Regular,54861.04,0.075,13591.29,295.0,15
+Kano,Apparel,Festive,4377.41,0.075,12336.12,302.0,157
+Kano,FMCG,Rainy,66376.27,0.075,3383.61,283.0,44
+Onitsha,Electronics,Regular,64769.3,0.075,11986.37,265.0,5
+Onitsha,Apparel,Rainy,33527.36,0.075,9948.93,360.0,95
+Port Harcourt,FMCG,Regular,44146.8,0.075,7023.44,80.0,5
+Abuja,Groceries,Festive,73217.84,0.075,4929.29,431.0,128
+Kano,Groceries,Regular,40156.68,0.075,13106.34,490.0,151
+Abuja,Electronics,Regular,67946.48,0.075,10952.54,473.0,100
+Port Harcourt,FMCG,Regular,6686.39,0.075,8894.49,278.0,123
+Onitsha,Electronics,Rainy,14733.36,0.075,9729.18,472.0,205
+Abuja,Apparel,Rainy,33336.24,0.075,2729.39,476.0,214
+Onitsha,Groceries,Harmattan,44064.38,0.075,7897.92,26.0,5
+Onitsha,Apparel,Regular,61308.97,0.075,4114.95,207.0,5
+Lagos,FMCG,Regular,74125.53,0.075,4313.18,23.0,5
+Abuja,Electronics,Regular,29469.44,0.075,10427.6,250.0,45
+Abuja,Electronics,Rainy,4032.46,0.075,13801.96,152.0,25
+Onitsha,Electronics,Regular,60187.28,0.075,6950.71,414.0,73
+Port Harcourt,Apparel,Rainy,45526.36,0.075,4304.62,144.0,5
+Lagos,Groceries,Festive,15291.44,0.075,10258.08,34.0,5
+Onitsha,Apparel,Festive,37364.72,0.075,13261.03,467.0,175
+Kano,Apparel,Regular,55802.11,0.075,11602.3,32.0,5
+Kano,FMCG,Regular,57895.68,0.075,13228.22,137.0,5
+Lagos,FMCG,Regular,37721.57,0.075,8743.49,259.0,22
+Port Harcourt,FMCG,Rainy,23238.48,0.075,11650.33,282.0,66
+Onitsha,Groceries,Festive,73043.82,0.075,3390.87,379.0,103
+Abuja,Groceries,Regular,49920.51,0.075,6201.71,25.0,5
+Lagos,FMCG,Regular,30913.7,0.075,6758.91,459.0,169
+Port Harcourt,FMCG,Festive,21394.51,0.075,8402.49,339.0,171
+Abuja,Groceries,Festive,54967.17,0.075,14042.53,250.0,5
+Kano,Electronics,Regular,18542.67,0.075,13303.0,453.0,168
+Kano,Groceries,Rainy,13292.39,0.075,3316.09,49.0,5
+Abuja,Groceries,Regular,39972.62,0.075,3832.66,41.0,5
+Lagos,Groceries,Regular,22104.06,0.075,6328.15,428.0,192
+Kano,FMCG,Festive,47353.43,0.075,5425.04,175.0,5
+Onitsha,Electronics,Festive,9286.43,0.075,9799.41,137.0,29
+Abuja,Groceries,Harmattan,49293.11,0.075,13687.48,359.0,35
+Abuja,FMCG,Regular,21605.59,0.075,14490.94,442.0,120
+Kano,Apparel,Festive,518.1,0.075,10323.64,470.0,283
+Lagos,Apparel,Regular,9956.74,0.075,12815.15,408.0,182
+Onitsha,Groceries,Regular,70054.35,0.075,8590.23,212.0,5
+Lagos,Apparel,Rainy,65117.92,0.075,4312.41,418.0,88
+Port Harcourt,Electronics,Regular,17903.87,0.075,8583.29,365.0,145
+Port Harcourt,Apparel,Harmattan,58488.71,0.075,8993.62,214.0,5
+Kano,Apparel,Rainy,45838.58,0.075,11523.18,187.0,5
+Kano,Electronics,Regular,72832.4,0.075,4468.42,396.0,76
+Kano,Groceries,Regular,28333.62,0.075,6472.19,258.0,70
+Port Harcourt,Groceries,Regular,51268.82,0.075,6414.37,381.0,87
+Lagos,Electronics,Regular,5233.41,0.075,14452.43,263.0,78
+Lagos,Electronics,Rainy,30020.43,0.075,7493.26,88.0,5
+Kano,Electronics,Festive,72304.42,0.075,11693.77,114.0,5
+Onitsha,Apparel,Regular,40654.08,0.075,11635.95,96.0,5
+Lagos,Electronics,Regular,21947.02,0.075,5084.85,190.0,47
+Port Harcourt,FMCG,Rainy,9460.19,0.075,9220.24,20.0,5
+Abuja,Apparel,Festive,52912.86,0.075,13573.09,425.0,121
+Abuja,Groceries,Regular,48541.78,0.075,7915.17,81.0,5
+Abuja,Groceries,Regular,28358.43,0.075,14259.09,226.0,5
+Onitsha,Groceries,Rainy,71345.13,0.075,4395.19,173.0,5
+Kano,Apparel,Regular,2154.11,0.075,2501.15,293.0,147
+Port Harcourt,FMCG,Regular,23127.43,0.075,13534.63,67.0,5
+Onitsha,Electronics,Harmattan,69119.68,0.075,12943.7,156.0,5
+Port Harcourt,Electronics,Rainy,24409.69,0.075,14899.96,20.0,5
+Port Harcourt,Groceries,Rainy,19292.84,0.075,10671.81,254.0,60
+Kano,Groceries,Harmattan,40299.42,0.075,14145.29,412.0,91
+Abuja,Apparel,Rainy,61873.23,0.075,12663.81,275.0,5
+Kano,FMCG,Regular,8184.43,0.075,12899.76,426.0,169
+Onitsha,Electronics,Regular,70755.04,0.075,9183.41,126.0,5
+Onitsha,Apparel,Regular,59732.93,0.075,6661.92,192.0,5
+Onitsha,Electronics,Regular,14003.14,0.075,14116.53,149.0,8
+Kano,Groceries,Rainy,53544.59,0.075,7333.58,417.0,89
+Port Harcourt,Electronics,Festive,29179.42,0.075,8774.06,313.0,151
+Port Harcourt,FMCG,Festive,30470.95,0.075,7522.54,59.0,5
+Lagos,FMCG,Rainy,58855.11,0.075,9125.05,466.0,64
+Onitsha,Groceries,Regular,72227.47,0.075,7851.82,357.0,43
+Port Harcourt,FMCG,Regular,9935.86,0.075,2147.56,35.0,5
+Lagos,FMCG,Festive,31836.95,0.075,13407.65,146.0,5
+Port Harcourt,Apparel,Rainy,36330.15,0.075,7499.32,392.0,132
+Onitsha,Electronics,Rainy,28535.23,0.075,9450.74,368.0,98
+Abuja,Groceries,Harmattan,27557.59,0.075,3379.04,222.0,50
+Onitsha,Groceries,Harmattan,4394.02,0.075,1545.74,153.0,77
+Kano,Groceries,Festive,51572.63,0.075,4811.42,278.0,72
+Port Harcourt,Groceries,Regular,32997.97,0.075,11011.91,33.0,5
+Port Harcourt,Groceries,Harmattan,15012.14,0.075,2839.13,85.0,7
+Kano,FMCG,Festive,61294.5,0.075,13769.98,499.0,140
+Kano,Apparel,Regular,60290.78,0.075,4402.8,370.0,96
+Abuja,Groceries,Rainy,36736.18,0.075,4262.01,478.0,174
+Port Harcourt,Apparel,Regular,22734.57,0.075,3950.36,361.0,147
+Port Harcourt,Apparel,Festive,48037.91,0.075,1688.75,214.0,28
+Abuja,FMCG,Regular,21967.33,0.075,11919.37,133.0,5
+Lagos,Groceries,Rainy,18082.59,0.075,13312.97,178.0,5
+Abuja,FMCG,Regular,54923.34,0.075,9791.2,180.0,5
+Onitsha,Groceries,Harmattan,3504.23,0.075,4040.7,273.0,122
+Port Harcourt,FMCG,Regular,7560.25,0.075,5351.25,491.0,263
+Kano,Apparel,Regular,1005.72,0.075,7925.01,404.0,203
+Onitsha,Groceries,Regular,11894.27,0.075,14383.67,447.0,158
+Port Harcourt,Electronics,Festive,5639.76,0.075,4839.24,34.0,5
+Abuja,Apparel,Regular,74687.28,0.075,11377.22,56.0,5
+Onitsha,Electronics,Regular,22016.34,0.075,7432.55,174.0,12
+Port Harcourt,Apparel,Harmattan,11620.47,0.075,5520.94,451.0,185
+Lagos,FMCG,Rainy,18454.22,0.075,7654.87,46.0,5
+Lagos,Groceries,Festive,70241.36,0.075,2461.29,31.0,5
+Kano,Apparel,Regular,39251.94,0.075,12282.28,86.0,5
+Port Harcourt,FMCG,Rainy,27678.95,0.075,4784.58,49.0,5
+Lagos,Groceries,Regular,65567.66,0.075,11293.06,115.0,5
+Abuja,Groceries,Regular,29926.78,0.075,2422.7,234.0,80
+Port Harcourt,Apparel,Rainy,25458.14,0.075,14393.83,213.0,5
+Abuja,Groceries,Rainy,15942.55,0.075,4105.7,154.0,14
+Abuja,Apparel,Harmattan,28645.86,0.075,13417.02,309.0,59
+Lagos,Groceries,Regular,24092.98,0.075,12427.89,51.0,5
+Port Harcourt,Electronics,Regular,50959.14,0.075,14566.11,392.0,79
+Onitsha,FMCG,Regular,22073.91,0.075,7951.52,58.0,5
+Lagos,Electronics,Festive,43501.38,0.075,11319.86,371.0,102
+Lagos,Apparel,Regular,5408.97,0.075,6504.59,446.0,245
+Port Harcourt,Electronics,Regular,14751.04,0.075,3988.97,446.0,235
+Port Harcourt,Apparel,Regular,30851.69,0.075,7481.53,225.0,39
+Abuja,Groceries,Rainy,70302.72,0.075,3737.61,406.0,94
+Port Harcourt,Groceries,Regular,28605.27,0.075,14757.6,449.0,171
+Abuja,Apparel,Festive,49973.52,0.075,2799.33,435.0,197
+Lagos,Electronics,Regular,19504.0,0.075,9454.36,62.0,5
+Kano,Groceries,Festive,9964.0,0.075,9957.26,356.0,192
+Onitsha,FMCG,Regular,4860.98,0.075,8764.07,278.0,93
+Lagos,Groceries,Rainy,23253.31,0.075,10439.51,268.0,64
+Port Harcourt,FMCG,Festive,12245.75,0.075,3068.44,93.0,5
+Onitsha,Electronics,Regular,13463.78,0.075,8992.75,392.0,182
+Kano,FMCG,Festive,57176.57,0.075,5377.37,338.0,76
+Kano,FMCG,Regular,1679.94,0.075,14192.38,386.0,177
+Abuja,FMCG,Festive,42056.85,0.075,11787.97,315.0,25
+Onitsha,FMCG,Rainy,28769.87,0.075,14628.95,293.0,34
+Abuja,Groceries,Regular,38237.97,0.075,2007.01,342.0,99
+Lagos,FMCG,Regular,42430.85,0.075,5349.3,378.0,135
+Onitsha,Groceries,Regular,23845.89,0.075,4138.2,209.0,82
+Lagos,FMCG,Regular,22485.61,0.075,1650.59,157.0,5
+Abuja,Apparel,Regular,55138.44,0.075,4771.4,455.0,151
+Onitsha,Electronics,Regular,65410.14,0.075,10663.48,476.0,117
+Abuja,FMCG,Regular,14847.33,0.075,4619.7,321.0,144
+Onitsha,Apparel,Harmattan,7772.6,0.075,8371.55,330.0,142
+Abuja,FMCG,Regular,67385.79,0.075,13485.54,449.0,74
+Kano,FMCG,Regular,26567.21,0.075,10865.73,350.0,115
+Abuja,FMCG,Rainy,41573.15,0.075,6827.49,463.0,128
+Kano,Apparel,Regular,27285.96,0.075,6528.33,372.0,153
+Abuja,Electronics,Regular,9872.27,0.075,7652.43,301.0,125
+Onitsha,Apparel,Regular,44405.21,0.075,3890.06,430.0,151
