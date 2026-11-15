@@ -1,0 +1,18 @@
+feature,importance_score
+num__historical_sales_lag,0.6766629983167862
+num__price_ngn,0.21395854003938675
+cat__season_Festive,0.04934318673395496
+num__fuel_transport_cost_ngn,0.048226433962789035
+cat__season_Rainy,0.0013900434206881571
+cat__season_Regular,0.0011414607014220669
+cat__category_Electronics,0.0011326851658312908
+cat__location_Port Harcourt,0.0010342961804710139
+cat__location_Abuja,0.0010209185144289374
+cat__location_Kano,0.0010089827996122376
+cat__category_FMCG,0.000981917674078937
+cat__location_Onitsha,0.0009685702713799886
+cat__category_Apparel,0.0009470338284327775
+cat__category_Groceries,0.000941189857576037
+cat__location_Lagos,0.0008516028133324948
+cat__season_Harmattan,0.0003901397198290181
+num__vat_rate,0.0
