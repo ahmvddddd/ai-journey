@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 70 completed; Phase 2 Completed
-* **Current Phase:** Phase 01 — Machine Learning
+* **Current Day:** Day 71 completed; Day 72 ready
+* **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Phase 2 Machine Learning Comprehensive Assessment & Capstone
+* **Primary Focus:** Artificial Neurons & Perceptron Fundamentals
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 70 execution notes under `progress/daily/day-070.md`.
-2. Prepare for Phase 3 (PyTorch & Deep Learning foundations).
+1. Archive Day 71 execution notes under `progress/daily/day-071.md`.
+2. Prepare for Day 72: Layers.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -83,12 +83,13 @@
 | 68 | Retail Demand Predictor Evaluation & Confidence Intervals | Completed | [Day 68 Progress Log](../progress/daily/day-068.md) | 
 | 69 | Retail Demand Predictor Model Explainability | Completed | [Day 69 Progress Log](../progress/daily/day-069.md) | 
 | 70 | Phase 2 Examination & Capstone Coding Challenge | Completed | [Day 70 Progress Log](../progress/daily/day-070.md) | 
+| 71 | Artificial Neurons & Perceptron Fundamentals | Completed | [Day 71 Progress Log](../progress/daily/day-071.md) | 
 
 ## Milestones
 
 * [x] Day 7 — Baseline assessment
 * [x] Day 35 — Python/Data assessment
-* [ ] Day 70 — Machine Learning assessment
+* [x] Day 70 — Machine Learning assessment
 * [ ] Day 105 — PyTorch assessment
 * [ ] Day 147 — RAG assessment
 * [ ] Day 182 — AI Engineering assessment
