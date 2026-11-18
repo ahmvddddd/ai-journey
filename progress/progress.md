@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 75 completed; Day 76 ready
+* **Current Day:** Day 76 completed; Day 77 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Gradient Descent & Optimization Mechanics
+* **Primary Focus:** Backpropagation & Chain Rule Mechanics
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 75 execution notes under `progress/daily/day-075.md`.
-2. Prepare for Day 76: Backpropagation.
+1. Archive Day 76 execution notes under `progress/daily/day-076.md`.
+2. Prepare for Day 77: Review/Test.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -87,7 +87,8 @@
 | 72 | Neural Network Layers & Dense Layer Implementation | Completed | [Day 72 Progress Log](../progress/daily/day-072.md) | 
 | 73 | Activation Functions & Non-Linearity | Completed | [Day 73 Progress Log](../progress/daily/day-073.md) | 
 | 74 | Loss Functions & Optimization Objectives | Completed | [Day 74 Progress Log](../progress/daily/day-074.md) | 
-| 75 | Gradient Descent & Optimization Mechanics | Completed | [Day 75 Progress Log](../progress/daily/day-075.md) |
+| 75 | Gradient Descent & Optimization Mechanics | Completed | [Day 75 Progress Log](../progress/daily/day-075.md) | 
+| 76 | Backpropagation & Chain Rule Calculus | Completed | [Day 76 Progress Log](../progress/daily/day-076.md) |
 
 ## Milestones
 
