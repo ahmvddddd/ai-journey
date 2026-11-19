@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 76 completed; Day 77 ready
+* **Current Day:** Day 78 completed; Day 79 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Backpropagation & Chain Rule Mechanics
+* **Primary Focus:** PyTorch Tensors, Broadcasting & Device Interoperability
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 76 execution notes under `progress/daily/day-076.md`.
-2. Prepare for Day 77: Review/Test.
+1. Archive Day 78 execution notes under `progress/daily/day-078.md`.
+2. Prepare for Day 79: Pytorch Datasets.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -88,7 +88,8 @@
 | 73 | Activation Functions & Non-Linearity | Completed | [Day 73 Progress Log](../progress/daily/day-073.md) | 
 | 74 | Loss Functions & Optimization Objectives | Completed | [Day 74 Progress Log](../progress/daily/day-074.md) | 
 | 75 | Gradient Descent & Optimization Mechanics | Completed | [Day 75 Progress Log](../progress/daily/day-075.md) | 
-| 76 | Backpropagation & Chain Rule Calculus | Completed | [Day 76 Progress Log](../progress/daily/day-076.md) |
+| 76 | Backpropagation & Chain Rule Calculus | Completed | [Day 76 Progress Log](../progress/daily/day-076.md) | 
+| 78 | PyTorch Tensors, Broadcasting & Device Interoperability | Completed | [Day 78 Progress Log](../progress/daily/day-078.md) |
 
 ## Milestones
 
