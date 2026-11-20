@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 79 completed; Day 80 ready
+* **Current Day:** Day 80 completed; Day 81 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** PyTorch Datasets & Custom Tabular Data Abstractions
+* **Primary Focus:** PyTorch DataLoaders & Mini-Batch Iteration
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 79 execution notes under `progress/daily/day-079.md`.
-2. Prepare for Day 80: PyTorch DataLoaders & Mini-Batch Iteration.
+1. Archive Day 80 execution notes under `progress/daily/day-080.md`.
+2. Prepare for Day 81: Neural Networks.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -90,7 +90,8 @@
 | 75 | Gradient Descent & Optimization Mechanics | Completed | [Day 75 Progress Log](../progress/daily/day-075.md) | 
 | 76 | Backpropagation & Chain Rule Calculus | Completed | [Day 76 Progress Log](../progress/daily/day-076.md) | 
 | 78 | PyTorch Tensors, Broadcasting & Device Interoperability | Completed | [Day 78 Progress Log](../progress/daily/day-078.md) | 
-| 79 | PyTorch Datasets & Custom Tabular Data Abstractions | Completed | [Day 79 Progress Log](../progress/daily/day-079.md) |
+| 79 | PyTorch Datasets & Custom Tabular Data Abstractions | Completed | [Day 79 Progress Log](../progress/daily/day-079.md) | 
+| 80 | PyTorch DataLoaders & Mini-Batch Iteration | Completed | [Day 80 Progress Log](../progress/daily/day-080.md) |
 
 ## Milestones
 
