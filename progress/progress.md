@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 82 completed; Day 83 ready
+* **Current Day:** Day 83 completed; Day 84 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:**  PyTorch Autograd & Automatic Differentiation
+* **Primary Focus:**  Optimization Mechanics, VJPs & Gradient Hygiene
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 82 execution notes under `progress/daily/day-082.md`.
-2. Prepare for Day 83: PyTorch Training Loops & Optimizers.
+1. Archive Day 83 execution notes under `progress/daily/day-083.md`.
+2. Prepare for Day 84: Weekly Review & Rest.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -93,7 +93,8 @@
 | 79 | PyTorch Datasets & Custom Tabular Data Abstractions | Completed | [Day 79 Progress Log](../progress/daily/day-079.md) | 
 | 80 | PyTorch DataLoaders & Mini-Batch Iteration | Completed | [Day 80 Progress Log](../progress/daily/day-080.md) | 
 | 81 | PyTorch Neural Networks (`nn.Module`) & Forward Pass Architecture | Completed | [Day 81 Progress Log](../progress/daily/day-081.md) | 
-| 82 | PyTorch Autograd & Automatic Differentiation | Completed | [Day 82 Progress Log](../progress/daily/day-082.md) |
+| 82 | PyTorch Autograd & Automatic Differentiation | Completed | [Day 82 Progress Log](../progress/daily/day-082.md) | 
+| 83 | Optimization Mechanics, VJPs & Gradient Hygiene | Completed | [Day 83 Progress Log](../progress/daily/day-083.md) |
 
 ## Milestones
 
