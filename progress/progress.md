@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 83 completed; Day 84 ready
+* **Current Day:** Day 85 completed; Day 86 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:**  Optimization Mechanics, VJPs & Gradient Hygiene
+* **Primary Focus:**  Retail Demand Dataset Pipeline & Pre-Training Data Hygiene
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 83 execution notes under `progress/daily/day-083.md`.
-2. Prepare for Day 84: Weekly Review & Rest.
+1. Archive Day 85 execution notes under `progress/daily/day-085.md`.
+2. Prepare for Day 86: PyTorch Model Architecture & Loss Function Setup for Retail Demand Forecasting.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -94,7 +94,8 @@
 | 80 | PyTorch DataLoaders & Mini-Batch Iteration | Completed | [Day 80 Progress Log](../progress/daily/day-080.md) | 
 | 81 | PyTorch Neural Networks (`nn.Module`) & Forward Pass Architecture | Completed | [Day 81 Progress Log](../progress/daily/day-081.md) | 
 | 82 | PyTorch Autograd & Automatic Differentiation | Completed | [Day 82 Progress Log](../progress/daily/day-082.md) | 
-| 83 | Optimization Mechanics, VJPs & Gradient Hygiene | Completed | [Day 83 Progress Log](../progress/daily/day-083.md) |
+| 83 | Optimization Mechanics, VJPs & Gradient Hygiene | Completed | [Day 83 Progress Log](../progress/daily/day-083.md) | 
+| 85 | Retail Demand Dataset Pipeline & Pre-Training Data Hygiene | Completed | [Day 85 Progress Log](../progress/daily/day-085.md) |
 
 ## Milestones
 
