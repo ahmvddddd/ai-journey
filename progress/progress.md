@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 85 completed; Day 86 ready
+* **Current Day:** Day 86 completed; Day 87 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:**  Retail Demand Dataset Pipeline & Pre-Training Data Hygiene
+* **Primary Focus:**  Tabular MLP Architecture & Regularization
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 85 execution notes under `progress/daily/day-085.md`.
-2. Prepare for Day 86: PyTorch Model Architecture & Loss Function Setup for Retail Demand Forecasting.
+1. Archive Day 86 execution notes under `progress/daily/day-086.md`.
+2. Prepare for Day 87: End-to-End PyTorch Training & Evaluation Loop.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -95,7 +95,8 @@
 | 81 | PyTorch Neural Networks (`nn.Module`) & Forward Pass Architecture | Completed | [Day 81 Progress Log](../progress/daily/day-081.md) | 
 | 82 | PyTorch Autograd & Automatic Differentiation | Completed | [Day 82 Progress Log](../progress/daily/day-082.md) | 
 | 83 | Optimization Mechanics, VJPs & Gradient Hygiene | Completed | [Day 83 Progress Log](../progress/daily/day-083.md) | 
-| 85 | Retail Demand Dataset Pipeline & Pre-Training Data Hygiene | Completed | [Day 85 Progress Log](../progress/daily/day-085.md) |
+| 85 | Retail Demand Dataset Pipeline & Pre-Training Data Hygiene | Completed | [Day 85 Progress Log](../progress/daily/day-085.md) | 
+| 86 | Tabular MLP Architecture & Regularization Design | Completed | [Day 86 Progress Log](../progress/daily/day-086.md) |
 
 ## Milestones
 
