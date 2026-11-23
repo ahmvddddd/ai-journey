@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 86 completed; Day 87 ready
+* **Current Day:** Day 87 completed; Day 88 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:**  Tabular MLP Architecture & Regularization
+* **Primary Focus:**  End-to-End PyTorch Training & Mini-Batch Optimization
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 86 execution notes under `progress/daily/day-086.md`.
-2. Prepare for Day 87: End-to-End PyTorch Training & Evaluation Loop.
+1. Archive Day 87 execution notes under `progress/daily/day-087.md`.
+2. Prepare for Day 88: Model Evaluation, Validation Metrics & Out-of-Sample Testing.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -97,6 +97,7 @@
 | 83 | Optimization Mechanics, VJPs & Gradient Hygiene | Completed | [Day 83 Progress Log](../progress/daily/day-083.md) | 
 | 85 | Retail Demand Dataset Pipeline & Pre-Training Data Hygiene | Completed | [Day 85 Progress Log](../progress/daily/day-085.md) | 
 | 86 | Tabular MLP Architecture & Regularization Design | Completed | [Day 86 Progress Log](../progress/daily/day-086.md) |
+| 87 | End-to-End PyTorch Training Loop & Sample-Weighted Metrics | Completed | [Day 87 Progress Log](../progress/daily/day-087.md) |
 
 ## Milestones
 
