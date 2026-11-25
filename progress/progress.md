@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 89 completed; Day 90 ready
+* **Current Day:** Day 90 completed; Day 91 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Neural Network Debugging, Tensor Health & Single-Batch Sanity
+* **Primary Focus:** Regression Diagnostic Visualization, Learning Curves & Residual Analysis
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 89 execution notes under `progress/daily/day-089.md`.
-2. Prepare for Day 90: Visualization
+1. Archive Day 90 execution notes under `progress/daily/day-090.md`.
+2. Prepare for Day 91: Weekly Review & Rest (Week 13 Reflection Report)
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -99,6 +99,7 @@
 | 86 | Tabular MLP Architecture & Regularization Design | Completed | [Day 86 Progress Log](../progress/daily/day-086.md) |
 | 88 | Held-Out Validation Loop, Regression Metrics & Checkpointing | Completed | [Day 88 Progress Log](../progress/daily/day-088.md) |
 | 89 | Neural Network Debugging, Tensor Health & Single-Batch Overfit Checks | Completed | [Day 89 Progress Log](../progress/daily/day-089.md) |
+| 90 | Regression Diagnostic Visualization, Learning Curves & Residual Analysis | Completed | [Day 90 Progress Log](../progress/daily/day-090.md) |
 
 ## Milestones
 
