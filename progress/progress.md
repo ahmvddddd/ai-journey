@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 94 completed; Day 95 ready
+* **Current Day:** Day 95 completed; Day 96 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Pooling Layers (`nn.MaxPool2d`, `nn.AvgPool2d`, `nn.AdaptiveAvgPool2d`) & Spatial Downsampling
+* **Primary Focus:** Modular CNN Architecture (`SimpleCNN`), Spatial-to-Channel Scaling & Logits Classification Heads
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 94 execution notes under `progress/daily/day-094.md`.
-2. Prepare for Day 95: End-to-End CNN Architecture & Forward Pass Verification.
+1. Archive Day 95 execution notes under `progress/daily/day-095.md`.
+2. Prepare for Day 96: End-to-End CNN Training & Evaluation on Image Classification Datasets.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -103,7 +103,8 @@
 | 91 | Rest & Reflection | Completed | [Week 13 Report](../progress/weekly-reviews/week-13.md) |
 | 92 | Digital Image Representation, `NCHW` Layouts & Channel Normalization | Completed | [Day 92 Progress Log](../progress/daily/day-092.md) |
 | 93 | 2D Convolution (`nn.Conv2d`), Kernels, Stride & Padding Mechanics | Completed | [Day 93 Progress Log](../progress/daily/day-093.md) |
-| 94 | Spatial Pooling Layers (`nn.MaxPool2d`, `nn.AvgPool2d`, `nn.AdaptiveAvgPool2d`) | Completed | [Day 94 Progress Log](../progress/daily/day-094.md) |
+| 94 | Spatial Pooling Layers (`nn.MaxPool2d`, `nn.AvgPool2d`, `nn.AdaptiveAvgPool2d`) | Completed | [Day 94 Progress Log](../progress/daily/day-094.md) | 
+| 95 | Modular CNN Architecture (`SimpleCNN`), Channel Scaling & Logits Classifier Head | Completed | [Day 95 Progress Log](../progress/daily/day-095.md) |
 
 ## Milestones
 
