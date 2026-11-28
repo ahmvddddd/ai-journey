@@ -2,17 +2,17 @@
 
 ## Current Status
 
-* **Current Day:** Day 95 completed; Day 96 ready
+* **Current Day:** Day 96 completed; Day 97 ready
 * **Current Phase:** Phase 02 — Deep Learning
 * **Overall Status:** On Track
-* **Primary Focus:** Modular CNN Architecture (`SimpleCNN`), Spatial-to-Channel Scaling & Logits Classification Heads
+* **Primary Focus:** End-to-End CNN Image Classification, `nn.CrossEntropyLoss` & Classification Metrics
 * **Weekly Target:** 17 focused hours
 * **Current Repository:** `ai-journey`
 
 ## Current Priorities
 
-1. Archive Day 95 execution notes under `progress/daily/day-095.md`.
-2. Prepare for Day 96: End-to-End CNN Training & Evaluation on Image Classification Datasets.
+1. Archive Day 96 execution notes under `progress/daily/day-096.md`.
+2. Prepare for Day 97: Data Augmentation, Regularization & Generalization in CNNs.
 3. Maintain clean daily progress logs under `progress/daily/`.
 
 ## Daily Progress
@@ -104,7 +104,8 @@
 | 92 | Digital Image Representation, `NCHW` Layouts & Channel Normalization | Completed | [Day 92 Progress Log](../progress/daily/day-092.md) |
 | 93 | 2D Convolution (`nn.Conv2d`), Kernels, Stride & Padding Mechanics | Completed | [Day 93 Progress Log](../progress/daily/day-093.md) |
 | 94 | Spatial Pooling Layers (`nn.MaxPool2d`, `nn.AvgPool2d`, `nn.AdaptiveAvgPool2d`) | Completed | [Day 94 Progress Log](../progress/daily/day-094.md) | 
-| 95 | Modular CNN Architecture (`SimpleCNN`), Channel Scaling & Logits Classifier Head | Completed | [Day 95 Progress Log](../progress/daily/day-095.md) |
+| 95 | Modular CNN Architecture (`SimpleCNN`), Channel Scaling & Logits Classifier Head | Completed | [Day 95 Progress Log](../progress/daily/day-095.md) | 
+| 96 | Multi-Class CNN Image Classifier, `nn.CrossEntropyLoss` & Accuracy Metrics | Completed | [Day 96 Progress Log](../progress/daily/day-096.md) |
 
 ## Milestones
 
